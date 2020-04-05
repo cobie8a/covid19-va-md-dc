@@ -1,31 +1,30 @@
-Allegany,3
-Anne Arundel,289,   (6)
-Baltimore City,343,   (6)
-Baltimore County,491,   (4)
-Calvert,33,     (1)
+Allegany,6
+Anne Arundel,319,   (6)
+Baltimore City,394,   (7)
+Baltimore County,590,   (6)
+Calvert,39,     (1)
 Caroline,4
-Carroll,134,   (6)
-Cecil,33,      (1)
-Charles,95,      (1)
+Carroll,142,   (8)
+Cecil,36,      (1)
+Charles,111,    (2)
 Dorchester,1
-Frederick,73,      (2)
+Frederick,112,    (3)
 Garrett,3
-Harford,44
-Howard,180,    (3)
+Harford,52
+Howard,199,    (3)
 Kent,5
-Montgomery,640,    (9)
-Prince George's,653,    (13)
+Montgomery,693,    (13)
+Prince George's,785,    (16)
 Queen Anne's,13
-St. Mary's,34
+St. Mary's,40
 Somerset,4
-Talbot,6
-Washington,29
-Wicomico,8,        (1)
-Worcester,7
+Talbot,7
+Washington,34
+Wicomico,11,      (1)
+Worcester,9
 
-
-Number of Confirmed Cases: 3125
-Number of negative test results: 22,485
-Number of Deaths: 53
-Hospitalizations: 821 ever hospitalized
+Number of Confirmed Cases: 3609
+Number of negative test results: 24,728
+Number of Deaths: 67
+Hospitalizations: 936 ever hospitalized
 Released From Isolation: 159
