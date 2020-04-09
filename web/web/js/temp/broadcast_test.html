@@ -1,0 +1,76 @@
+<html>
+    <head>
+        <title>broadcast test - for inclusion as a panel within a DOM element</title>
+
+        <script type="text/javascript" src="../ngaviewer.js"></script>
+        <script type="text/javascript" src="../frmwk/logger.js"></script>
+        <script type="text/javascript" src="controller.js"></script>
+        <script type="text/javascript" src="broadcast.js"></script>
+
+        <style>html, body {margin: 0; padding: 0; bottom: 0}</style>
+    </head>
+    <body>
+        <div id="mainFrame" style="background-color: orange;">
+            <script>
+                viewer.frmwk.Broadcast.getMessage(function(msg){ document.getElementById('mainframe_txtbox').value=msg.data }, null);
+            </script>
+            <table style="width: 100%" align="center">
+                <tr>
+                    <td width="20%">
+                        <button type="button" onclick="">(0) zoom in</button> <br>
+                        <button type="button" onclick="">(0) zoom out</button> <br>
+                        <button type="button" onclick="">(0) zoom to(10)</button> <br>
+                        <button type="button" onclick="">(0) get Zoom Level</button> <br>
+                    </td>
+                    <td>
+                        <form>
+                            <input id="mainframe_txtbox" type="text" value="" disabled="true"/>
+                        </form>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <br>
+        <div id="widget1" style="background-color: yellow;">
+            <script>
+                //TODO
+            </script>
+            <table style="width: 100%" align="center">
+                <tr>
+                    <td width="20%">
+                        <button type="button" onclick="viewer.frmwk.Broadcast.postMessage('1 zoomIn', 'mainFrame', frames)">(1) zoom in</button> <br>
+                        <button type="button" onclick="">(1) zoom out</button> <br>
+                        <button type="button" onclick="">(1) zoom to(10)</button> <br>
+                        <button type="button" onclick="">(1) get Zoom Level</button> <br>
+                    </td>
+                    <td>
+                        <form>
+                            <input id="widget1_txtbox" type="text" value="" disabled="true"/>
+                        </form>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <br>
+        <div id="widget2" style="background-color: #adff2f;">
+            <script>
+                //TODO
+            </script>
+            <table style="width: 100%" align="center">
+                <tr>
+                    <td width="20%">
+                        <button type="button" onclick="">(2) zoom in</button> <br>
+                        <button type="button" onclick="">(2) zoom out</button> <br>
+                        <button type="button" onclick="">(2) zoom to(10)</button> <br>
+                        <button type="button" onclick="">(2) get Zoom Level</button> <br>
+                    </td>
+                    <td>
+                        <form>
+                            <input id="widget2_txtbox" type="text" value="" disabled="true"/>
+                        </form>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </body>
+</html>
