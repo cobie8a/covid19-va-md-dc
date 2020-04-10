@@ -13,7 +13,7 @@
 core.ns('viewer.frmwk');
 
 viewer.frmwk.Broadcast = ( function(){
-    var log = viewer.frmwk.Logger.set('Broadcast');
+    var log = frmwk.Logger.set('Broadcast');
     var _POST_STR = 'postMessage',
         _ADD_EVT_LISTENER_STR = 'addEventListener',
         _REM_EVT_LISTENER_STR = 'removeEventListener',

@@ -17,7 +17,7 @@
 core.ns('viewer.impl');
 
 viewer.impl.OLFacade = ( function(){
-    var log = viewer.frmwk.Logger.set('OLFacade');
+    var log = frmwk.Logger.set('OLFacade');
     var OLEvents = core.createClass({
         constructor: function() {}
     });
@@ -28,7 +28,7 @@ viewer.impl.OLFacade = ( function(){
 
 //TODO - this needs to be a singleton
 viewer.impl.OLFacadeDispatcher = ( function(){
-    var log = viewer.frmwk.Logger.set('OLFacadeDispatcher');
+    var log = frmwk.Logger.set('OLFacadeDispatcher');
     var Dispatcher = core.createClass({
         dispatchControl: viewer.frmwk.Controller,    //pass in a new controller obj
         evtObj: viewer.api.evt.Zoom,

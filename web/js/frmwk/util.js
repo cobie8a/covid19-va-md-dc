@@ -8,7 +8,7 @@ core.ns('viewer.api');
 
 viewer.api.Util = ( function(){
     var Util = core.createClass({
-        log: viewer.frmwk.Logger.set('Util'),
+        log: frmwk.Logger.set('Util'),
         constructor: function() {},
         createJSON: function(name, value) {
             return '{ ' + name + ' : ' + value + ' }';

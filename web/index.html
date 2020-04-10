@@ -3,18 +3,19 @@
         <title>core API framework driver</title>
 
         <link rel="stylesheet" href="frameworks/leaflet/leaflet.css"/>
-        <script type="text/javascript" src="frameworks/leaflet/leaflet-src.js"></script>
-        <script type="text/javascript" src="js/init/map.js"></script>
+<!--        <script type="text/javascript" src="frameworks/leaflet/leaflet-src.js"></script>
+        <script type="text/javascript" src="js/init/map.js"></script> -->
 
         <script type="text/javascript" src="js/core.js"></script>
+        <script type="text/javascript">globals.setArgs({jsLocation: 'js'});</script>
 
         <style>
             html, body {margin: 0; padding: 0; bottom: 0}
             #map {position: relative; width: 100%; height: 100%;}
-            #testDiv {position: absolute; width: 100%; height: 25%; bottom: 0px; background-color: black; opacity: 0.8; z-index: 1000; color: white; overflow: auto;}
+            #testDiv {border-radius: 10px; position: absolute; width: 100%; height: 25%; bottom: 0px; background-color: black; opacity: 0.8; z-index: 1000; color: white; overflow: auto; margin: auto;}
         </style>
     </head>
-    <body onload="initMap(); viewer.globals.coreViewer.setArgs({jsLocation: 'js', mapObj: map});">
+    <body onload="frmwk.MapAPI.startMap(); frmwk.MapAPI.loadData();">
         <div id="map"></div>
         <div id="testDiv">
             Test Panel

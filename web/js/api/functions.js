@@ -5,12 +5,12 @@
  * functions.js contains all functions
  */
 
-core.ns('viewer.api.func');
+core.ns('program.func');
 
-viewer.api.func.Zoom = ( function() {
+program.func.Zoom = ( function() {
     var ZoomFunc = core.createClass({
-        log: viewer.frmwk.Logger.set('func.Zoom'),
-        mapApiObj: viewer.impl.MapAPI.getObj(),
+        log: frmwk.Logger.set('func.Zoom'),
+        mapApiObj: frmwk.MapAPI.getMapObj(),
         currentZoom: 0,
 
         constructor: function() {},
@@ -35,11 +35,11 @@ viewer.api.func.Zoom = ( function() {
     return new ZoomFunc();
 } )();
 
-viewer.api.func.Point = ( function() {
+program.func.Point = ( function() {
     var PointFunc = core.createClass({
-        log: viewer.frmwk.Logger.set('func.Point'),
+        log: frmwk.Logger.set('func.Point'),
         util: viewer.api.Util,
-        mapApiObj: viewer.impl.MapAPI.getObj(),     //do not return map object = getMapObject(),
+        mapApiObj: frmwk.MapAPI.getMapObj(),     //do not return map object = getMapObject(),
 
         constructor: function() {},
         setCenterPoint: function(latitude, longitude) {     //it seems the number is getting truncated either way
@@ -59,11 +59,11 @@ viewer.api.func.Point = ( function() {
     return new PointFunc();
 } )();
 
-viewer.api.func.OverlayOpacity = ( function() {
+program.func.OverlayOpacity = ( function() {
     var OverlayOpacityFunc = core.createClass({
-        log: viewer.frmwk.Logger.set('func.OverlayOpacity'),
+        log: frmwk.Logger.set('func.OverlayOpacity'),
         util: viewer.api.Util,
-        mapApiObj: viewer.impl.MapAPI.getObj(),
+        mapApiObj: frmwk.MapAPI.getMapObj(),
 
         constructor: function() {},
         setOverlayOpacity: function(opacity, layerName) {
@@ -94,11 +94,11 @@ viewer.api.func.OverlayOpacity = ( function() {
     return new OverlayOpacityFunc();
 } )();
 
-viewer.api.func.Add =( function() {
+program.func.Add =( function() {
     var AddFunc = core.createClass({
-        log: viewer.frmwk.Logger.set('func.OverlayOpacity'),
+        log: frmwk.Logger.set('func.OverlayOpacity'),
         util: viewer.api.Util,
-        mapApiObj: viewer.impl.MapAPI.getObj(),
+        mapApiObj: frmwk.MapAPI.getMapObj(),
         transformedPoints: undefined,
 
         constructor: function() {},
@@ -170,7 +170,7 @@ viewer.api.func.Add =( function() {
 /**
  * these are window dependent (based on Ext or widgeting framework chosen to be implemented)
  */
-viewer.api.func.TimeSlider = ( function() {
+program.func.TimeSlider = ( function() {
     var TimeSliderFunc = core.createClass({
         timeSliderEl: undefined,
 
@@ -186,7 +186,7 @@ viewer.api.func.TimeSlider = ( function() {
     return new TimeSliderFunc();
 } )();
 
-viewer.api.func.LayerController = ( function() {
+program.func.LayerController = ( function() {
     var LayerControllerFunc = core.createClass({
         layerControllerEl: undefined,
 

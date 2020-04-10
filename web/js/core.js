@@ -166,47 +166,42 @@ Function.prototype.inherit = function(parentClass) {
  * 2.  should be loaded on body or div load
  * 3.  this class is a singleton
  */
-core.namespace('viewer.globals');
-viewer.globals.coreViewer = ( function() {
+core.namespace('globals');
+globals = ( function() {
     var ViewerAttribs = core.createClass({
         jsLocation      :       '',
-        mapObj          :       undefined,
-        mapObjType      :       undefined,
 
         constructor: function() {},
-    //NOTE - ALL javascript classes, other than the facade implementations, should be loaded here!
-        _init: function() {
-            core.loadJS(this.getJSLocation() + 'frmwk/logger.js');                       //load Logger class
-            core.loadJS(this.getJSLocation() + 'frmwk/util.js');                         //load all consts, enums
-            core.loadJS(this.getJSLocation() + 'frmwk/mapApi.js');                       //load map api
+        //NOTE - ALL javascript classes, other than the facade implementations, should be loaded here!
+        _loadCoreLib: function() {
+            core.loadJS(this.getCoreJSLocation() + 'frmwk/logger.js');                       //load Logger class
+            core.loadJS(this.getCoreJSLocation() + 'frmwk/util.js');                         //load all consts, enums
+            core.loadJS(this.getCoreJSLocation() + 'frmwk/mapApi.js');                       //load map api
         },
         _resumeMapApiLoad: function() {
-            /**
-             * @deprecated - should now call map api from within callers and initiate through api global
-             core.loadJS(this.getJSLocation() + 'frmwk/mapApi.js', function() {
-             viewer.impl.MapAPI.init();
-             });     //load MapAPI class
-             */
-            /**
-             * once all the MapAPI classes have been loaded (including the appropriate facades,
-             * then load the APIs dependent on MapAPI...
-             */
-            core.loadJS(this.getJSLocation() + 'api/functions.js');
-            core.loadJS(this.getJSLocation() + 'api/events.js');
+            core.loadJS(this.getCoreJSLocation() + 'api/functions.js');
+            core.loadJS(this.getCoreJSLocation() + 'api/events.js');
         },
-    //NOTE - primary access to the framework.  pass in properties [jsLocation, mapObj]
+        //NOTE - primary access to the framework.  pass in properties [jsLocation, mapObj]
         setArgs: function() {
             if(arguments.length > 0) {
                 var args = arguments[0];                                //only really interested in 1st vals
 
                 this.setJSLocation(args.jsLocation);
-                this.mapObj = args.mapObj;
-                this.mapObjType = mapType || 'undefined map type';
+//                this.mapObj = args.mapObj;
+//                this.mapObjType = mapType || 'undefined map type';
 
-                this._init();                                           //initialize all JS files
+                this._loadCoreLib();                                           //initialize all JS files
             }
         },
-        getJSLocation: function() {
+        jsLoad: function(isCoreLib, path, callback){
+            if(isCoreLib) {
+                core.loadJS(this.getCoreJSLocation() + path, callback)
+            } else {
+                core.loadJS(path, callback);
+            }
+        },
+        getCoreJSLocation: function() {
             return this.jsLocation;
         },
         setJSLocation: function(path) {
@@ -216,13 +211,7 @@ viewer.globals.coreViewer = ( function() {
             if(locTemp.lastIndexOf('/') != locTemp.length)   locTemp += '/';
 
             this.jsLocation = locTemp;
-            this._init();
-        },
-        getGlobalMapObj: function() {
-            return this.mapObj;
-        },
-        getGlobalMapObjType: function() {
-            return this.mapObjType;
+            this._loadCoreLib();
         }
     });
     var instance = new ViewerAttribs();

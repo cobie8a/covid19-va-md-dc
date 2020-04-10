@@ -11,64 +11,90 @@
  * note:  We will not be supporting deprecated mapping APIs (ie - GMaps v2) unless absolutely necessary
  */
 
-core.namespace('viewer.impl');
+core.namespace('frmwk');
 
-viewer.impl.MapAPI = ( function() {
+frmwk.MapAPI = ( function() {
     /**
      * basically, return a facade based off conditionals
      * from another class (see above)
      */
 
-    var log = viewer.frmwk.Logger.set('MapAPI');
+    var log = frmwk.Logger.set('MapAPI');
 
     var Proto = new core.createClass({
-        log: viewer.frmwk.Logger.set('MapAPI.Proto'),
+        log: frmwk.Logger.set('MapAPI.Proto'),
         _mapObj: undefined,
         _mapObjType: undefined,
 
         constructor: function() {
-            this._mapObj = viewer.globals.coreViewer.getGlobalMapObj();
-            this._mapObjType = viewer.globals.coreViewer.getGlobalMapObjType();
             this.log('constructor');
-        },
-        getMapType: function() {
-            this.log('getMapType');
-            var path = undefined;
-            var type = undefined;
 
+            this.log('loading map initializer');
+            globals.jsLoad(true, 'init/map.js');
+            globals.jsLoad(true, 'init/dataLoader.js');
+        },
+        _init: function() {
+            this.log('_init');
+            var mapInstance = init.Map.getInstance();
+            var path = undefined;
+
+            //initialize actual map, and set objects
+            mapInstance.initMap();
+            this._mapObj = mapInstance.getMapObj();
+            this._mapObjType = mapInstance.getMapObjType();
+
+            //then load facades
             if(undefined!=this._mapObj && this._mapObj.CLASS_NAME=='OpenLayers.Map') {
-                path = viewer.globals.coreViewer.getJSLocation() + 'impl/olFacade.js';
-                type = viewer.api.StringConstants._OPENLAYERS;
+                path = 'impl/olFacade.js';
             } else if(this._mapObjType==viewer.api.StringConstants._LEAFLET){
-                path = viewer.globals.coreViewer.getJSLocation() + 'impl/leafletFacade.js';
-                type = viewer.api.StringConstants._LEAFLET;
+                path = 'impl/leafletFacade.js';
             }
 
             //once mapping library is identified, load the associated facade
             if(undefined!=path) {
                 this.log('loading map facade - ' + path);
-                core.loadJS(path, function () {
+                globals.jsLoad(true, path, function () {
                     resumeLoadJS();
                 });
             }
-
-            return type;
+        },
+        _loadData: function() {
+            this.log('loading data');
+            //TODO
+        },
+        getMapType: function() {
+            this.log('getMapType');
+            return this._mapObjType;
+        },
+        getMapObj: function() {
+            this.log('getMapObj');
+            return this._mapObj;
+        },
+        getMapObjType: function() {
+            this.log('getMapObjType');
+            return this._mapObjType;
         }
     });
 
-    var mapType =  new Proto().getMapType();
+    var mapProto =  new Proto();
     var mapFacade = 'uninitialized object';
 
     function resumeLoadJS() {
-        switch(mapType) {
+        switch(mapProto.getMapType()) {
             case    viewer.api.StringConstants._OPENLAYERS  :       mapFacade = viewer.impl.OLFacade;   break;
+            case    viewer.api.StringConstants._LEAFLET     :       mapFacade = impl.LeafletFacade;     break;
             default                                         :       mapFacade = undefined;              break;
         };
-        viewer.globals.coreViewer._resumeMapApiLoad();
+        globals._resumeMapApiLoad();
         log('resumeLoadJS');
     }
 
+    //accessor methods
     return {
-        getObj: function() {    return mapFacade;   }
+        getFacade: function()   {   return mapFacade;               },
+        getInstance: function() {   return mapProto;                },
+        getMapObj: function()   {   return mapProto.getMapObj();    },
+        startMap: function()    {   mapProto._init();               },
+        loadData: function()    {   mapProto._loadData();           }
     };
 } )();

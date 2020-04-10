@@ -14,7 +14,7 @@
 core.namespace('viewer.impl');
 
 viewer.impl.MapAPI = ( function() {
-    var log = viewer.frmwk.Logger.set('MapAPI');
+    var log = frmwk.Logger.set('MapAPI');
 
     var ApiPrototype = core.createClass({
         _mapObj: undefined,
@@ -37,7 +37,7 @@ viewer.impl.MapAPI = ( function() {
             log('ApiPrototype._getMapType ');
 
             if(undefined!=this._mapObj && this._mapObj.CLASS_NAME=='OpenLayers.Map'){
-                core.loadJS(viewer.globals.coreViewer.getJSLocation() + 'impl/olFacade.js');
+                core.loadJS(viewer.globals.coreViewer.getCoreJSLocation() + 'impl/olFacade.js');
                 return 'OpenLayers';
 //            } else if(this._mapObj instanceof google.maps.Map) {    return 'Google Maps';
             } else {

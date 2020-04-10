@@ -10,7 +10,7 @@ core.ns('viewer.frmwk');
 
 viewer.frmwk.Controller = (function(){
 //PRIVATE (vars) =========================================================
-    var log = viewer.frmwk.Logger.set('Controller');
+    var log = frmwk.Logger.set('Controller');
 
     var location = '';              //relative locations of JS files to be loaded dynamically
     var viewerInstance = false;     //flag to set if this controller resides in viewer

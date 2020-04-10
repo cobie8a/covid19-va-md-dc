@@ -17,7 +17,7 @@
 core.ns('viewer.impl');
 
 viewer.impl.OLFacade = ( function() {
-    var log = viewer.frmwk.Logger.set('OLFacade');
+    var log = frmwk.Logger.set('OLFacade');
 
     var datum = {
         geographic			: new OpenLayers.Projection( 'EPSG:4326' ),		//WGS84 - ESRI use

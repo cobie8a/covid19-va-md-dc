@@ -5,9 +5,9 @@
  * Logger.js is just a logger...
  */
 
-core.ns('viewer.frmwk');
+core.ns('frmwk');
 
-viewer.frmwk.Logger = ( function(){
+frmwk.Logger = ( function(){
     var enabled = true;
 
     function log(module, message){

@@ -14,55 +14,17 @@
  * note:  this is a mixin...
  */
 
-core.ns('viewer.impl');
+core.ns('impl');
 
-viewer.impl.LeafletFacade = ( function() {
-    var log = viewer.frmwk.Logger.set('LeafletFacade');
+impl.LeafletFacade = ( function() {
+    var log = frmwk.Logger.set('LeafletFacade');
 
     var LeafletFacade = core.createClass({
+        log: frmwk.Logger.set('LeafletFacade'),
         _mapObj: undefined,
-        _type: undefined,
-        _currentProjection: undefined,
-        _pt: undefined,
-        _transformRequired: undefined,
 
         constructor: function() {
-            this.setMapObject(viewer.globals.coreViewer.getGlobalMapObj(), viewer.globals.coreViewer.getGlobalMapObjType());
-        },
-        setMapObject: function(mapObj, type) {
-            log('LeafletFacade.setMapObject');
-            if(undefined===mapObj && typeof mapObj!=='object')  return;
-            this._mapObj = mapObj;
-            this._type = type;
-
-            //once map has been set, initiate event listener
-            this._initEvents();
-        },
-        getMapObject: function() {
-            log('LeafletFacade.getMapObject');
-            return this._mapObj;
-        },
-        getMapType: function() {
-            log('LeafletFacade.getMapType');
-            return this._type;
-        },
-        transformObj: function(LeafletObj) {
-            this._pt = LeafletObj;
-            if(this._transformRequired) {
-                log('transforming ' + this._pt.CLASS_NAME);
-                this._pt = this._pt.transform(datum.geographic, this._currentProjection);
-            }
-            return this._pt;
-        },
-        _initEvents: function() {
-            this.getMapObject().events.on({
-                'addlayer':         function(e){ viewer.api.evt.Map.notifyListeners(e.object, e.type);  },
-                'removelayer':      function(e){ viewer.api.evt.Map.notifyListeners(e.object, e.type);  },
-                'changelayer':      function(e){ viewer.api.evt.Map.notifyListeners(e.object, e.type);  },
-                'changebaselayer':  function(e){ viewer.api.evt.Map.notifyListeners(e.object, e.type);  },
-                'moveend':          function(e){ viewer.api.evt.Map.notifyListeners(e.object, e.type);  },
-                'zoomend':          function(e){ viewer.api.evt.Map.notifyListeners(e.object, e.type);  }
-            });
+            this.log('constructor');
         }
     });
 

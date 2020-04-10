@@ -8,7 +8,7 @@
 core.namespace('viewer.api.evt');
 
 viewer.api.evt.Map = ( function() {
-    var log = viewer.frmwk.Logger.set('evt.Zoom');
+    var log = frmwk.Logger.set('evt.Zoom');
 
     function ApiEvents() {
         this.listeners = {};        //empty for now

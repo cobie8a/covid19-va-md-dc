@@ -2,24 +2,50 @@
  * @author chris a <cobie8a@yahoo.com>
  * original code date - February 2013
  *
- * OpenLayers map implementation - need to make more generic to accomodate Leaflet or other mapping frameworks
  */
  
-var map, mapType, baseLayer;
+core.namespace('init');
 
-function initMap() {
+init.Map = ( function() {
+    var log = frmwk.Logger.set('mapInit');
 
-    map = L.map('map').setView({lon: 0, lat: 0}, 3);
+    var Proto = new core.createClass({
+        log: frmwk.Logger.set('Map.Proto'),
+        _mapFrmwkLocation: 'frameworks/',
+        _mapObj: undefined,
+        _mapObjType: undefined,
 
-    baseLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        maxZoom: 19,
-        attribution: 'data &copy; <a href="https://coronavirus.dc.gov/page/coronavirus-data">DC Dept of Health</a>, <a href="https://coronavirus.maryland.gov">MD Dept of Health</a>, <a href="http://www.vdh.virginia.gov/coronavirus/">VA Dept of Health</a>'
+        constructor: function() {
+            this.log('loading map libraries');
+            globals.jsLoad(false, this._mapFrmwkLocation + 'leaflet/leaflet-src.js');
+        },
+        initMap: function() {
+            this.log('initMap');
+            this._mapObj = L.map('map').setView({lon: -96, lat: 37.5}, 5);
+
+            var baseLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                maxZoom: 19,
+                crs: L.CRS.EPSG4326,
+                attribution: 'data &copy; <a href="https://coronavirus.dc.gov/page/coronavirus-data">DC Dept of Health</a>, <a href="https://coronavirus.maryland.gov">MD Dept of Health</a>, <a href="http://www.vdh.virginia.gov/coronavirus/">VA Dept of Health</a>'
+            });
+
+            this._mapObj.addLayer(baseLayer);
+            this._mapObj.addControl(L.control.scale());
+
+            this._mapObjType = viewer.api.StringConstants._LEAFLET;
+        },
+        getMapObj: function() {
+            return this._mapObj;
+        },
+        getMapObjType: function() {
+            return this._mapObjType;
+        },
+        _getInfoControl: function() {}
     });
 
-    map.addLayer(baseLayer);
-    map.addControl(L.control.scale());
-//    L.control.scale().addTo(map);
+    var mapInstance = new Proto();
 
-    mapType = 'Leaflet';
-
-}
+    return {
+        getInstance: function() {   return mapInstance; }
+    };
+})();
