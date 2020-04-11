@@ -496,7 +496,7 @@ var Events = {
 	_on: function (type, fn, context) {
 		this._events = this._events || {};
 
-		/* get/init listeners for type */
+		/* get/app listeners for type */
 		var typeListeners = this._events[type];
 		if (!typeListeners) {
 			typeListeners = [];
@@ -7593,7 +7593,7 @@ var Marker = Layer.extend({
 		var icon = options.icon.createIcon(this._icon),
 		    addIcon = false;
 
-		// if we're not reusing the icon, remove the old one and init new one
+		// if we're not reusing the icon, remove the old one and app new one
 		if (icon !== this._icon) {
 			if (this._icon) {
 				this._removeIcon();

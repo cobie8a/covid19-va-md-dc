@@ -56,7 +56,7 @@ var core = {
         var _super = this.prototype;
 
         // Instantiate a base class (but only create the instance,
-        // don't run the init constructor)
+        // don't run the app constructor)
         initializing = true;
         var prototype = new this();
         initializing = false;
@@ -87,7 +87,7 @@ var core = {
 
         // The dummy class constructor
         function Class() {
-            // All construction is actually done in the init method
+            // All construction is actually done in the app method
             if ( !initializing && this.init )
                 this.init.apply(this, arguments);
         }

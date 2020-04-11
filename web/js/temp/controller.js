@@ -48,7 +48,7 @@ viewer.frmwk.Controller = (function(){
      */
         extEvtBlocking: false,
         constructor: function() { log('constructor'); },
-        init: function() {                      //passing any parameters to init will set flag that it belongs to viewer
+        init: function() {                      //passing any parameters to app will set flag that it belongs to viewer
             if(arguments.length!=0) ControllerFunction._setInViewer(arguments);
             log('init');
         },

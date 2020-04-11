@@ -30,12 +30,12 @@ frmwk.MapAPI = ( function() {
             this.log('constructor');
 
             this.log('loading map initializer');
-            globals.jsLoad(true, 'init/map.js');
-            globals.jsLoad(true, 'init/dataLoader.js');
+            globals.jsLoad(true, 'app/map.js');
+            globals.jsLoad(true, 'app/data.js');
         },
         _init: function() {
             this.log('_init');
-            var mapInstance = init.Map.getInstance();
+            var mapInstance = app.Map.getInstance();
             var path = undefined;
 
             //initialize actual map, and set objects
