@@ -1,9 +1,9 @@
-"Number of Confirmed Cases: 12,308",,,
-"Number of negative test results: 53,062",,,
-Number of Deaths: 463,,,
-Number of Probable Deaths: 71,,,
-"Hospitalizations: 2,757 ever hospitalized",,,
-Released From Isolation: 771,,,
+"Number of Confirmed Cases: 12,830",,,
+"Number of negative test results: 55,061",,,
+Number of Deaths: 486,,,
+Number of Probable Deaths: 62,,,
+"Hospitalizations: 2,886 ever hospitalized",,,
+Released From Isolation: 914,,,
 ,,,
 Cases and Deaths Data Breakdown ,,,
 Note: Parenthesis = Number of confirmed deaths,,,
@@ -14,27 +14,27 @@ By County ,,,
 ,,,
 County,Cases,Deaths,
 Allegany,33,-1,
-Anne Arundel,"1,005",-34,7*
-Baltimore City,"1,378",-40,3*
-Baltimore County,"1,664",-38,7*
-Calvert,109,-2,
+Anne Arundel,"1,047",-40,6*
+Baltimore City,"1,392",-46,5*
+Baltimore County,"1,733",-44,6*
+Calvert,113,-3,
 Caroline,33,,
-Carroll,308,-26,2*
+Carroll,313,-27,1*
 Cecil,131,-3,
-Charles,347,-16,
-Dorchester,20,-1,
-Frederick,557,-23,8*
+Charles,370,-17,
+Dorchester,21,-1,
+Frederick,591,-25,5*
 Garrett,4,,
-Harford,195,,5*
-Howard,508,-10,2*
-Kent,16,-1,
-Montgomery,"2,404",-70,16*
-Prince George's,"3,160",-85,10*
-Queen Anne's,24,-2,
-St. Mary's,101,-1,
+Harford,210,-1,5*
+Howard,515,-11,1*
+Kent,18,-1,
+Montgomery,"2,507",-80,16*
+Prince George's,"3,345",-98,7*
+Queen Anne's,25,-2,
+St. Mary's,105,-2,
 Somerset,10,,
-Talbot,16,-1,
-Washington,116,-3,
-Wicomico,138,-1,
-Worcester,31,,
-Data Not Available,,-105,11*
+Talbot,19,-1,
+Washington,117,-3,
+Wicomico,145,-3,
+Worcester,33,,
+Data Not Available,,-77,10*
