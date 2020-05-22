@@ -1,12 +1,12 @@
-"Number of confirmed cases : 42,323",,,
-"Number of negative test results : 173,007",,,
-"Number of confirmed deaths : 2,004",,,
-Number of probable deaths : 119,,,
-"Currently hospitalized : 1,410",,,
-Acute care : 871,,,
-Intensive care : 539,,,
-"Ever hospitalized : 7,393",,,
-"Released from isolation : 2,993",,,
+"Number of confirmed cases : 43,531",,,
+"Number of negative test results : 176,702",,,
+"Number of confirmed deaths : 2,045",,,
+Number of probable deaths : 114,,,
+"Currently hospitalized : 1,374",,,
+Acute care : 848,,,
+Intensive care : 526,,,
+"Ever hospitalized : 7,485",,,
+"Released from isolation : 3,099",,,
 ,,,
 Cases and Deaths Data Breakdown:,,,
 "Parenthesis = Confirmed death, laboratory-confirmed positive COVID-19 test result ",,,
@@ -17,27 +17,27 @@ By County,,,
 ,,,
 County,Cases,Deaths,
 Allegany,166,-14,
-Anne Arundel,"3,033",-137,8*
-Baltimore City,"4,152",-208,7*
-Baltimore County,"5,025",-261,16*
-Calvert,259,-13,1*
-Caroline,210,,
-Carroll,720,-70,1*
-Cecil,328,-20,
-Charles,921,-63,1*
-Dorchester,122,-2,
-Frederick,"1,533",-86,7*
+Anne Arundel,"3,132",-139,8*
+Baltimore City,"4,339",-210,8*
+Baltimore County,"5,135",-271,15*
+Calvert,278,-14,1*
+Caroline,216,,
+Carroll,733,-69,1*
+Cecil,331,-20,
+Charles,943,-64,1*
+Dorchester,124,-2,
+Frederick,"1,568",-87,7*
 Garrett,7,,
-Harford,721,-36,3*
-Howard,"1,494",-46,4*
-Kent,145,-14,
-Montgomery,"9,052",-474,41*
-Prince George's,"12,446",-432,21*
-Queen Anne's,135,-11,
-St. Mary's,340,-12,
-Somerset,64,-1,
-Talbot,69,-1,
-Washington,364,-9,
-Wicomico,848,-21,
-Worcester,169,-7,1*
-Data not available,,-66,8*
+Harford,737,-37,3*
+Howard,"1,548",-45,4*
+Kent,143,-14,
+Montgomery,"9,260",-491,37*
+Prince George's,"12,830",-444,22*
+Queen Anne's,141,-11,
+St. Mary's,357,-13,
+Somerset,71,-1,
+Talbot,70,-1,
+Washington,377,-10,
+Wicomico,844,-22,
+Worcester,181,-7,1*
+Data not available,,-59,6*
