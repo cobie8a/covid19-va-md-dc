@@ -1,12 +1,12 @@
-"Number of confirmed cases : 46,313",,,
-"Number of negative test results : 194,049",,,
-"Number of confirmed deaths : 2,162",,,
-Number of probable deaths : 115,,,
-"Currently hospitalized : 1,290",,,
-Acute care : 787,,,
-Intensive care : 503,,,
-"Ever hospitalized : 7,939",,,
-"Released from isolation : 3,319",,,
+"Number of confirmed cases : 47,687",,,
+"Number of negative test results : 206,800",,,
+"Number of confirmed deaths : 2,217",,,
+Number of probable deaths : 116,,,
+"Currently hospitalized : 1,315",,,
+Acute care : 795,,,
+Intensive care : 520,,,
+"Ever hospitalized : 8,179",,,
+"Released from isolation : 3,334",,,
 ,,,
 Cases and Deaths Data Breakdown:,,,
 "Parenthesis = Confirmed death, laboratory-confirmed positive COVID-19 test result ",,,
@@ -16,28 +16,28 @@ NH = Non-Hispanic,,,
 By County,,,
 ,,,
 County,Cases,Deaths,
-Allegany,170,-14,
-Anne Arundel,"3,307",-145,8*
-Baltimore City,"4,782",-222,9*
-Baltimore County,"5,373",-285,15*
-Calvert,304,-14,1*
-Caroline,240,,
-Carroll,783,-74,2*
-Cecil,345,-21,
-Charles,989,-67,2*
-Dorchester,127,-2,
-Frederick,"1,696",-91,7*
-Garrett,7,,
-Harford,780,-45,3*
-Howard,"1,667",-48,4*
-Kent,152,-14,
-Montgomery,"9,922",-522,36*
-Prince George's,"13,521",-468,22*
-Queen Anne's,146,-12,
-St. Mary's,393,-14,
-Somerset,72,-1,
-Talbot,79,-1,
-Washington,408,-11,
-Wicomico,867,-22,
-Worcester,183,-9,1*
-Data not available,,-60,5*
+Allegany,176,-14,
+Anne Arundel,"3,394",-151,8*
+Baltimore City,"4,997",-227,9*
+Baltimore County,"5,498",-297,15*
+Calvert,308,-14,2*
+Caroline,243,,
+Carroll,811,-78,2*
+Cecil,353,-21,
+Charles,"1,001",-68,2*
+Dorchester,130,-2,
+Frederick,"1,746",-94,7*
+Garrett,10,,
+Harford,795,-45,3*
+Howard,"1,732",-49,4*
+Kent,158,-15,
+Montgomery,"10,291",-531,36*
+Prince George's,"13,819",-484,22*
+Queen Anne's,151,-12,
+St. Mary's,400,-15,
+Somerset,73,-2,
+Talbot,86,-1,
+Washington,413,-12,
+Wicomico,908,-22,
+Worcester,194,-10,1*
+Data not available,,-53,5*
