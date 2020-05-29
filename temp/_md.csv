@@ -1,14 +1,13 @@
-"Number of confirmed cases : 49,709",,,
-"Number of persons tested negative : 225,149",,,
-"Total testing volume : 316,797",,,
-"Percent positive testing, all jurisdictions",,,
-"Number of confirmed deaths : 2,307",,,
-Number of probable deaths : 121,,,
-"Currently hospitalized : 1,334",,,
-Acute care : 823,,,
-Intensive care : 511,,,
-"Ever hospitalized : 8,392",,,
-"Released from isolation : 3,468",,,
+"Number of confirmed cases : 50,988",,,
+"Number of persons tested negative : 233,530",,,
+"Total testing volume : 328,516",,,
+"Number of confirmed deaths : 2,348",,,
+Number of probable deaths : 118,,,
+"Currently hospitalized : 1,296",,,
+Acute care : 789,,,
+Intensive care : 507,,,
+"Ever hospitalized : 8,479",,,
+"Released from isolation : 3,571",,,
 ,,,
 Cases and Deaths Data Breakdown:,,,
 "Parenthesis = Confirmed death, laboratory-confirmed positive COVID-19 test result ",,,
@@ -17,29 +16,31 @@ NH = Non-Hispanic,,,
 ,,,
 By County,,,
 ,,,
+"   Percent positive testing, all jurisdictions",,,
+,,,
 County,Cases,Deaths,
-Allegany,178,-15,
-Anne Arundel,"3,556",-154,9*
-Baltimore City,"5,203",-232,8*
-Baltimore County,"5,678",-308,15*
-Calvert,320,-16,1*
-Caroline,245,,
-Carroll,840,-82,3*
-Cecil,356,-22,
-Charles,"1,027",-71,1*
-Dorchester,136,-3,
-Frederick,"1,824",-97,7*
+Allegany,177,-16,
+Anne Arundel,"3,643",-158,9*
+Baltimore City,"5,426",-240,8*
+Baltimore County,"5,819",-320,16*
+Calvert,329,-16,1*
+Caroline,248,,
+Carroll,861,-83,2*
+Cecil,364,-22,
+Charles,"1,056",-71,1*
+Dorchester,140,-3,
+Frederick,"1,856",-98,7*
 Garrett,10,,
-Harford,827,-46,3*
-Howard,"1,815",-52,4*
-Kent,165,-15,
-Montgomery,"10,752",-542,39*
-Prince George's,"14,508",-506,24*
-Queen Anne's,152,-12,
-St. Mary's,417,-19,
+Harford,854,-46,3*
+Howard,"1,868",-54,4*
+Kent,167,-17,
+Montgomery,"11,035",-555,40*
+Prince George's,"14,773",-506,24*
+Queen Anne's,160,-12,
+St. Mary's,460,-20,
 Somerset,73,-2,
-Talbot,87,-1,
-Washington,423,-12,
-Wicomico,919,-27,
-Worcester,198,-10,1*
-Data not available,,-63,6*
+Talbot,91,-1,
+Washington,441,-13,
+Wicomico,931,-30,
+Worcester,206,-12,1*
+Data not available,,-53,2*
