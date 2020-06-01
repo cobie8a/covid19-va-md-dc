@@ -1,13 +1,13 @@
-"Number of confirmed cases : 52,015",,,
-"Number of persons tested negative : 241,931",,,
-"Total testing volume : 339,361",,,
-"Number of confirmed deaths : 2,390",,,
-Number of probable deaths : 119,,,
-"Currently hospitalized : 1,239",,,
-Acute care : 747,,,
-Intensive care : 492,,,
-"Ever hospitalized : 8,619",,,
-"Released from isolation : 3,649",,,
+"Number of confirmed cases : 52,778",,,
+"Number of persons tested negative : 249,103",,,
+"Total testing volume : 348,773",,,
+"Number of confirmed deaths : 2,411",,,
+Number of probable deaths : 121,,,
+"Currently hospitalized : 1,183",,,
+Acute care : 704,,,
+Intensive care : 479,,,
+"Ever hospitalized : 8,738",,,
+"Released from isolation : 3,764",,,
 ,,,
 Cases and Deaths Data Breakdown:,,,
 "Parenthesis = Confirmed death, laboratory-confirmed positive COVID-19 test result ",,,
@@ -15,32 +15,31 @@ Cases and Deaths Data Breakdown:,,,
 NH = Non-Hispanic,,,
 ,,,
 By County,,,
-,,,
-"   Percent positive testing, all jurisdictions",,,
+"Percent positive testing, all jurisdictions",,,
 ,,,
 County,Cases,Deaths,
-Allegany,177,-16,
-Anne Arundel,"3,743",-163,9*
-Baltimore City,"5,564",-246,8*
-Baltimore County,"5,955",-325,15*
-Calvert,334,-17,1*
-Caroline,253,,
-Carroll,880,-89,1*
-Cecil,366,-22,
-Charles,"1,085",-71,1*
-Dorchester,141,-3,
-Frederick,"1,890",-98,7*
+Allegany,178,-17,
+Anne Arundel,"3,785",-165,9*
+Baltimore City,"5,664",-250,8*
+Baltimore County,"6,065",-329,15*
+Calvert,341,-17,1*
+Caroline,259,-1,
+Carroll,913,-89,1*
+Cecil,371,-23,
+Charles,"1,108",-71,1*
+Dorchester,142,-3,
+Frederick,"1,911",-98,7*
 Garrett,10,,
-Harford,861,-46,3*
-Howard,"1,905",-54,4*
-Kent,170,-19,
-Montgomery,"11,251",-565,40*
-Prince George's,"15,022",-515,24*
-Queen Anne's,159,-12,
-St. Mary's,471,-20,
+Harford,882,-48,3*
+Howard,"1,928",-54,4*
+Kent,173,-19,
+Montgomery,"11,361",-572,40*
+Prince George's,"15,220",-517,24*
+Queen Anne's,160,-13,
+St. Mary's,499,-22,
 Somerset,73,-2,
-Talbot,96,-2,
-Washington,456,-13,
-Wicomico,943,-30,
-Worcester,210,-12,1*
-Data not available,,-50,5*
+Talbot,99,-2,
+Washington,469,-14,
+Wicomico,953,-30,
+Worcester,214,-12,1*
+Data not available,,-43,7*
