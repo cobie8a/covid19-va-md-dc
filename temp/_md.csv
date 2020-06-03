@@ -1,13 +1,13 @@
-"Number of confirmed cases : 54,175",,,
-"Number of persons tested negative : 261,640",,,
-"Total testing volume : 366,331",,,
-"Number of confirmed deaths : 2,474",,,
-Number of probable deaths : 123,,,
-"Currently hospitalized : 1,148",,,
-Acute care : 667,,,
-Intensive care : 481,,,
-"Ever hospitalized : 8,957",,,
-"Released from isolation : 3,855",,,
+"Number of confirmed cases : 54,982",,,
+"Number of persons tested negative : 272,643",,,
+"Total testing volume : 380,716",,,
+"Number of confirmed deaths : 2,519",,,
+Number of probable deaths : 122,,,
+"Currently hospitalized : 1,109",,,
+Acute care : 638,,,
+Intensive care : 471,,,
+"Ever hospitalized : 9,111",,,
+"Released from isolation : 3,970",,,
 ,,,
 Cases and Deaths Data Breakdown:,,,
 "Parenthesis = Confirmed death, laboratory-confirmed positive COVID-19 test result ",,,
@@ -18,28 +18,28 @@ By County,,,
 "Percent positive testing, all jurisdictions",,,
 ,,,
 County,Cases,Deaths,
-Allegany,181,-17,
-Anne Arundel,"3,924",-169,9*
-Baltimore City,"5,688",-255,8*
-Baltimore County,"6,385",-342,16*
-Calvert,352,-17,1*
-Caroline,263,-1,
-Carroll,927,-91,2*
-Cecil,377,-24,
-Charles,"1,133",-72,1*
-Dorchester,144,-3,
-Frederick,"1,961",-100,7*
+Allegany,182,-17,
+Anne Arundel,"4,009",-169,9*
+Baltimore City,"5,801",-258,8*
+Baltimore County,"6,457",-350,16*
+Calvert,348,-19,1*
+Caroline,265,-1,
+Carroll,940,-93,3*
+Cecil,381,-24,
+Charles,"1,152",-74,1*
+Dorchester,147,-3,
+Frederick,"2,005",-102,7*
 Garrett,10,,
-Harford,891,-48,3*
-Howard,"1,975",-56,5*
-Kent,174,-19,
-Montgomery,"11,731",-584,40*
-Prince George's,"15,553",-528,24*
-Queen Anne's,161,-12,
-St. Mary's,518,-24,
-Somerset,74,-3,
-Talbot,101,-3,
-Washington,480,-15,
-Wicomico,955,-30,
-Worcester,217,-12,1*
-Data not available,,-49,6*
+Harford,901,-48,3*
+Howard,"2,004",-56,5*
+Kent,178,-19,
+Montgomery,"11,924",-593,40*
+Prince George's,"15,738",-542,23*
+Queen Anne's,162,-12,
+St. Mary's,536,-27,
+Somerset,75,-3,
+Talbot,103,-3,
+Washington,486,-16,
+Wicomico,959,-30,
+Worcester,219,-12,1*
+Data not available,,-48,5*
