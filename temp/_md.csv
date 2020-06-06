@@ -1,13 +1,13 @@
-"Number of confirmed cases : 54,982",,,
-"Number of persons tested negative : 272,643",,,
-"Total testing volume : 380,716",,,
-"Number of confirmed deaths : 2,519",,,
-Number of probable deaths : 122,,,
-"Currently hospitalized : 1,109",,,
-Acute care : 638,,,
-Intensive care : 471,,,
-"Ever hospitalized : 9,111",,,
-"Released from isolation : 3,970",,,
+"Number of confirmed cases : 57,482",,,
+"Number of persons tested negative : 299,894",,,
+"Total testing volume : 417,904",,,
+"Number of confirmed deaths : 2,616",,,
+Number of probable deaths : 124,,,
+"Currently hospitalized : 1,059",,,
+Acute care : 641,,,
+Intensive care : 418,,,
+"Ever hospitalized : 9,451",,,
+"Released from isolation : 4,175",,,
 ,,,
 Cases and Deaths Data Breakdown:,,,
 "Parenthesis = Confirmed death, laboratory-confirmed positive COVID-19 test result ",,,
@@ -18,28 +18,28 @@ By County,,,
 "Percent positive testing, all jurisdictions",,,
 ,,,
 County,Cases,Deaths,
-Allegany,182,-17,
-Anne Arundel,"4,009",-169,9*
-Baltimore City,"5,801",-258,8*
-Baltimore County,"6,457",-350,16*
-Calvert,348,-19,1*
-Caroline,265,-1,
-Carroll,940,-93,3*
-Cecil,381,-24,
-Charles,"1,152",-74,1*
-Dorchester,147,-3,
-Frederick,"2,005",-102,7*
+Allegany,184,-16,
+Anne Arundel,"4,210",-176,9*
+Baltimore City,"6,141",-268,8*
+Baltimore County,"6,696",-367,17*
+Calvert,354,-20,1*
+Caroline,270,-1,
+Carroll,950,-98,3*
+Cecil,399,-24,
+Charles,"1,196",-79,2*
+Dorchester,154,-4,
+Frederick,"2,100",-104,7*
 Garrett,10,,
-Harford,901,-48,3*
-Howard,"2,004",-56,5*
-Kent,178,-19,
-Montgomery,"11,924",-593,40*
-Prince George's,"15,738",-542,23*
-Queen Anne's,162,-12,
-St. Mary's,536,-27,
-Somerset,75,-3,
-Talbot,103,-3,
-Washington,486,-16,
-Wicomico,959,-30,
-Worcester,219,-12,1*
-Data not available,,-48,5*
+Harford,947,-49,3*
+Howard,"2,094",-60,5*
+Kent,185,-19,
+Montgomery,"12,624",-614,38*
+Prince George's,"16,316",-571,24*
+Queen Anne's,168,-12,
+St. Mary's,548,-33,
+Somerset,76,-3,1*
+Talbot,108,-4,
+Washington,545,-16,
+Wicomico,975,-32,
+Worcester,232,-15,1*
+Data not available,,-31,5*
