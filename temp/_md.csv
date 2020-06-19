@@ -1,13 +1,13 @@
-"Number of confirmed cases : 62,969",,,
-"Number of persons tested negative : 378,374",,,
-"Total testing volume : 526,882",,,
-"Number of confirmed deaths : 2,866",,,
+"Number of confirmed cases : 63,229",,,
+"Number of persons tested negative : 384,379",,,
+"Total testing volume : 535,444",,,
+"Number of confirmed deaths : 2,886",,,
 Number of probable deaths : 130,,,
-Currently hospitalized : 702,,,
-Acute care : 419,,,
-Intensive care : 283,,,
-"Ever hospitalized : 10,309",,,
-"Released from isolation : 4,596",,,
+Currently hospitalized : 660,,,
+Acute care : 391,,,
+Intensive care : 269,,,
+"Ever hospitalized : 10,357",,,
+"Released from isolation : 4,640",,,
 ,,,
 Cases and Deaths Data Breakdown:,,,
 "Parenthesis = Confirmed death, laboratory-confirmed positive COVID-19 test result ",,,
@@ -15,30 +15,31 @@ Cases and Deaths Data Breakdown:,,,
 NH = Non-Hispanic,,,
 ,,,
 By County,,,
+Percent of Population Tested by Jurisdiction,,,
 ,,,
 County,Cases,Deaths,
-Allegany,188,-17,
-Anne Arundel,"4,796",-186,9*
-Baltimore City,"6,866",-299,8*
-Baltimore County,"7,329",-411,21*
-Calvert,382,-21,1*
-Caroline,284,-2,
-Carroll,"1,006",-103,2*
-Cecil,455,-29,1*
-Charles,"1,291",-83,2*
+Allegany,187,-17,
+Anne Arundel,"4,835",-187,9*
+Baltimore City,"6,906",-301,8*
+Baltimore County,"7,371",-415,22*
+Calvert,385,-22,1*
+Caroline,285,-2,
+Carroll,"1,010",-106,2*
+Cecil,456,-28,1*
+Charles,"1,294",-84,2*
 Dorchester,170,-4,
-Frederick,"2,336",-108,7*
+Frederick,"2,342",-108,7*
 Garrett,10,,
-Harford,"1,032",-58,3*
-Howard,"2,343",-72,5*
-Kent,192,-23,1*
-Montgomery,"13,819",-664,40*
-Prince George's,"17,611",-623,25*
+Harford,"1,036",-59,3*
+Howard,"2,348",-74,5*
+Kent,193,-23,1*
+Montgomery,"13,862",-667,40*
+Prince George's,"17,666",-624,25*
 Queen Anne's,187,-14,
-St. Mary's,587,-41,
-Somerset,82,-3,
+St. Mary's,595,-44,
+Somerset,83,-3,
 Talbot,110,-4,
-Washington,593,-22,
-Wicomico,"1,035",-36,
-Worcester,265,-16,1*
-Data not available,,-27,4*
+Washington,595,-24,
+Wicomico,"1,036",-37,
+Worcester,267,-16,1*
+Data not available,,-23,3*
