@@ -1,13 +1,13 @@
-"Number of confirmed cases : 65,007",,,
-"Number of persons tested negative : 418,528",,,
-"Total testing volume : 583,091",,,
-"Number of confirmed deaths : 2,963",,,
-Number of probable deaths : 129,,,
-Currently hospitalized : 561,,,
-Acute care : 349,,,
-Intensive care : 212,,,
-"Ever hospitalized : 10,611",,,
-"Released from isolation : 4,797",,,
+"Number of confirmed cases : 65,337",,,
+"Number of persons tested negative : 425,120",,,
+"Total testing volume : 591,962",,,
+"Number of confirmed deaths : 2,978",,,
+Number of probable deaths : 130,,,
+Currently hospitalized : 544,,,
+Acute care : 331,,,
+Intensive care : 213,,,
+"Ever hospitalized : 10,648",,,
+"Released from isolation : 4,810",,,
 ,,,
 Cases and Deaths Data Breakdown:,,,
 "Parenthesis = Confirmed death, laboratory-confirmed positive COVID-19 test result ",,,
@@ -17,28 +17,28 @@ NH = Non-Hispanic,,,
 By County,,,
 ,,,
 County,Cases,Deaths,
-Allegany,192,-17,
-Anne Arundel,"4,946",-192,9*
-Baltimore City,"7,148",-310,9*
-Baltimore County,"7,635",-435,23*
-Calvert,398,-23,1*
-Caroline,296,-3,
-Carroll,"1,061",-107,2*
-Cecil,461,-28,1*
-Charles,"1,333",-84,2*
+Allegany,194,-17,
+Anne Arundel,"4,956",-193,9*
+Baltimore City,"7,210",-316,9*
+Baltimore County,"7,652",-437,23*
+Calvert,402,-24,1*
+Caroline,297,-3,
+Carroll,"1,082",-107,2*
+Cecil,464,-28,1*
+Charles,"1,341",-84,2*
 Dorchester,183,-5,
-Frederick,"2,419",-109,7*
-Garrett,10,,
-Harford,"1,064",-58,3*
-Howard,"2,423",-75,5*
-Kent,194,-22,1*
-Montgomery,"14,204",-685,40*
-Prince George's,"18,080",-637,24*
-Queen Anne's,211,-15,
-St. Mary's,605,-48,
+Frederick,"2,425",-109,7*
+Garrett,10,-1,
+Harford,"1,072",-58,3*
+Howard,"2,436",-76,5*
+Kent,195,-22,1*
+Montgomery,"14,283",-688,40*
+Prince George's,"18,151",-638,24*
+Queen Anne's,213,-15,
+St. Mary's,606,-48,
 Somerset,84,-3,
 Talbot,116,-4,
-Washington,616,-25,
-Wicomico,"1,051",-38,
-Worcester,277,-16,1*
-Data not available,,-24,1*
+Washington,634,-26,
+Wicomico,"1,053",-39,
+Worcester,278,-15,1*
+Data not available,,-22,2*
