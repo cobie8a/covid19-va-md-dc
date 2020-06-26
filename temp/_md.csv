@@ -1,13 +1,13 @@
-"Number of confirmed cases : 65,337",,,
-"Number of persons tested negative : 425,120",,,
-"Total testing volume : 591,962",,,
-"Number of confirmed deaths : 2,978",,,
-Number of probable deaths : 130,,,
-Currently hospitalized : 544,,,
-Acute care : 331,,,
-Intensive care : 213,,,
-"Ever hospitalized : 10,648",,,
-"Released from isolation : 4,810",,,
+"Number of confirmed cases : 65,777",,,
+"Number of persons tested negative : 433,182",,,
+"Total testing volume : 603,597",,,
+"Number of confirmed deaths : 3,001",,,
+Number of probable deaths : 128,,,
+Currently hospitalized : 511,,,
+Acute care : 302,,,
+Intensive care : 209,,,
+"Ever hospitalized : 10,683",,,
+"Released from isolation : 4,874",,,
 ,,,
 Cases and Deaths Data Breakdown:,,,
 "Parenthesis = Confirmed death, laboratory-confirmed positive COVID-19 test result ",,,
@@ -17,28 +17,28 @@ NH = Non-Hispanic,,,
 By County,,,
 ,,,
 County,Cases,Deaths,
-Allegany,194,-17,
-Anne Arundel,"4,956",-193,9*
-Baltimore City,"7,210",-316,9*
-Baltimore County,"7,652",-437,23*
-Calvert,402,-24,1*
-Caroline,297,-3,
-Carroll,"1,082",-107,2*
-Cecil,464,-28,1*
-Charles,"1,341",-84,2*
-Dorchester,183,-5,
-Frederick,"2,425",-109,7*
+Allegany,203,-17,
+Anne Arundel,"4,985",-193,8*
+Baltimore City,"7,258",-318,9*
+Baltimore County,"7,710",-438,22*
+Calvert,403,-25,1*
+Caroline,302,-3,
+Carroll,"1,101",-107,2*
+Cecil,460,-28,1*
+Charles,"1,350",-84,2*
+Dorchester,184,-5,
+Frederick,"2,441",-109,7*
 Garrett,10,-1,
-Harford,"1,072",-58,3*
-Howard,"2,436",-76,5*
-Kent,195,-22,1*
-Montgomery,"14,283",-688,40*
-Prince George's,"18,151",-638,24*
-Queen Anne's,213,-15,
-St. Mary's,606,-48,
-Somerset,84,-3,
-Talbot,116,-4,
-Washington,634,-26,
-Wicomico,"1,053",-39,
+Harford,"1,078",-58,3*
+Howard,"2,453",-78,5*
+Kent,194,-22,1*
+Montgomery,"14,381",-691,40*
+Prince George's,"18,249",-645,24*
+Queen Anne's,215,-16,
+St. Mary's,610,-48,
+Somerset,85,-3,
+Talbot,119,-4,
+Washington,653,-26,
+Wicomico,"1,055",-40,
 Worcester,278,-15,1*
-Data not available,,-22,2*
+Data not available,,-27,2*
