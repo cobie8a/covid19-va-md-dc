@@ -1,13 +1,13 @@
-"Number of confirmed cases : 79,545",,,
-"Number of persons tested negative : 684,822",,,
-"Total testing volume : 979,158",,,
-"Number of confirmed deaths : 3,272",,,
-Number of probable deaths : 130,,,
-Currently hospitalized : 484,,,
-Acute care : 353,,,
-Intensive care : 131,,,
-"Ever hospitalized : 11,949",,,
-"Released from isolation : 5,380",,,
+"Number of confirmed cases : 80,172",,,
+"Number of persons tested negative : 702,661",,,
+"Total testing volume : 1,000,179",,,
+"Number of confirmed deaths : 3,276",,,
+Number of probable deaths : 129,,,
+Currently hospitalized : 505,,,
+Acute care : 368,,,
+Intensive care : 137,,,
+"Ever hospitalized : 11,997",,,
+"Released from isolation : 5,434",,,
 ,,,
 Cases and Deaths Data Breakdown:,,,
 "Parenthesis = Confirmed death, laboratory-confirmed positive COVID-19 test result ",,,
@@ -18,27 +18,27 @@ By County,,,
 ,,,
 County,Cases,Deaths,
 Allegany,240,-18,
-Anne Arundel,"6,062",-205,8*
-Baltimore City,"9,644",-375,14*
-Baltimore County,"9,994",-497,20*
-Calvert,495,-26,1*
-Caroline,367,-3,
-Carroll,"1,296",-113,3*
-Cecil,566,-29,1*
-Charles,"1,642",-88,2*
-Dorchester,246,-5,
-Frederick,"2,785",-113,7*
-Garrett,34,,
-Harford,"1,452",-63,3*
-Howard,"3,177",-93,6*
-Kent,224,-22,1*
-Montgomery,"16,520",-736,38*
-Prince George's,"20,867",-702,23*
-Queen Anne's,335,-22,1*
-St. Mary's,785,-52,
+Anne Arundel,"6,105",-206,8*
+Baltimore City,"9,738",-376,14*
+Baltimore County,"10,153",-499,20*
+Calvert,503,-26,1*
+Caroline,368,-3,
+Carroll,"1,311",-113,3*
+Cecil,570,-29,1*
+Charles,"1,659",-88,2*
+Dorchester,288,-5,
+Frederick,"2,797",-113,7*
+Garrett,37,,
+Harford,"1,472",-63,3*
+Howard,"3,198",-93,6*
+Kent,221,-22,1*
+Montgomery,"16,593",-738,38*
+Prince George's,"20,958",-702,23*
+Queen Anne's,340,-22,1*
+St. Mary's,789,-53,
 Somerset,110,-3,
-Talbot,265,-4,
-Washington,816,-29,
-Wicomico,"1,195",-42,
-Worcester,428,-17,1*
-Data not available,,-15,1*
+Talbot,268,-4,
+Washington,818,-29,
+Wicomico,"1,201",-42,
+Worcester,435,-17,1*
+Data not available,,-12,
