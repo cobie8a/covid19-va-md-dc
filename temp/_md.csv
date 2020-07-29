@@ -1,13 +1,13 @@
-"Number of confirmed cases : 84,876",,,
-"Number of persons tested negative : 770,642",,,
-"Total testing volume : 1,120,761",,,
-"Number of confirmed deaths : 3,315",,,
-Number of probable deaths : 132,,,
-Currently hospitalized : 536,,,
-Acute care : 391,,,
-Intensive care : 145,,,
-"Ever hospitalized : 12,339",,,
-"Released from isolation : 5,434",,,
+"Number of confirmed cases : 85,524",,,
+"Number of persons tested negative : 782,732",,,
+"Total testing volume : 1,144,696",,,
+"Number of confirmed deaths : 3,327",,,
+Number of probable deaths : 131,,,
+Currently hospitalized : 544,,,
+Acute care : 394,,,
+Intensive care : 150,,,
+"Ever hospitalized : 12,389",,,
+"Released from isolation : 5,592",,,
 ,,,
 Cases and Deaths Data Breakdown:,,,
 "Parenthesis = Confirmed death, laboratory-confirmed positive COVID-19 test result ",,,
@@ -17,28 +17,28 @@ NH = Non-Hispanic,,,
 By County,,,
 ,,,
 County,Cases,Deaths,
-Allegany,260,-18,
-Anne Arundel,"6,469",-206,8*
-Baltimore City,"10,579",-387,14*
-Baltimore County,"11,124",-508,20*
-Calvert,546,-26,1*
-Caroline,412,-3,
-Carroll,"1,391",-113,2*
-Cecil,601,-29,1*
-Charles,"1,753",-88,2*
+Allegany,262,-18,
+Anne Arundel,"6,537",-206,8*
+Baltimore City,"10,702",-389,14*
+Baltimore County,"11,252",-512,22*
+Calvert,552,-26,1*
+Caroline,416,-3,
+Carroll,"1,402",-114,2*
+Cecil,607,-29,1*
+Charles,"1,772",-88,2*
 Dorchester,319,-5,
-Frederick,"2,909",-113,7*
-Garrett,43,,
-Harford,"1,631",-64,3*
-Howard,"3,373",-96,6*
-Kent,229,-22,1*
-Montgomery,"17,164",-748,39*
-Prince George's,"21,770",-707,23*
-Queen Anne's,370,-22,1*
-St. Mary's,849,-52,
-Somerset,115,-3,
-Talbot,317,-4,
-Washington,897,-30,
-Wicomico,"1,249",-42,
+Frederick,"2,931",-113,7*
+Garrett,48,,
+Harford,"1,648",-64,3*
+Howard,"3,410",-96,6*
+Kent,224,-22,1*
+Montgomery,"17,230",-748,39*
+Prince George's,"21,870",-708,23*
+Queen Anne's,375,-22,1*
+St. Mary's,855,-53,
+Somerset,116,-3,
+Talbot,320,-4,
+Washington,914,-30,
+Wicomico,"1,256",-42,
 Worcester,506,-17,1*
-Data not available,,-12,3*
+Data not available,,-15,
