@@ -1,13 +1,13 @@
-"Number of confirmed cases : 93,005",,,
-"Number of persons tested negative : 899,136",,,
-"Total testing volume : 1,348,880",,,
-"Number of confirmed deaths : 3,415",,,
+"Number of confirmed cases : 93,806",,,
+"Number of persons tested negative : 913,018",,,
+"Total testing volume : 1,377,459",,,
+"Number of confirmed deaths : 3,429",,,
 Number of probable deaths : 136,,,
-Currently hospitalized : 535,,,
-Acute care : 396,,,
-Intensive care : 139,,,
-"Ever hospitalized : 12,978",,,
-"Released from isolation : 5,790",,,
+Currently hospitalized : 528,,,
+Acute care : 393,,,
+Intensive care : 135,,,
+"Ever hospitalized : 13,047",,,
+"Released from isolation : 5,838",,,
 ,,,
 Cases and Deaths Data Breakdown:,,,
 "Parenthesis = Confirmed death, laboratory-confirmed positive COVID-19 test result ",,,
@@ -17,28 +17,28 @@ NH = Non-Hispanic,,,
 By County,,,
 ,,,
 County,Cases,Deaths,
-Allegany,279,-18,
-Anne Arundel,"7,200",-211,9*
-Baltimore City,"12,075",-407,15*
-Baltimore County,"12,777",-535,22*
-Calvert,667,-27,1*
-Caroline,444,-3,
-Carroll,"1,516",-115,2*
-Cecil,681,-29,1*
-Charles,"1,961",-89,2*
-Dorchester,360,-5,
-Frederick,"3,032",-114,7*
-Garrett,45,,
-Harford,"1,906",-66,3*
-Howard,"3,729",-100,6*
-Kent,236,-22,1*
-Montgomery,"18,032",-758,39*
-Prince George's,"23,225",-725,23*
-Queen Anne's,406,-24,1*
-St. Mary's,951,-52,
-Somerset,130,-3,
-Talbot,371,-4,
-Washington,996,-31,
+Allegany,280,-18,
+Anne Arundel,"7,243",-213,9*
+Baltimore City,"12,239",-408,16*
+Baltimore County,"12,915",-537,22*
+Calvert,672,-27,1*
+Caroline,445,-3,
+Carroll,"1,530",-115,2*
+Cecil,689,-29,1*
+Charles,"1,983",-89,2*
+Dorchester,365,-5,
+Frederick,"3,050",-114,7*
+Garrett,46,,
+Harford,"1,922",-66,3*
+Howard,"3,779",-100,6*
+Kent,238,-22,1*
+Montgomery,"18,139",-762,39*
+Prince George's,"23,372",-726,23*
+Queen Anne's,420,-24,1*
+St. Mary's,962,-52,
+Somerset,133,-3,
+Talbot,384,-4,
+Washington,"1,003",-31,
 Wicomico,"1,322",-45,
-Worcester,664,-19,1*
-Data not available,,-13,3*
+Worcester,675,-19,1*
+Data not available,,-17,2*
