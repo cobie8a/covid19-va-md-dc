@@ -1,13 +1,13 @@
-"Number of confirmed cases : 95,503",,,
-"Number of persons tested negative : 943,842",,,
-"Total testing volume : 1,438,739",,,
-"Number of confirmed deaths : 3,448",,,
+"Number of confirmed cases : 96,843",,,
+"Number of persons tested negative : 970,616",,,
+"Total testing volume : 1,485,615",,,
+"Number of confirmed deaths : 3,467",,,
 Number of probable deaths : 137,,,
-Currently hospitalized : 525,,,
-Acute care : 397,,,
-Intensive care : 128,,,
-"Ever hospitalized : 13,177",,,
-"Released from isolation : 5,910",,,
+Currently hospitalized : 529,,,
+Acute care : 408,,,
+Intensive care : 121,,,
+"Ever hospitalized : 13,266",,,
+"Released from isolation : 5,935",,,
 ,,,
 Cases and Deaths Data Breakdown:,,,
 "Parenthesis = Confirmed death, laboratory-confirmed positive COVID-19 test result ",,,
@@ -17,28 +17,28 @@ NH = Non-Hispanic,,,
 By County,,,
 ,,,
 County,Cases,Deaths,
-Allegany,291,-18,
-Anne Arundel,"7,361",-216,9*
-Baltimore City,"12,547",-413,15*
-Baltimore County,"13,257",-541,22*
-Calvert,697,-27,1*
-Caroline,451,-3,
-Carroll,"1,546",-115,2*
-Cecil,702,-29,1*
-Charles,"2,024",-89,2*
-Dorchester,371,-5,
-Frederick,"3,067",-114,7*
-Garrett,49,,
-Harford,"1,968",-66,3*
-Howard,"3,846",-104,6*
-Kent,243,-22,1*
-Montgomery,"18,392",-764,39*
-Prince George's,"23,697",-730,23*
-Queen Anne's,431,-24,1*
-St. Mary's,983,-52,
-Somerset,136,-3,
-Talbot,400,-4,
-Washington,"1,012",-31,
-Wicomico,"1,338",-45,
-Worcester,694,-19,1*
-Data not available,,-14,4*
+Allegany,300,-18,
+Anne Arundel,"7,450",-217,10*
+Baltimore City,"12,893",-415,16*
+Baltimore County,"13,374",-544,22*
+Calvert,713,-27,1*
+Caroline,453,-3,
+Carroll,"1,567",-115,2*
+Cecil,708,-29,1*
+Charles,"2,067",-89,2*
+Dorchester,378,-5,
+Frederick,"3,093",-114,7*
+Garrett,51,,
+Harford,"2,012",-66,3*
+Howard,"3,913",-106,6*
+Kent,242,-22,1*
+Montgomery,"18,558",-764,39*
+Prince George's,"24,009",-738,23*
+Queen Anne's,433,-24,1*
+St. Mary's,"1,003",-52,
+Somerset,141,-3,
+Talbot,403,-4,
+Washington,"1,029",-31,
+Wicomico,"1,356",-45,
+Worcester,697,-19,1*
+Data not available,,-17,2*
