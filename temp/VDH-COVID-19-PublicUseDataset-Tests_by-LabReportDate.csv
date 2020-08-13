@@ -310,7 +310,7 @@
 3/21/2020,Eastern Shore,2,0,2,0
 3/21/2020,Fairfax,81,10,81,10
 3/21/2020,Hampton,16,0,16,0
-3/21/2020,Henrico,22,3,22,3
+3/21/2020,Henrico,21,3,21,3
 3/21/2020,Lenowisco,5,2,5,2
 3/21/2020,Lord Fairfax,3,0,3,0
 3/21/2020,Loudoun,13,1,13,1
@@ -325,7 +325,7 @@
 3/21/2020,Prince William,57,3,57,3
 3/21/2020,Rappahannock,27,3,27,3
 3/21/2020,Rappahannock Rapidan,6,0,6,0
-3/21/2020,Richmond,11,1,11,1
+3/21/2020,Richmond,12,1,12,1
 3/21/2020,Roanoke,17,0,17,0
 3/21/2020,Southside,4,0,4,0
 3/21/2020,Thomas Jefferson,27,1,27,1
@@ -426,8 +426,8 @@
 3/24/2020,Mount Rogers,13,1,13,1
 3/24/2020,New River,8,1,8,1
 3/24/2020,Norfolk,28,0,28,0
-3/24/2020,Out of State,73,27,73,27
-3/24/2020,Peninsula,102,21,102,21
+3/24/2020,Out of State,74,28,74,28
+3/24/2020,Peninsula,101,20,101,20
 3/24/2020,Piedmont,21,0,21,0
 3/24/2020,Pittsylvania-Danville,19,2,19,2
 3/24/2020,Portsmouth,8,0,8,0
@@ -490,33 +490,33 @@
 3/26/2020,Chickahominy,13,4,13,4
 3/26/2020,Crater,19,0,19,0
 3/26/2020,Cumberland Plateau,5,1,5,1
-3/26/2020,Eastern Shore,9,1,9,1
+3/26/2020,Eastern Shore,10,1,10,1
 3/26/2020,Fairfax,242,35,242,35
 3/26/2020,Hampton,22,4,22,4
 3/26/2020,Henrico,43,11,43,11
 3/26/2020,Lenowisco,3,0,3,0
-3/26/2020,Lord Fairfax,56,4,56,4
+3/26/2020,Lord Fairfax,55,3,55,3
 3/26/2020,Loudoun,105,8,105,8
 3/26/2020,Mount Rogers,10,1,10,1
 3/26/2020,New River,5,0,5,0
 3/26/2020,Norfolk,33,2,33,2
-3/26/2020,Out of State,110,26,110,26
-3/26/2020,Peninsula,102,9,102,9
+3/26/2020,Out of State,110,27,110,27
+3/26/2020,Peninsula,102,8,102,8
 3/26/2020,Piedmont,8,1,8,1
 3/26/2020,Pittsylvania-Danville,2,1,2,1
 3/26/2020,Portsmouth,8,1,8,1
 3/26/2020,Prince William,64,9,64,9
 3/26/2020,Rappahannock,63,5,63,5
 3/26/2020,Rappahannock Rapidan,26,4,26,4
-3/26/2020,Richmond,34,8,34,8
+3/26/2020,Richmond,35,8,35,8
 3/26/2020,Roanoke,9,0,9,0
-3/26/2020,Southside,2,0,2,0
+3/26/2020,Southside,1,0,1,0
 3/26/2020,Thomas Jefferson,35,4,35,4
 3/26/2020,Three Rivers,37,3,37,3
 3/26/2020,Unknown,2,0,2,0
 3/26/2020,Virginia Beach,65,9,65,9
 3/26/2020,West Piedmont,3,0,3,0
-3/26/2020,Western Tidewater,22,0,22,0
+3/26/2020,Western Tidewater,22,1,22,1
 3/27/2020,Alexandria,48,6,48,6
 3/27/2020,Alleghany,13,0,13,0
 3/27/2020,Arlington,64,11,64,11
@@ -530,7 +530,7 @@
 3/27/2020,Eastern Shore,16,2,16,2
 3/27/2020,Fairfax,199,31,199,31
 3/27/2020,Hampton,26,3,26,3
-3/27/2020,Henrico,86,25,86,25
+3/27/2020,Henrico,86,24,86,24
 3/27/2020,Lenowisco,8,0,8,0
 3/27/2020,Lord Fairfax,81,5,81,5
 3/27/2020,Loudoun,83,10,83,10
@@ -545,7 +545,7 @@
 3/27/2020,Prince William,96,12,96,12
 3/27/2020,Rappahannock,46,5,46,5
 3/27/2020,Rappahannock Rapidan,43,2,43,2
-3/27/2020,Richmond,34,9,34,9
+3/27/2020,Richmond,34,10,34,10
 3/27/2020,Roanoke,123,12,123,12
 3/27/2020,Southside,7,1,7,1
 3/27/2020,Thomas Jefferson,38,5,38,5
@@ -604,7 +604,7 @@
 3/29/2020,Eastern Shore,12,1,12,1
 3/29/2020,Fairfax,105,25,105,25
 3/29/2020,Hampton,25,3,25,3
-3/29/2020,Henrico,113,17,113,17
+3/29/2020,Henrico,114,18,114,18
 3/29/2020,Lenowisco,7,0,7,0
 3/29/2020,Lord Fairfax,63,8,63,8
 3/29/2020,Loudoun,29,11,29,11
@@ -619,7 +619,7 @@
 3/29/2020,Prince William,57,17,57,17
 3/29/2020,Rappahannock,40,3,40,3
 3/29/2020,Rappahannock Rapidan,25,4,25,4
-3/29/2020,Richmond,47,8,47,8
+3/29/2020,Richmond,46,7,46,7
 3/29/2020,Roanoke,38,2,38,2
 3/29/2020,Southside,7,0,7,0
 3/29/2020,Thomas Jefferson,30,5,30,5
@@ -709,7 +709,7 @@
 4/1/2020,Chesapeake,70,15,70,15
 4/1/2020,Chesterfield,94,12,94,12
 4/1/2020,Chickahominy,53,8,53,8
-4/1/2020,Crater,42,6,42,6
+4/1/2020,Crater,43,6,43,6
 4/1/2020,Cumberland Plateau,12,1,12,1
 4/1/2020,Eastern Shore,8,1,8,1
 4/1/2020,Fairfax,311,70,311,70
@@ -721,7 +721,7 @@
 4/1/2020,Mount Rogers,30,1,30,1
 4/1/2020,New River,24,0,24,0
 4/1/2020,Norfolk,67,3,67,3
-4/1/2020,Out of State,41,12,41,12
+4/1/2020,Out of State,40,12,40,12
 4/1/2020,Peninsula,141,24,141,24
 4/1/2020,Piedmont,29,4,29,4
 4/1/2020,Pittsylvania-Danville,38,4,38,4
@@ -788,7 +788,7 @@
 4/3/2020,Eastern Shore,15,4,15,4
 4/3/2020,Fairfax,344,81,344,81
 4/3/2020,Hampton,54,6,54,6
-4/3/2020,Henrico,137,22,137,22
+4/3/2020,Henrico,138,23,138,23
 4/3/2020,Lenowisco,9,1,9,1
 4/3/2020,Lord Fairfax,60,3,60,3
 4/3/2020,Loudoun,140,26,140,26
@@ -828,7 +828,7 @@
 4/4/2020,Henrico,66,20,66,20
 4/4/2020,Lenowisco,17,1,17,1
 4/4/2020,Lord Fairfax,121,14,121,14
-4/4/2020,Loudoun,119,31,119,31
+4/4/2020,Loudoun,120,32,120,32
 4/4/2020,Mount Rogers,57,6,57,6
 4/4/2020,New River,52,2,52,2
 4/4/2020,Norfolk,48,5,48,5
@@ -837,7 +837,7 @@
 4/4/2020,Piedmont,19,0,19,0
 4/4/2020,Pittsylvania-Danville,2,0,2,0
 4/4/2020,Portsmouth,21,2,21,2
-4/4/2020,Prince William,127,29,127,29
+4/4/2020,Prince William,126,28,126,28
 4/4/2020,Rappahannock,64,7,64,7
 4/4/2020,Rappahannock Rapidan,46,2,46,2
 4/4/2020,Richmond,57,15,57,15
@@ -855,13 +855,13 @@
 4/5/2020,Central Virginia,99,13,99,13
 4/5/2020,Chesapeake,92,8,92,8
 4/5/2020,Chesterfield,122,16,122,16
-4/5/2020,Chickahominy,46,11,46,11
+4/5/2020,Chickahominy,45,11,45,11
 4/5/2020,Crater,65,9,65,9
 4/5/2020,Cumberland Plateau,40,1,40,1
 4/5/2020,Eastern Shore,11,1,11,1
 4/5/2020,Fairfax,560,105,560,105
 4/5/2020,Hampton,71,8,71,8
-4/5/2020,Henrico,159,27,159,27
+4/5/2020,Henrico,160,27,160,27
 4/5/2020,Lenowisco,30,1,30,1
 4/5/2020,Lord Fairfax,241,20,241,20
 4/5/2020,Loudoun,133,23,133,23
@@ -892,7 +892,7 @@
 4/6/2020,Central Virginia,142,7,142,7
 4/6/2020,Chesapeake,62,15,62,15
 4/6/2020,Chesterfield,96,16,96,16
-4/6/2020,Chickahominy,35,4,35,4
+4/6/2020,Chickahominy,34,4,34,4
 4/6/2020,Crater,33,3,33,3
 4/6/2020,Cumberland Plateau,47,3,47,3
 4/6/2020,Eastern Shore,5,0,5,0
@@ -906,18 +906,18 @@
 4/6/2020,New River,146,7,146,7
 4/6/2020,Norfolk,70,9,70,9
 4/6/2020,Out of State,79,13,79,13
-4/6/2020,Peninsula,94,10,94,10
+4/6/2020,Peninsula,95,10,95,10
 4/6/2020,Piedmont,60,7,60,7
 4/6/2020,Pittsylvania-Danville,17,1,17,1
 4/6/2020,Portsmouth,37,4,37,4
 4/6/2020,Prince William,163,29,163,29
 4/6/2020,Rappahannock,87,12,87,12
 4/6/2020,Rappahannock Rapidan,50,7,50,7
-4/6/2020,Richmond,76,15,76,15
+4/6/2020,Richmond,77,15,77,15
 4/6/2020,Roanoke,60,3,60,3
 4/6/2020,Southside,14,2,14,2
 4/6/2020,Thomas Jefferson,16,4,16,4
-4/6/2020,Three Rivers,31,5,31,5
+4/6/2020,Three Rivers,30,5,30,5
 4/6/2020,Unknown,6,4,6,4
 4/6/2020,Virginia Beach,198,15,198,15
 4/6/2020,West Piedmont,4,2,4,2
@@ -942,13 +942,13 @@
 4/7/2020,Mount Rogers,39,5,40,6
 4/7/2020,New River,27,1,27,1
 4/7/2020,Norfolk,56,3,56,3
-4/7/2020,Out of State,50,10,50,10
+4/7/2020,Out of State,49,10,49,10
 4/7/2020,Peninsula,61,7,61,7
 4/7/2020,Piedmont,15,2,15,2
 4/7/2020,Pittsylvania-Danville,17,3,17,3
 4/7/2020,Portsmouth,16,2,16,2
 4/7/2020,Prince William,146,43,146,43
-4/7/2020,Rappahannock,148,8,148,8
+4/7/2020,Rappahannock,149,8,149,8
 4/7/2020,Rappahannock Rapidan,53,5,53,5
 4/7/2020,Richmond,55,6,55,6
 4/7/2020,Roanoke,81,6,81,6
@@ -961,7 +961,7 @@
 4/7/2020,Western Tidewater,35,0,35,0
 4/8/2020,Alexandria,53,14,53,14
 4/8/2020,Alleghany,5,1,5,1
-4/8/2020,Arlington,101,41,101,41
+4/8/2020,Arlington,102,42,102,42
 4/8/2020,Central Shenandoah,67,26,67,26
 4/8/2020,Central Virginia,42,5,42,5
 4/8/2020,Chesapeake,48,9,48,9
@@ -979,35 +979,35 @@
 4/8/2020,Mount Rogers,40,8,40,8
 4/8/2020,New River,11,0,11,0
 4/8/2020,Norfolk,59,11,59,11
-4/8/2020,Out of State,34,10,34,10
+4/8/2020,Out of State,35,10,35,10
 4/8/2020,Peninsula,61,7,61,7
 4/8/2020,Piedmont,27,2,27,2
 4/8/2020,Pittsylvania-Danville,21,3,21,3
 4/8/2020,Portsmouth,23,5,23,5
-4/8/2020,Prince William,164,50,164,50
+4/8/2020,Prince William,163,50,163,50
 4/8/2020,Rappahannock,93,7,93,7
 4/8/2020,Rappahannock Rapidan,64,7,64,7
 4/8/2020,Richmond,104,24,104,24
 4/8/2020,Roanoke,63,5,63,5
 4/8/2020,Southside,37,12,37,12
 4/8/2020,Thomas Jefferson,53,6,53,6
-4/8/2020,Three Rivers,34,5,34,5
+4/8/2020,Three Rivers,33,4,33,4
 4/8/2020,Unknown,2,1,2,1
 4/8/2020,Virginia Beach,106,5,106,5
 4/8/2020,West Piedmont,9,1,9,1
 4/8/2020,Western Tidewater,35,1,35,1
-4/9/2020,Alexandria,92,15,92,15
+4/9/2020,Alexandria,93,15,93,15
 4/9/2020,Alleghany,11,0,11,0
 4/9/2020,Arlington,101,31,101,31
 4/9/2020,Central Shenandoah,66,21,66,21
 4/9/2020,Central Virginia,61,10,61,10
 4/9/2020,Chesapeake,36,4,36,4
-4/9/2020,Chesterfield,206,36,206,36
+4/9/2020,Chesterfield,207,37,207,37
 4/9/2020,Chickahominy,76,7,77,7
 4/9/2020,Crater,70,5,70,5
 4/9/2020,Cumberland Plateau,54,1,54,1
 4/9/2020,Eastern Shore,5,2,5,2
-4/9/2020,Fairfax,448,137,448,137
+4/9/2020,Fairfax,447,137,447,137
 4/9/2020,Hampton,30,5,30,5
 4/9/2020,Henrico,197,25,197,25
 4/9/2020,Lenowisco,24,0,24,0
@@ -1024,7 +1024,7 @@
 4/9/2020,Prince William,209,68,209,68
 4/9/2020,Rappahannock,160,16,160,16
 4/9/2020,Rappahannock Rapidan,56,8,56,8
-4/9/2020,Richmond,110,13,110,13
+4/9/2020,Richmond,109,12,109,12
 4/9/2020,Roanoke,98,6,98,6
 4/9/2020,Southside,229,24,229,24
 4/9/2020,Thomas Jefferson,48,3,48,3
@@ -1045,7 +1045,7 @@
 4/10/2020,Cumberland Plateau,26,1,26,1
 4/10/2020,Eastern Shore,9,2,9,2
 4/10/2020,Fairfax,437,92,437,92
-4/10/2020,Hampton,35,3,35,3
+4/10/2020,Hampton,34,3,34,3
 4/10/2020,Henrico,171,34,171,34
 4/10/2020,Lenowisco,33,4,33,4
 4/10/2020,Lord Fairfax,116,12,116,12
@@ -1054,7 +1054,7 @@
 4/10/2020,New River,137,4,137,4
 4/10/2020,Norfolk,39,3,39,3
 4/10/2020,Out of State,83,9,83,9
-4/10/2020,Peninsula,109,10,109,10
+4/10/2020,Peninsula,110,10,110,10
 4/10/2020,Piedmont,49,5,49,5
 4/10/2020,Pittsylvania-Danville,24,1,24,1
 4/10/2020,Portsmouth,12,3,12,3
@@ -1083,7 +1083,7 @@
 4/11/2020,Eastern Shore,12,1,12,1
 4/11/2020,Fairfax,380,94,380,94
 4/11/2020,Hampton,26,8,26,8
-4/11/2020,Henrico,178,30,178,30
+4/11/2020,Henrico,178,31,178,31
 4/11/2020,Lenowisco,28,3,28,3
 4/11/2020,Lord Fairfax,56,4,56,4
 4/11/2020,Loudoun,92,18,92,18
@@ -1098,7 +1098,7 @@
 4/11/2020,Prince William,183,54,183,54
 4/11/2020,Rappahannock,91,17,91,17
 4/11/2020,Rappahannock Rapidan,53,5,53,5
-4/11/2020,Richmond,101,13,101,13
+4/11/2020,Richmond,101,12,101,12
 4/11/2020,Roanoke,51,1,51,1
 4/11/2020,Southside,20,5,20,5
 4/11/2020,Thomas Jefferson,38,6,38,6
@@ -1118,12 +1118,12 @@
 4/12/2020,Crater,41,9,41,9
 4/12/2020,Cumberland Plateau,55,11,55,11
 4/12/2020,Eastern Shore,8,0,8,0
-4/12/2020,Fairfax,275,79,275,79
+4/12/2020,Fairfax,274,78,274,78
 4/12/2020,Hampton,39,3,39,3
 4/12/2020,Henrico,120,30,120,30
 4/12/2020,Lenowisco,17,3,17,3
 4/12/2020,Lord Fairfax,58,6,58,6
-4/12/2020,Loudoun,48,12,48,12
+4/12/2020,Loudoun,49,13,49,13
 4/12/2020,Mount Rogers,67,3,67,3
 4/12/2020,New River,79,2,79,2
 4/12/2020,Norfolk,46,7,46,7
@@ -1144,9 +1144,9 @@
 4/12/2020,Virginia Beach,136,8,136,8
 4/12/2020,West Piedmont,18,0,18,0
 4/12/2020,Western Tidewater,68,17,68,17
-4/13/2020,Alexandria,47,10,47,10
+4/13/2020,Alexandria,48,11,48,11
 4/13/2020,Alleghany,6,0,6,0
-4/13/2020,Arlington,36,14,36,14
+4/13/2020,Arlington,35,13,35,13
 4/13/2020,Central Shenandoah,44,24,44,24
 4/13/2020,Central Virginia,16,0,16,0
 4/13/2020,Chesapeake,36,4,36,4
@@ -1197,7 +1197,7 @@
 4/14/2020,Henrico,195,28,195,28
 4/14/2020,Lenowisco,25,0,25,0
 4/14/2020,Lord Fairfax,59,5,59,5
-4/14/2020,Loudoun,63,13,64,13
+4/14/2020,Loudoun,64,13,65,13
 4/14/2020,Mount Rogers,26,0,26,0
 4/14/2020,New River,15,1,15,1
 4/14/2020,Norfolk,30,4,30,4
@@ -1220,7 +1220,7 @@
 4/14/2020,Western Tidewater,27,5,27,5
 4/15/2020,Alexandria,89,24,89,24
 4/15/2020,Alleghany,19,2,19,2
-4/15/2020,Arlington,94,35,94,35
+4/15/2020,Arlington,95,36,95,36
 4/15/2020,Central Shenandoah,79,35,79,35
 4/15/2020,Central Virginia,46,0,46,0
 4/15/2020,Chesapeake,48,3,48,3
@@ -1234,12 +1234,12 @@
 4/15/2020,Henrico,195,27,195,27
 4/15/2020,Lenowisco,33,2,33,2
 4/15/2020,Lord Fairfax,88,12,88,12
-4/15/2020,Loudoun,81,19,81,19
+4/15/2020,Loudoun,80,18,80,18
 4/15/2020,Mount Rogers,54,1,54,1
 4/15/2020,New River,23,2,23,2
 4/15/2020,Norfolk,52,5,52,5
 4/15/2020,Out of State,106,28,106,28
-4/15/2020,Peninsula,184,11,184,11
+4/15/2020,Peninsula,185,11,185,11
 4/15/2020,Piedmont,37,7,37,7
 4/15/2020,Pittsylvania-Danville,16,1,16,1
 4/15/2020,Portsmouth,22,1,22,1
@@ -1250,7 +1250,7 @@
 4/15/2020,Roanoke,87,6,87,6
 4/15/2020,Southside,23,4,23,4
 4/15/2020,Thomas Jefferson,67,9,67,9
-4/15/2020,Three Rivers,73,4,73,4
+4/15/2020,Three Rivers,72,4,72,4
 4/15/2020,Unknown,12,1,12,1
 4/15/2020,Virginia Beach,110,7,110,7
 4/15/2020,West Piedmont,15,0,15,0
@@ -1266,12 +1266,12 @@
 4/16/2020,Crater,78,7,78,7
 4/16/2020,Cumberland Plateau,22,0,22,0
 4/16/2020,Eastern Shore,20,11,20,11
-4/16/2020,Fairfax,493,187,494,188
-4/16/2020,Hampton,70,2,70,2
+4/16/2020,Fairfax,494,187,495,188
+4/16/2020,Hampton,69,2,69,2
 4/16/2020,Henrico,163,25,163,25
 4/16/2020,Lenowisco,42,2,42,2
 4/16/2020,Lord Fairfax,75,11,75,11
-4/16/2020,Loudoun,120,20,120,20
+4/16/2020,Loudoun,121,20,121,20
 4/16/2020,Mount Rogers,41,2,41,2
 4/16/2020,New River,127,7,127,7
 4/16/2020,Norfolk,42,9,42,9
@@ -1279,7 +1279,7 @@
 4/16/2020,Peninsula,126,8,126,8
 4/16/2020,Piedmont,49,3,49,3
 4/16/2020,Pittsylvania-Danville,22,3,22,3
-4/16/2020,Portsmouth,22,2,22,2
+4/16/2020,Portsmouth,23,2,23,2
 4/16/2020,Prince William,214,68,215,68
 4/16/2020,Rappahannock,141,23,141,23
 4/16/2020,Rappahannock Rapidan,64,10,64,10
@@ -1305,7 +1305,7 @@
 4/17/2020,Eastern Shore,26,10,26,10
 4/17/2020,Fairfax,408,150,411,152
 4/17/2020,Hampton,58,3,58,3
-4/17/2020,Henrico,259,50,259,50
+4/17/2020,Henrico,258,50,258,50
 4/17/2020,Lenowisco,22,3,22,3
 4/17/2020,Lord Fairfax,75,9,75,9
 4/17/2020,Loudoun,90,17,90,17
@@ -1313,18 +1313,18 @@
 4/17/2020,New River,22,1,22,1
 4/17/2020,Norfolk,48,2,48,2
 4/17/2020,Out of State,81,10,81,10
-4/17/2020,Peninsula,96,5,96,5
+4/17/2020,Peninsula,97,5,97,5
 4/17/2020,Piedmont,63,7,63,7
 4/17/2020,Pittsylvania-Danville,80,2,80,2
 4/17/2020,Portsmouth,22,4,22,4
 4/17/2020,Prince William,241,89,242,90
 4/17/2020,Rappahannock,104,19,104,19
 4/17/2020,Rappahannock Rapidan,65,12,65,12
-4/17/2020,Richmond,286,10,287,11
+4/17/2020,Richmond,287,10,288,11
 4/17/2020,Roanoke,62,3,62,3
 4/17/2020,Southside,45,6,45,6
 4/17/2020,Thomas Jefferson,51,1,51,1
-4/17/2020,Three Rivers,54,7,54,7
+4/17/2020,Three Rivers,53,7,53,7
 4/17/2020,Unknown,7,1,7,1
 4/17/2020,Virginia Beach,162,7,162,7
 4/17/2020,West Piedmont,27,0,27,0
@@ -1332,25 +1332,25 @@
 4/18/2020,Alexandria,66,23,66,23
 4/18/2020,Alleghany,75,7,75,7
 4/18/2020,Arlington,108,44,109,44
-4/18/2020,Central Shenandoah,93,32,93,32
+4/18/2020,Central Shenandoah,92,32,92,32
 4/18/2020,Central Virginia,90,1,90,1
 4/18/2020,Chesapeake,52,8,52,8
 4/18/2020,Chesterfield,115,14,115,14
-4/18/2020,Chickahominy,62,20,62,20
+4/18/2020,Chickahominy,63,20,63,20
 4/18/2020,Crater,54,6,54,6
 4/18/2020,Cumberland Plateau,18,0,18,0
 4/18/2020,Eastern Shore,20,7,20,7
 4/18/2020,Fairfax,401,133,404,133
 4/18/2020,Hampton,32,0,32,0
-4/18/2020,Henrico,123,14,123,14
+4/18/2020,Henrico,122,14,122,14
 4/18/2020,Lenowisco,17,0,17,0
 4/18/2020,Lord Fairfax,74,4,74,4
 4/18/2020,Loudoun,89,18,91,18
 4/18/2020,Mount Rogers,41,1,41,1
 4/18/2020,New River,26,1,26,1
-4/18/2020,Norfolk,43,6,43,6
-4/18/2020,Out of State,63,13,63,13
-4/18/2020,Peninsula,70,2,70,2
+4/18/2020,Norfolk,44,6,44,6
+4/18/2020,Out of State,64,13,64,13
+4/18/2020,Peninsula,69,2,69,2
 4/18/2020,Piedmont,43,4,43,4
 4/18/2020,Pittsylvania-Danville,26,1,26,1
 4/18/2020,Portsmouth,33,7,33,7
@@ -1386,13 +1386,13 @@
 4/19/2020,Mount Rogers,34,1,34,1
 4/19/2020,New River,72,3,72,3
 4/19/2020,Norfolk,45,4,45,4
-4/19/2020,Out of State,47,8,47,8
+4/19/2020,Out of State,48,9,48,9
 4/19/2020,Peninsula,78,6,78,6
 4/19/2020,Piedmont,24,1,24,1
 4/19/2020,Pittsylvania-Danville,8,0,8,0
 4/19/2020,Portsmouth,21,14,21,14
 4/19/2020,Prince William,238,67,238,67
-4/19/2020,Rappahannock,70,9,70,9
+4/19/2020,Rappahannock,69,8,69,8
 4/19/2020,Rappahannock Rapidan,75,11,75,11
 4/19/2020,Richmond,45,2,45,2
 4/19/2020,Roanoke,11,0,11,0
@@ -1413,8 +1413,8 @@
 4/20/2020,Chickahominy,56,11,56,11
 4/20/2020,Crater,79,5,79,5
 4/20/2020,Cumberland Plateau,9,0,9,0
-4/20/2020,Eastern Shore,12,9,12,9
-4/20/2020,Fairfax,321,147,332,148
+4/20/2020,Eastern Shore,13,9,13,9
+4/20/2020,Fairfax,322,148,333,149
 4/20/2020,Hampton,17,4,17,4
 4/20/2020,Henrico,126,19,126,19
 4/20/2020,Lenowisco,21,1,21,1
@@ -1423,22 +1423,22 @@
 4/20/2020,Mount Rogers,8,1,8,1
 4/20/2020,New River,18,1,18,1
 4/20/2020,Norfolk,34,6,34,6
-4/20/2020,Out of State,81,15,81,15
+4/20/2020,Out of State,80,15,80,15
 4/20/2020,Peninsula,52,6,52,6
 4/20/2020,Piedmont,34,3,35,3
 4/20/2020,Pittsylvania-Danville,17,2,17,2
 4/20/2020,Portsmouth,18,9,18,9
-4/20/2020,Prince William,173,53,178,55
+4/20/2020,Prince William,172,52,177,54
 4/20/2020,Rappahannock,104,11,111,18
 4/20/2020,Rappahannock Rapidan,40,13,40,13
 4/20/2020,Richmond,82,15,82,15
-4/20/2020,Roanoke,28,3,28,3
+4/20/2020,Roanoke,29,3,29,3
 4/20/2020,Southside,20,5,20,5
 4/20/2020,Thomas Jefferson,26,4,26,4
 4/20/2020,Three Rivers,27,2,27,2
 4/20/2020,Unknown,7,1,7,1
 4/20/2020,Virginia Beach,65,3,65,3
-4/20/2020,West Piedmont,10,0,10,0
+4/20/2020,West Piedmont,9,0,9,0
 4/20/2020,Western Tidewater,34,11,34,11
 4/21/2020,Alexandria,54,20,56,20
 4/21/2020,Alleghany,91,3,94,3
@@ -1484,20 +1484,20 @@
 4/22/2020,Central Virginia,98,8,98,8
 4/22/2020,Chesapeake,105,8,105,8
 4/22/2020,Chesterfield,258,25,262,26
-4/22/2020,Chickahominy,92,10,93,10
+4/22/2020,Chickahominy,91,10,92,10
 4/22/2020,Crater,131,16,131,16
 4/22/2020,Cumberland Plateau,53,0,53,0
 4/22/2020,Eastern Shore,69,36,70,37
 4/22/2020,Fairfax,566,218,605,220
 4/22/2020,Hampton,125,12,125,12
-4/22/2020,Henrico,283,45,284,45
+4/22/2020,Henrico,285,47,286,47
 4/22/2020,Lenowisco,78,3,79,3
 4/22/2020,Lord Fairfax,96,11,98,11
 4/22/2020,Loudoun,133,41,150,41
-4/22/2020,Mount Rogers,42,3,42,3
+4/22/2020,Mount Rogers,41,3,41,3
 4/22/2020,New River,26,3,31,3
 4/22/2020,Norfolk,69,8,85,10
-4/22/2020,Out of State,99,16,99,16
+4/22/2020,Out of State,100,16,100,16
 4/22/2020,Peninsula,148,10,153,11
 4/22/2020,Piedmont,77,14,77,14
 4/22/2020,Pittsylvania-Danville,32,6,33,6
@@ -1505,8 +1505,8 @@
 4/22/2020,Prince William,290,99,317,104
 4/22/2020,Rappahannock,192,18,209,20
 4/22/2020,Rappahannock Rapidan,109,29,111,29
-4/22/2020,Richmond,155,9,155,9
-4/22/2020,Roanoke,68,10,68,10
+4/22/2020,Richmond,153,7,153,7
+4/22/2020,Roanoke,69,10,69,10
 4/22/2020,Southside,190,7,190,7
 4/22/2020,Thomas Jefferson,75,6,79,6
 4/22/2020,Three Rivers,155,23,155,23
@@ -1522,7 +1522,7 @@
 4/23/2020,Chesapeake,88,7,88,7
 4/23/2020,Chesterfield,200,31,206,32
 4/23/2020,Chickahominy,54,7,57,7
-4/23/2020,Crater,74,17,78,17
+4/23/2020,Crater,75,17,79,17
 4/23/2020,Cumberland Plateau,22,0,23,1
 4/23/2020,Eastern Shore,70,42,70,42
 4/23/2020,Fairfax,577,200,693,214
@@ -1534,19 +1534,19 @@
 4/23/2020,Mount Rogers,37,0,40,0
 4/23/2020,New River,29,1,39,1
 4/23/2020,Norfolk,181,11,182,12
-4/23/2020,Out of State,94,5,94,5
-4/23/2020,Peninsula,262,18,272,20
+4/23/2020,Out of State,95,6,95,6
+4/23/2020,Peninsula,266,17,276,19
 4/23/2020,Piedmont,51,4,53,4
 4/23/2020,Pittsylvania-Danville,19,2,19,2
 4/23/2020,Portsmouth,42,3,42,3
 4/23/2020,Prince William,350,123,402,133
 4/23/2020,Rappahannock,151,18,160,18
 4/23/2020,Rappahannock Rapidan,71,11,77,11
-4/23/2020,Richmond,158,20,159,20
+4/23/2020,Richmond,156,19,157,19
 4/23/2020,Roanoke,63,4,68,4
 4/23/2020,Southside,47,6,47,6
 4/23/2020,Thomas Jefferson,52,1,59,1
-4/23/2020,Three Rivers,114,13,115,13
+4/23/2020,Three Rivers,110,14,111,14
 4/23/2020,Unknown,11,2,11,2
 4/23/2020,Virginia Beach,187,11,189,11
 4/23/2020,West Piedmont,14,2,15,2
@@ -1562,17 +1562,17 @@
 4/24/2020,Crater,109,15,109,15
 4/24/2020,Cumberland Plateau,74,1,74,1
 4/24/2020,Eastern Shore,74,43,74,43
-4/24/2020,Fairfax,650,228,737,233
+4/24/2020,Fairfax,651,229,738,234
 4/24/2020,Hampton,154,1,154,1
 4/24/2020,Henrico,256,36,258,36
 4/24/2020,Lenowisco,39,1,39,1
 4/24/2020,Lord Fairfax,136,21,140,21
-4/24/2020,Loudoun,142,40,225,43
+4/24/2020,Loudoun,141,39,224,42
 4/24/2020,Mount Rogers,52,3,54,3
 4/24/2020,New River,110,2,122,2
 4/24/2020,Norfolk,246,23,246,23
 4/24/2020,Out of State,78,11,78,11
-4/24/2020,Peninsula,164,11,170,12
+4/24/2020,Peninsula,168,13,174,14
 4/24/2020,Piedmont,58,10,61,10
 4/24/2020,Pittsylvania-Danville,31,1,32,1
 4/24/2020,Portsmouth,72,6,72,6
@@ -1583,28 +1583,28 @@
 4/24/2020,Roanoke,67,7,70,7
 4/24/2020,Southside,58,12,58,12
 4/24/2020,Thomas Jefferson,48,2,63,2
-4/24/2020,Three Rivers,91,6,92,6
+4/24/2020,Three Rivers,87,4,88,4
 4/24/2020,Unknown,11,3,11,3
 4/24/2020,Virginia Beach,151,8,151,8
 4/24/2020,West Piedmont,33,5,33,5
 4/24/2020,Western Tidewater,76,20,76,20
-4/25/2020,Alexandria,96,29,114,29
+4/25/2020,Alexandria,95,29,113,29
 4/25/2020,Alleghany,114,8,115,8
 4/25/2020,Arlington,116,36,141,38
 4/25/2020,Central Shenandoah,75,22,78,22
 4/25/2020,Central Virginia,85,7,88,7
 4/25/2020,Chesapeake,86,11,87,11
-4/25/2020,Chesterfield,199,17,209,18
+4/25/2020,Chesterfield,200,18,210,19
 4/25/2020,Chickahominy,61,7,61,7
-4/25/2020,Crater,113,12,115,13
+4/25/2020,Crater,112,11,114,12
 4/25/2020,Cumberland Plateau,38,2,38,2
 4/25/2020,Eastern Shore,94,45,94,45
-4/25/2020,Fairfax,541,168,618,172
+4/25/2020,Fairfax,544,169,621,173
 4/25/2020,Hampton,40,3,41,3
 4/25/2020,Henrico,167,32,175,32
 4/25/2020,Lenowisco,53,1,53,1
 4/25/2020,Lord Fairfax,65,5,70,5
-4/25/2020,Loudoun,204,39,301,40
+4/25/2020,Loudoun,202,38,299,39
 4/25/2020,Mount Rogers,45,4,46,4
 4/25/2020,New River,21,2,34,2
 4/25/2020,Norfolk,221,3,224,3
@@ -1636,12 +1636,12 @@
 4/26/2020,Crater,94,14,94,14
 4/26/2020,Cumberland Plateau,76,2,76,2
 4/26/2020,Eastern Shore,85,35,85,35
-4/26/2020,Fairfax,549,231,580,233
+4/26/2020,Fairfax,548,230,579,232
 4/26/2020,Hampton,39,1,39,1
 4/26/2020,Henrico,218,25,221,26
 4/26/2020,Lenowisco,54,4,54,4
 4/26/2020,Lord Fairfax,126,22,127,22
-4/26/2020,Loudoun,151,69,164,71
+4/26/2020,Loudoun,152,70,165,72
 4/26/2020,Mount Rogers,45,9,46,9
 4/26/2020,New River,69,1,69,1
 4/26/2020,Norfolk,87,4,87,4
@@ -1673,12 +1673,12 @@
 4/27/2020,Crater,96,10,96,10
 4/27/2020,Cumberland Plateau,5,1,5,1
 4/27/2020,Eastern Shore,45,24,45,24
-4/27/2020,Fairfax,521,158,569,164
+4/27/2020,Fairfax,522,159,570,165
 4/27/2020,Hampton,23,1,23,1
 4/27/2020,Henrico,165,21,167,22
 4/27/2020,Lenowisco,8,1,8,1
 4/27/2020,Lord Fairfax,56,12,88,12
-4/27/2020,Loudoun,117,27,129,28
+4/27/2020,Loudoun,116,26,128,27
 4/27/2020,Mount Rogers,15,1,15,1
 4/27/2020,New River,35,1,35,1
 4/27/2020,Norfolk,214,8,214,8
@@ -1690,13 +1690,13 @@
 4/27/2020,Prince William,348,107,358,108
 4/27/2020,Rappahannock,106,24,108,24
 4/27/2020,Rappahannock Rapidan,33,8,33,8
-4/27/2020,Richmond,103,10,103,10
+4/27/2020,Richmond,104,11,104,11
 4/27/2020,Roanoke,64,24,64,24
 4/27/2020,Southside,26,2,26,2
 4/27/2020,Thomas Jefferson,46,0,46,0
 4/27/2020,Three Rivers,50,3,50,3
-4/27/2020,Unknown,34,10,34,10
-4/27/2020,Virginia Beach,240,8,242,9
+4/27/2020,Unknown,31,9,31,9
+4/27/2020,Virginia Beach,242,8,244,9
 4/27/2020,West Piedmont,16,4,16,4
 4/27/2020,Western Tidewater,40,8,40,8
 4/28/2020,Alexandria,105,29,131,31
@@ -1705,14 +1705,14 @@
 4/28/2020,Central Shenandoah,60,9,64,9
 4/28/2020,Central Virginia,43,3,46,3
 4/28/2020,Chesapeake,135,17,137,17
-4/28/2020,Chesterfield,242,32,250,33
+4/28/2020,Chesterfield,243,32,251,33
 4/28/2020,Chickahominy,117,11,119,11
-4/28/2020,Crater,103,11,104,11
+4/28/2020,Crater,104,11,105,11
 4/28/2020,Cumberland Plateau,16,1,16,1
 4/28/2020,Eastern Shore,54,28,54,28
 4/28/2020,Fairfax,635,208,811,213
 4/28/2020,Hampton,56,5,56,5
-4/28/2020,Henrico,223,26,227,27
+4/28/2020,Henrico,222,26,226,27
 4/28/2020,Lenowisco,16,1,17,1
 4/28/2020,Lord Fairfax,144,32,164,32
 4/28/2020,Loudoun,201,48,311,57
@@ -1720,8 +1720,8 @@
 4/28/2020,New River,30,1,40,1
 4/28/2020,Norfolk,241,5,243,5
 4/28/2020,Out of State,124,15,124,15
-4/28/2020,Peninsula,96,8,130,10
-4/28/2020,Piedmont,27,4,27,4
+4/28/2020,Peninsula,97,8,131,10
+4/28/2020,Piedmont,28,4,28,4
 4/28/2020,Pittsylvania-Danville,13,4,13,4
 4/28/2020,Portsmouth,52,10,52,10
 4/28/2020,Prince William,315,117,390,123
@@ -1729,10 +1729,10 @@
 4/28/2020,Rappahannock Rapidan,45,12,59,13
 4/28/2020,Richmond,149,19,151,20
 4/28/2020,Roanoke,102,16,110,16
-4/28/2020,Southside,21,2,22,2
+4/28/2020,Southside,20,2,21,2
 4/28/2020,Thomas Jefferson,57,6,60,6
 4/28/2020,Three Rivers,52,5,53,5
-4/28/2020,Unknown,71,9,71,9
+4/28/2020,Unknown,69,9,69,9
 4/28/2020,Virginia Beach,239,8,247,11
 4/28/2020,West Piedmont,4,0,7,0
 4/28/2020,Western Tidewater,57,8,58,8
@@ -1743,13 +1743,13 @@
 4/29/2020,Central Virginia,98,9,109,10
 4/29/2020,Chesapeake,152,28,160,28
 4/29/2020,Chesterfield,390,43,476,47
-4/29/2020,Chickahominy,170,12,195,12
-4/29/2020,Crater,171,28,177,28
+4/29/2020,Chickahominy,172,12,197,12
+4/29/2020,Crater,173,28,179,28
 4/29/2020,Cumberland Plateau,24,1,30,1
 4/29/2020,Eastern Shore,132,65,132,65
 4/29/2020,Fairfax,826,300,"1,011",307
 4/29/2020,Hampton,72,5,76,5
-4/29/2020,Henrico,473,31,495,31
+4/29/2020,Henrico,468,31,490,31
 4/29/2020,Lenowisco,30,0,35,0
 4/29/2020,Lord Fairfax,185,39,193,39
 4/29/2020,Loudoun,412,59,486,61
@@ -1757,19 +1757,19 @@
 4/29/2020,New River,33,1,50,1
 4/29/2020,Norfolk,238,9,249,10
 4/29/2020,Out of State,134,15,134,15
-4/29/2020,Peninsula,198,17,264,17
-4/29/2020,Piedmont,84,8,91,9
+4/29/2020,Peninsula,200,17,266,17
+4/29/2020,Piedmont,83,8,90,9
 4/29/2020,Pittsylvania-Danville,22,4,25,4
 4/29/2020,Portsmouth,80,13,86,13
 4/29/2020,Prince William,484,198,553,201
-4/29/2020,Rappahannock,271,35,300,36
+4/29/2020,Rappahannock,270,35,299,36
 4/29/2020,Rappahannock Rapidan,147,27,169,27
 4/29/2020,Richmond,225,31,243,31
 4/29/2020,Roanoke,76,5,85,5
 4/29/2020,Southside,51,5,51,5
-4/29/2020,Thomas Jefferson,171,34,205,34
-4/29/2020,Three Rivers,122,11,128,11
-4/29/2020,Unknown,80,5,80,5
+4/29/2020,Thomas Jefferson,172,34,206,34
+4/29/2020,Three Rivers,121,11,127,11
+4/29/2020,Unknown,81,5,81,5
 4/29/2020,Virginia Beach,296,21,318,23
 4/29/2020,West Piedmont,32,0,40,0
 4/29/2020,Western Tidewater,147,23,156,23
@@ -1784,7 +1784,7 @@
 4/30/2020,Crater,184,19,192,19
 4/30/2020,Cumberland Plateau,33,1,35,1
 4/30/2020,Eastern Shore,143,69,143,69
-4/30/2020,Fairfax,625,191,927,210
+4/30/2020,Fairfax,626,192,928,211
 4/30/2020,Hampton,64,6,72,7
 4/30/2020,Henrico,397,28,469,31
 4/30/2020,Lenowisco,41,3,42,3
@@ -1793,8 +1793,8 @@
 4/30/2020,Mount Rogers,103,9,125,10
 4/30/2020,New River,32,1,46,1
 4/30/2020,Norfolk,231,7,247,9
-4/30/2020,Out of State,139,14,139,14
-4/30/2020,Peninsula,205,14,277,22
+4/30/2020,Out of State,139,13,139,13
+4/30/2020,Peninsula,204,14,276,22
 4/30/2020,Piedmont,63,5,72,5
 4/30/2020,Pittsylvania-Danville,20,3,22,3
 4/30/2020,Portsmouth,54,12,57,12
@@ -1812,17 +1812,17 @@
 4/30/2020,Western Tidewater,133,11,142,11
 5/1/2020,Alexandria,154,58,203,64
 5/1/2020,Alleghany,88,2,95,2
-5/1/2020,Arlington,160,48,217,53
+5/1/2020,Arlington,159,47,216,52
 5/1/2020,Central Shenandoah,104,16,120,17
 5/1/2020,Central Virginia,121,10,135,11
 5/1/2020,Chesapeake,188,21,205,21
 5/1/2020,Chesterfield,290,28,358,31
 5/1/2020,Chickahominy,115,7,126,7
-5/1/2020,Crater,235,43,238,43
+5/1/2020,Crater,233,44,236,44
 5/1/2020,Cumberland Plateau,43,1,45,2
 5/1/2020,Eastern Shore,311,106,311,106
-5/1/2020,Fairfax,943,311,"1,172",331
-5/1/2020,Hampton,74,8,77,9
+5/1/2020,Fairfax,944,312,"1,173",332
+5/1/2020,Hampton,75,8,78,9
 5/1/2020,Henrico,321,34,358,34
 5/1/2020,Lenowisco,41,1,47,1
 5/1/2020,Lord Fairfax,133,24,142,25
@@ -1830,7 +1830,7 @@
 5/1/2020,Mount Rogers,157,21,171,21
 5/1/2020,New River,97,0,111,0
 5/1/2020,Norfolk,473,16,508,17
-5/1/2020,Out of State,162,20,164,20
+5/1/2020,Out of State,161,19,163,19
 5/1/2020,Peninsula,140,10,207,16
 5/1/2020,Piedmont,61,3,72,6
 5/1/2020,Pittsylvania-Danville,27,2,30,3
@@ -1840,24 +1840,24 @@
 5/1/2020,Rappahannock Rapidan,131,21,148,23
 5/1/2020,Richmond,217,33,241,34
 5/1/2020,Roanoke,97,11,103,12
-5/1/2020,Southside,37,6,46,6
+5/1/2020,Southside,38,5,47,5
 5/1/2020,Thomas Jefferson,136,5,174,8
-5/1/2020,Three Rivers,119,9,134,11
-5/1/2020,Unknown,77,11,77,11
+5/1/2020,Three Rivers,118,9,133,11
+5/1/2020,Unknown,79,12,79,12
 5/1/2020,Virginia Beach,269,9,323,12
 5/1/2020,West Piedmont,34,5,36,5
 5/1/2020,Western Tidewater,89,8,97,9
-5/2/2020,Alexandria,112,42,150,45
+5/2/2020,Alexandria,111,41,149,44
 5/2/2020,Alleghany,64,6,66,6
 5/2/2020,Arlington,212,72,295,77
-5/2/2020,Central Shenandoah,105,24,115,24
+5/2/2020,Central Shenandoah,106,25,116,25
 5/2/2020,Central Virginia,94,5,103,5
 5/2/2020,Chesapeake,85,5,101,5
 5/2/2020,Chesterfield,268,18,351,22
-5/2/2020,Chickahominy,100,7,118,8
+5/2/2020,Chickahominy,99,6,117,7
 5/2/2020,Crater,122,17,132,17
 5/2/2020,Cumberland Plateau,31,0,37,0
-5/2/2020,Eastern Shore,121,44,123,44
+5/2/2020,Eastern Shore,120,44,122,44
 5/2/2020,Fairfax,856,255,"1,173",284
 5/2/2020,Hampton,53,3,60,3
 5/2/2020,Henrico,266,28,304,28
@@ -1872,9 +1872,9 @@
 5/2/2020,Piedmont,83,8,96,8
 5/2/2020,Pittsylvania-Danville,22,0,23,1
 5/2/2020,Portsmouth,117,11,119,11
-5/2/2020,Prince William,406,134,498,137
-5/2/2020,Rappahannock,190,25,238,26
-5/2/2020,Rappahannock Rapidan,94,20,115,21
+5/2/2020,Prince William,407,135,499,138
+5/2/2020,Rappahannock,191,25,239,26
+5/2/2020,Rappahannock Rapidan,93,20,114,21
 5/2/2020,Richmond,129,15,153,16
 5/2/2020,Roanoke,92,8,101,9
 5/2/2020,Southside,44,3,52,3
@@ -1884,7 +1884,7 @@
 5/2/2020,Virginia Beach,184,8,262,14
 5/2/2020,West Piedmont,22,1,25,1
 5/2/2020,Western Tidewater,84,11,104,11
-5/3/2020,Alexandria,164,62,185,64
+5/3/2020,Alexandria,165,63,186,65
 5/3/2020,Alleghany,62,8,62,8
 5/3/2020,Arlington,101,30,128,33
 5/3/2020,Central Shenandoah,135,29,138,29
@@ -1900,7 +1900,7 @@
 5/3/2020,Henrico,235,20,241,20
 5/3/2020,Lenowisco,26,0,29,0
 5/3/2020,Lord Fairfax,133,29,134,29
-5/3/2020,Loudoun,179,40,220,43
+5/3/2020,Loudoun,178,39,219,42
 5/3/2020,Mount Rogers,50,3,51,3
 5/3/2020,New River,28,1,30,1
 5/3/2020,Norfolk,141,14,179,15
@@ -1930,7 +1930,7 @@
 5/4/2020,Chesterfield,187,17,187,17
 5/4/2020,Chickahominy,72,7,72,7
 5/4/2020,Crater,90,6,91,6
-5/4/2020,Cumberland Plateau,17,1,17,1
+5/4/2020,Cumberland Plateau,16,0,16,0
 5/4/2020,Eastern Shore,44,9,44,9
 5/4/2020,Fairfax,482,145,525,151
 5/4/2020,Hampton,18,1,19,1
@@ -1941,7 +1941,7 @@
 5/4/2020,Mount Rogers,38,3,38,3
 5/4/2020,New River,30,1,30,1
 5/4/2020,Norfolk,113,14,116,14
-5/4/2020,Out of State,126,18,126,18
+5/4/2020,Out of State,127,19,127,19
 5/4/2020,Peninsula,62,5,65,5
 5/4/2020,Piedmont,43,3,43,3
 5/4/2020,Pittsylvania-Danville,15,2,16,2
@@ -1960,16 +1960,16 @@
 5/4/2020,Western Tidewater,66,10,67,10
 5/5/2020,Alexandria,158,55,196,58
 5/5/2020,Alleghany,59,6,74,6
-5/5/2020,Arlington,187,51,244,57
+5/5/2020,Arlington,186,50,243,56
 5/5/2020,Central Shenandoah,97,24,113,31
 5/5/2020,Central Virginia,115,2,116,2
 5/5/2020,Chesapeake,239,26,250,26
-5/5/2020,Chesterfield,352,42,385,45
+5/5/2020,Chesterfield,351,41,384,44
 5/5/2020,Chickahominy,101,7,118,11
 5/5/2020,Crater,194,15,198,15
 5/5/2020,Cumberland Plateau,32,0,34,0
 5/5/2020,Eastern Shore,133,74,133,74
-5/5/2020,Fairfax,908,260,"1,250",271
+5/5/2020,Fairfax,909,261,"1,251",272
 5/5/2020,Hampton,66,5,72,5
 5/5/2020,Henrico,274,34,310,35
 5/5/2020,Lenowisco,307,1,308,1
@@ -1978,11 +1978,11 @@
 5/5/2020,Mount Rogers,72,7,77,8
 5/5/2020,New River,60,0,66,0
 5/5/2020,Norfolk,187,12,204,13
-5/5/2020,Out of State,192,34,195,34
+5/5/2020,Out of State,194,35,197,35
 5/5/2020,Peninsula,159,9,200,11
-5/5/2020,Piedmont,51,4,60,5
+5/5/2020,Piedmont,52,5,61,6
 5/5/2020,Pittsylvania-Danville,20,1,20,1
-5/5/2020,Portsmouth,55,11,59,12
+5/5/2020,Portsmouth,54,10,58,11
 5/5/2020,Prince William,474,167,535,170
 5/5/2020,Rappahannock,141,25,165,26
 5/5/2020,Rappahannock Rapidan,87,23,105,24
@@ -2006,16 +2006,16 @@
 5/6/2020,Crater,227,24,231,24
 5/6/2020,Cumberland Plateau,40,1,50,1
 5/6/2020,Eastern Shore,169,74,170,74
-5/6/2020,Fairfax,"1,150",317,"1,559",348
+5/6/2020,Fairfax,"1,149",317,"1,558",348
 5/6/2020,Hampton,82,4,92,4
 5/6/2020,Henrico,502,37,580,40
 5/6/2020,Lenowisco,112,0,118,0
-5/6/2020,Lord Fairfax,268,42,309,43
-5/6/2020,Loudoun,433,100,579,110
+5/6/2020,Lord Fairfax,269,42,310,43
+5/6/2020,Loudoun,434,100,580,110
 5/6/2020,Mount Rogers,166,28,189,28
 5/6/2020,New River,94,2,105,2
 5/6/2020,Norfolk,326,13,359,14
-5/6/2020,Out of State,220,30,225,30
+5/6/2020,Out of State,219,30,224,30
 5/6/2020,Peninsula,350,17,453,24
 5/6/2020,Piedmont,121,4,140,6
 5/6/2020,Pittsylvania-Danville,41,1,48,4
@@ -2044,22 +2044,22 @@
 5/7/2020,Cumberland Plateau,31,0,45,0
 5/7/2020,Eastern Shore,132,51,135,51
 5/7/2020,Fairfax,"1,077",311,"1,341",328
-5/7/2020,Hampton,80,1,86,2
+5/7/2020,Hampton,81,1,87,2
 5/7/2020,Henrico,472,25,521,27
 5/7/2020,Lenowisco,30,2,39,2
 5/7/2020,Lord Fairfax,179,27,214,27
-5/7/2020,Loudoun,295,56,398,63
+5/7/2020,Loudoun,296,56,399,63
 5/7/2020,Mount Rogers,117,10,132,10
 5/7/2020,New River,140,1,155,2
 5/7/2020,Norfolk,233,18,269,20
 5/7/2020,Out of State,186,22,193,22
-5/7/2020,Peninsula,225,11,296,15
+5/7/2020,Peninsula,224,11,295,15
 5/7/2020,Piedmont,118,7,129,7
 5/7/2020,Pittsylvania-Danville,37,0,39,0
 5/7/2020,Portsmouth,58,9,64,10
-5/7/2020,Prince William,587,199,686,202
-5/7/2020,Rappahannock,202,34,244,36
-5/7/2020,Rappahannock Rapidan,138,34,175,40
+5/7/2020,Prince William,588,200,687,203
+5/7/2020,Rappahannock,200,32,242,34
+5/7/2020,Rappahannock Rapidan,139,35,176,41
 5/7/2020,Richmond,203,25,240,26
 5/7/2020,Roanoke,122,3,142,3
 5/7/2020,Southside,55,8,61,8
@@ -2075,14 +2075,14 @@
 5/8/2020,Central Shenandoah,101,13,119,14
 5/8/2020,Central Virginia,140,3,156,4
 5/8/2020,Chesapeake,172,7,195,9
-5/8/2020,Chesterfield,283,40,395,41
+5/8/2020,Chesterfield,284,40,396,41
 5/8/2020,Chickahominy,190,13,215,13
 5/8/2020,Crater,143,20,162,21
 5/8/2020,Cumberland Plateau,37,1,51,1
 5/8/2020,Eastern Shore,193,31,196,31
 5/8/2020,Fairfax,"1,201",348,"1,667",372
 5/8/2020,Hampton,139,5,148,5
-5/8/2020,Henrico,"2,020",325,"2,081",329
+5/8/2020,Henrico,"2,019",325,"2,080",329
 5/8/2020,Lenowisco,29,1,34,1
 5/8/2020,Lord Fairfax,114,17,155,19
 5/8/2020,Loudoun,352,45,549,56
@@ -2116,18 +2116,18 @@
 5/9/2020,Chickahominy,151,9,174,10
 5/9/2020,Crater,155,12,168,12
 5/9/2020,Cumberland Plateau,17,0,23,0
-5/9/2020,Eastern Shore,67,29,69,29
+5/9/2020,Eastern Shore,66,28,68,28
 5/9/2020,Fairfax,914,256,"1,249",277
 5/9/2020,Hampton,86,1,96,3
 5/9/2020,Henrico,362,61,408,64
 5/9/2020,Lenowisco,21,1,26,1
-5/9/2020,Lord Fairfax,191,30,230,30
+5/9/2020,Lord Fairfax,190,30,229,30
 5/9/2020,Loudoun,318,47,417,54
 5/9/2020,Mount Rogers,80,9,96,9
 5/9/2020,New River,61,3,71,3
 5/9/2020,Norfolk,305,22,333,25
-5/9/2020,Out of State,337,96,338,96
-5/9/2020,Peninsula,294,7,363,11
+5/9/2020,Out of State,338,96,339,96
+5/9/2020,Peninsula,294,8,363,12
 5/9/2020,Piedmont,129,7,135,7
 5/9/2020,Pittsylvania-Danville,68,2,71,2
 5/9/2020,Portsmouth,65,5,72,5
@@ -2138,7 +2138,7 @@
 5/9/2020,Roanoke,212,5,218,6
 5/9/2020,Southside,65,12,71,12
 5/9/2020,Thomas Jefferson,171,8,199,12
-5/9/2020,Three Rivers,171,17,193,17
+5/9/2020,Three Rivers,172,17,194,17
 5/9/2020,Unknown,36,28,37,28
 5/9/2020,Virginia Beach,223,11,298,14
 5/9/2020,West Piedmont,40,4,51,4
@@ -2153,13 +2153,13 @@
 5/10/2020,Chickahominy,77,6,88,7
 5/10/2020,Crater,130,11,134,11
 5/10/2020,Cumberland Plateau,19,0,22,0
-5/10/2020,Eastern Shore,245,15,248,15
-5/10/2020,Fairfax,900,260,"1,020",268
+5/10/2020,Eastern Shore,244,15,247,15
+5/10/2020,Fairfax,899,259,"1,019",267
 5/10/2020,Hampton,52,6,54,7
 5/10/2020,Henrico,218,18,235,19
 5/10/2020,Lenowisco,22,1,26,1
 5/10/2020,Lord Fairfax,101,14,113,15
-5/10/2020,Loudoun,287,65,346,66
+5/10/2020,Loudoun,288,66,347,67
 5/10/2020,Mount Rogers,63,7,67,7
 5/10/2020,New River,20,0,24,0
 5/10/2020,Norfolk,188,14,197,15
@@ -2191,12 +2191,12 @@
 5/11/2020,Crater,84,10,85,10
 5/11/2020,Cumberland Plateau,11,0,13,0
 5/11/2020,Eastern Shore,139,12,140,13
-5/11/2020,Fairfax,730,167,747,170
+5/11/2020,Fairfax,730,166,747,169
 5/11/2020,Hampton,24,1,24,1
 5/11/2020,Henrico,174,23,179,23
 5/11/2020,Lenowisco,36,1,38,1
 5/11/2020,Lord Fairfax,237,36,239,36
-5/11/2020,Loudoun,187,46,192,48
+5/11/2020,Loudoun,189,47,194,49
 5/11/2020,Mount Rogers,47,4,47,4
 5/11/2020,New River,34,0,35,0
 5/11/2020,Norfolk,146,6,156,7
@@ -2228,7 +2228,7 @@
 5/12/2020,Crater,158,18,171,19
 5/12/2020,Cumberland Plateau,23,0,26,0
 5/12/2020,Eastern Shore,232,38,233,38
-5/12/2020,Fairfax,784,189,"1,184",221
+5/12/2020,Fairfax,785,190,"1,185",222
 5/12/2020,Hampton,71,8,81,9
 5/12/2020,Henrico,394,38,429,39
 5/12/2020,Lenowisco,31,0,36,1
@@ -2261,21 +2261,21 @@
 5/13/2020,Central Virginia,172,2,185,2
 5/13/2020,Chesapeake,185,15,199,15
 5/13/2020,Chesterfield,562,68,640,70
-5/13/2020,Chickahominy,164,9,188,9
+5/13/2020,Chickahominy,165,9,189,9
 5/13/2020,Crater,200,21,204,21
-5/13/2020,Cumberland Plateau,22,0,26,0
+5/13/2020,Cumberland Plateau,23,0,27,0
 5/13/2020,Eastern Shore,57,11,59,11
 5/13/2020,Fairfax,"1,190",302,"1,578",332
 5/13/2020,Hampton,87,9,94,10
 5/13/2020,Henrico,403,48,456,50
 5/13/2020,Lenowisco,39,1,40,1
 5/13/2020,Lord Fairfax,254,32,292,34
-5/13/2020,Loudoun,525,126,695,138
+5/13/2020,Loudoun,526,126,696,138
 5/13/2020,Mount Rogers,117,7,129,7
 5/13/2020,New River,100,2,109,2
 5/13/2020,Norfolk,240,15,273,17
-5/13/2020,Out of State,243,30,252,30
-5/13/2020,Peninsula,281,11,350,14
+5/13/2020,Out of State,242,30,251,30
+5/13/2020,Peninsula,280,11,349,14
 5/13/2020,Piedmont,116,8,128,10
 5/13/2020,Pittsylvania-Danville,46,3,47,3
 5/13/2020,Portsmouth,88,0,91,0
@@ -2307,13 +2307,13 @@
 5/14/2020,Henrico,322,31,391,35
 5/14/2020,Lenowisco,36,0,40,0
 5/14/2020,Lord Fairfax,183,48,226,50
-5/14/2020,Loudoun,392,58,582,68
+5/14/2020,Loudoun,391,58,581,68
 5/14/2020,Mount Rogers,204,31,221,31
 5/14/2020,New River,142,1,159,1
 5/14/2020,Norfolk,185,10,226,13
-5/14/2020,Out of State,202,16,202,16
+5/14/2020,Out of State,201,15,201,15
 5/14/2020,Peninsula,517,22,639,27
-5/14/2020,Piedmont,105,6,122,6
+5/14/2020,Piedmont,106,7,123,7
 5/14/2020,Pittsylvania-Danville,39,3,47,3
 5/14/2020,Portsmouth,69,8,81,10
 5/14/2020,Prince William,643,184,793,195
@@ -2324,7 +2324,7 @@
 5/14/2020,Southside,61,13,76,14
 5/14/2020,Thomas Jefferson,286,13,342,14
 5/14/2020,Three Rivers,172,69,198,70
-5/14/2020,Unknown,18,4,19,5
+5/14/2020,Unknown,19,4,20,5
 5/14/2020,Virginia Beach,349,8,452,10
 5/14/2020,West Piedmont,26,4,48,5
 5/14/2020,Western Tidewater,117,9,142,11
@@ -2336,32 +2336,32 @@
 5/15/2020,Chesapeake,261,11,290,11
 5/15/2020,Chesterfield,554,60,652,66
 5/15/2020,Chickahominy,173,12,202,12
-5/15/2020,Crater,122,12,131,12
+5/15/2020,Crater,123,12,132,12
 5/15/2020,Cumberland Plateau,17,2,23,2
 5/15/2020,Eastern Shore,50,8,54,8
 5/15/2020,Fairfax,892,250,"1,325",289
 5/15/2020,Hampton,43,2,56,2
-5/15/2020,Henrico,415,47,460,52
+5/15/2020,Henrico,414,46,459,51
 5/15/2020,Lenowisco,37,0,49,1
 5/15/2020,Lord Fairfax,164,31,256,32
-5/15/2020,Loudoun,600,68,789,80
+5/15/2020,Loudoun,601,68,790,80
 5/15/2020,Mount Rogers,54,5,76,6
 5/15/2020,New River,56,0,70,0
 5/15/2020,Norfolk,142,6,180,9
 5/15/2020,Out of State,221,19,225,19
-5/15/2020,Peninsula,175,9,267,16
+5/15/2020,Peninsula,173,9,265,16
 5/15/2020,Piedmont,114,8,126,8
 5/15/2020,Pittsylvania-Danville,40,2,45,2
 5/15/2020,Portsmouth,59,5,62,6
 5/15/2020,Prince William,608,169,757,186
 5/15/2020,Rappahannock,213,29,290,33
-5/15/2020,Rappahannock Rapidan,165,34,220,36
-5/15/2020,Richmond,259,47,287,47
+5/15/2020,Rappahannock Rapidan,165,35,220,37
+5/15/2020,Richmond,260,48,288,48
 5/15/2020,Roanoke,117,8,162,8
 5/15/2020,Southside,67,11,74,12
 5/15/2020,Thomas Jefferson,358,15,416,17
-5/15/2020,Three Rivers,90,5,112,9
-5/15/2020,Unknown,18,8,19,9
+5/15/2020,Three Rivers,91,5,113,9
+5/15/2020,Unknown,17,7,18,8
 5/15/2020,Virginia Beach,236,6,309,6
 5/15/2020,West Piedmont,66,10,83,10
 5/15/2020,Western Tidewater,105,9,123,10
@@ -2404,7 +2404,7 @@
 5/16/2020,Western Tidewater,237,26,255,26
 5/17/2020,Alexandria,132,32,145,32
 5/17/2020,Alleghany,63,3,65,3
-5/17/2020,Arlington,156,32,174,32
+5/17/2020,Arlington,155,31,173,31
 5/17/2020,Central Shenandoah,453,41,462,42
 5/17/2020,Central Virginia,170,1,175,1
 5/17/2020,Chesapeake,157,8,175,8
@@ -2422,7 +2422,7 @@
 5/17/2020,Mount Rogers,43,2,46,2
 5/17/2020,New River,49,0,52,0
 5/17/2020,Norfolk,356,78,365,78
-5/17/2020,Out of State,135,15,136,16
+5/17/2020,Out of State,136,16,137,17
 5/17/2020,Peninsula,191,3,213,4
 5/17/2020,Piedmont,118,14,119,15
 5/17/2020,Pittsylvania-Danville,74,4,75,4
@@ -2450,16 +2450,16 @@
 5/18/2020,Crater,118,13,118,13
 5/18/2020,Cumberland Plateau,30,0,30,0
 5/18/2020,Eastern Shore,69,10,70,10
-5/18/2020,Fairfax,843,149,872,151
-5/18/2020,Hampton,26,1,26,1
+5/18/2020,Fairfax,845,149,874,151
+5/18/2020,Hampton,27,1,27,1
 5/18/2020,Henrico,326,24,327,24
 5/18/2020,Lenowisco,32,0,33,0
 5/18/2020,Lord Fairfax,120,24,124,26
-5/18/2020,Loudoun,217,43,221,44
+5/18/2020,Loudoun,218,43,222,44
 5/18/2020,Mount Rogers,46,4,46,4
 5/18/2020,New River,39,0,39,0
 5/18/2020,Norfolk,108,13,109,13
-5/18/2020,Out of State,204,15,207,16
+5/18/2020,Out of State,203,15,206,16
 5/18/2020,Peninsula,123,9,129,9
 5/18/2020,Piedmont,47,2,47,2
 5/18/2020,Pittsylvania-Danville,16,1,16,1
@@ -2475,7 +2475,7 @@
 5/18/2020,Unknown,17,4,17,4
 5/18/2020,Virginia Beach,177,9,177,9
 5/18/2020,West Piedmont,19,3,19,3
-5/18/2020,Western Tidewater,237,3,237,3
+5/18/2020,Western Tidewater,236,3,236,3
 5/19/2020,Alexandria,215,32,273,36
 5/19/2020,Alleghany,64,4,82,4
 5/19/2020,Arlington,210,50,318,61
@@ -2483,16 +2483,16 @@
 5/19/2020,Central Virginia,137,3,156,3
 5/19/2020,Chesapeake,218,12,235,12
 5/19/2020,Chesterfield,331,49,404,53
-5/19/2020,Chickahominy,131,11,157,12
+5/19/2020,Chickahominy,132,11,158,12
 5/19/2020,Crater,225,49,230,50
 5/19/2020,Cumberland Plateau,26,1,32,3
 5/19/2020,Eastern Shore,31,2,36,3
-5/19/2020,Fairfax,"1,273",266,"1,644",292
+5/19/2020,Fairfax,"1,272",266,"1,643",292
 5/19/2020,Hampton,77,7,82,7
 5/19/2020,Henrico,368,38,407,38
 5/19/2020,Lenowisco,35,1,40,1
 5/19/2020,Lord Fairfax,331,59,383,62
-5/19/2020,Loudoun,412,87,592,94
+5/19/2020,Loudoun,413,87,593,94
 5/19/2020,Mount Rogers,89,12,98,12
 5/19/2020,New River,130,0,143,0
 5/19/2020,Norfolk,145,12,169,12
@@ -2502,7 +2502,7 @@
 5/19/2020,Pittsylvania-Danville,23,0,26,1
 5/19/2020,Portsmouth,137,11,142,11
 5/19/2020,Prince William,927,184,"1,052",200
-5/19/2020,Rappahannock,205,22,244,23
+5/19/2020,Rappahannock,204,22,243,23
 5/19/2020,Rappahannock Rapidan,155,30,185,30
 5/19/2020,Richmond,280,83,314,83
 5/19/2020,Roanoke,306,9,326,9
@@ -2519,22 +2519,22 @@
 5/20/2020,Central Shenandoah,252,12,292,14
 5/20/2020,Central Virginia,209,7,227,7
 5/20/2020,Chesapeake,228,15,270,16
-5/20/2020,Chesterfield,523,86,631,95
+5/20/2020,Chesterfield,524,86,632,95
 5/20/2020,Chickahominy,161,22,199,23
-5/20/2020,Crater,292,21,322,24
+5/20/2020,Crater,291,21,321,24
 5/20/2020,Cumberland Plateau,20,0,22,0
-5/20/2020,Eastern Shore,290,18,293,18
-5/20/2020,Fairfax,"1,644",348,"2,096",377
+5/20/2020,Eastern Shore,289,18,292,18
+5/20/2020,Fairfax,"1,645",349,"2,097",378
 5/20/2020,Hampton,92,5,105,5
 5/20/2020,Henrico,474,86,530,90
 5/20/2020,Lenowisco,40,1,51,1
 5/20/2020,Lord Fairfax,263,57,329,58
-5/20/2020,Loudoun,496,108,729,126
+5/20/2020,Loudoun,495,107,728,125
 5/20/2020,Mount Rogers,169,22,185,23
 5/20/2020,New River,113,2,134,2
 5/20/2020,Norfolk,271,19,307,23
 5/20/2020,Out of State,436,30,441,30
-5/20/2020,Peninsula,280,23,365,30
+5/20/2020,Peninsula,279,23,364,30
 5/20/2020,Piedmont,119,18,128,18
 5/20/2020,Pittsylvania-Danville,65,4,70,5
 5/20/2020,Portsmouth,96,11,98,11
@@ -2545,14 +2545,14 @@
 5/20/2020,Roanoke,282,9,308,10
 5/20/2020,Southside,94,8,104,8
 5/20/2020,Thomas Jefferson,296,13,365,17
-5/20/2020,Three Rivers,169,22,190,24
+5/20/2020,Three Rivers,170,22,191,24
 5/20/2020,Unknown,145,8,146,9
 5/20/2020,Virginia Beach,494,11,570,16
 5/20/2020,West Piedmont,96,23,102,23
 5/20/2020,Western Tidewater,179,10,198,14
-5/21/2020,Alexandria,180,37,222,44
+5/21/2020,Alexandria,181,38,223,45
 5/21/2020,Alleghany,91,5,111,5
-5/21/2020,Arlington,170,37,274,41
+5/21/2020,Arlington,171,38,275,42
 5/21/2020,Central Shenandoah,156,27,184,29
 5/21/2020,Central Virginia,112,1,130,1
 5/21/2020,Chesapeake,125,15,156,17
@@ -2561,12 +2561,12 @@
 5/21/2020,Crater,192,13,205,13
 5/21/2020,Cumberland Plateau,78,0,83,0
 5/21/2020,Eastern Shore,70,10,72,11
-5/21/2020,Fairfax,"1,128",263,"1,570",299
+5/21/2020,Fairfax,"1,127",262,"1,569",298
 5/21/2020,Hampton,79,4,89,5
 5/21/2020,Henrico,393,45,447,47
 5/21/2020,Lenowisco,63,0,70,0
 5/21/2020,Lord Fairfax,248,41,303,44
-5/21/2020,Loudoun,422,87,647,94
+5/21/2020,Loudoun,423,88,648,95
 5/21/2020,Mount Rogers,181,48,197,50
 5/21/2020,New River,166,5,184,5
 5/21/2020,Norfolk,178,23,202,24
@@ -2575,7 +2575,7 @@
 5/21/2020,Piedmont,107,13,124,14
 5/21/2020,Pittsylvania-Danville,50,5,55,7
 5/21/2020,Portsmouth,78,10,83,10
-5/21/2020,Prince William,906,200,"1,043",210
+5/21/2020,Prince William,905,199,"1,042",209
 5/21/2020,Rappahannock,280,36,329,40
 5/21/2020,Rappahannock Rapidan,234,50,272,54
 5/21/2020,Richmond,266,52,303,54
@@ -2587,7 +2587,7 @@
 5/21/2020,Virginia Beach,285,12,338,15
 5/21/2020,West Piedmont,34,5,46,5
 5/21/2020,Western Tidewater,125,6,134,6
-5/22/2020,Alexandria,408,38,462,38
+5/22/2020,Alexandria,407,37,461,37
 5/22/2020,Alleghany,126,2,148,5
 5/22/2020,Arlington,400,66,482,71
 5/22/2020,Central Shenandoah,144,13,171,19
@@ -2598,7 +2598,7 @@
 5/22/2020,Crater,247,38,262,39
 5/22/2020,Cumberland Plateau,35,0,36,0
 5/22/2020,Eastern Shore,47,6,49,7
-5/22/2020,Fairfax,"1,330",263,"1,732",287
+5/22/2020,Fairfax,"1,332",264,"1,734",288
 5/22/2020,Hampton,68,7,79,7
 5/22/2020,Henrico,557,70,618,77
 5/22/2020,Lenowisco,50,1,56,2
@@ -2608,7 +2608,7 @@
 5/22/2020,New River,50,2,70,2
 5/22/2020,Norfolk,174,15,192,15
 5/22/2020,Out of State,291,24,296,25
-5/22/2020,Peninsula,213,12,289,18
+5/22/2020,Peninsula,214,12,290,18
 5/22/2020,Piedmont,119,13,130,15
 5/22/2020,Pittsylvania-Danville,44,1,50,1
 5/22/2020,Portsmouth,125,18,132,18
@@ -2640,7 +2640,7 @@
 5/23/2020,Henrico,359,45,416,48
 5/23/2020,Lenowisco,61,0,61,0
 5/23/2020,Lord Fairfax,302,41,355,46
-5/23/2020,Loudoun,315,51,520,60
+5/23/2020,Loudoun,316,51,521,60
 5/23/2020,Mount Rogers,121,17,132,17
 5/23/2020,New River,98,2,114,2
 5/23/2020,Norfolk,197,18,232,18
@@ -2649,7 +2649,7 @@
 5/23/2020,Piedmont,89,9,99,11
 5/23/2020,Pittsylvania-Danville,57,0,61,0
 5/23/2020,Portsmouth,198,6,204,7
-5/23/2020,Prince William,639,127,754,137
+5/23/2020,Prince William,640,127,755,137
 5/23/2020,Rappahannock,225,43,285,45
 5/23/2020,Rappahannock Rapidan,145,14,192,16
 5/23/2020,Richmond,210,38,227,39
@@ -2671,7 +2671,7 @@
 5/24/2020,Chickahominy,86,5,90,5
 5/24/2020,Crater,178,22,181,22
 5/24/2020,Cumberland Plateau,23,0,23,0
-5/24/2020,Eastern Shore,51,6,52,6
+5/24/2020,Eastern Shore,50,6,51,6
 5/24/2020,Fairfax,927,172,"1,060",188
 5/24/2020,Hampton,74,0,76,0
 5/24/2020,Henrico,303,33,318,33
@@ -2737,7 +2737,7 @@
 5/25/2020,Western Tidewater,55,2,56,2
 5/26/2020,Alexandria,"1,391",80,"1,393",80
 5/26/2020,Alleghany,55,4,55,4
-5/26/2020,Arlington,417,57,425,62
+5/26/2020,Arlington,416,57,424,62
 5/26/2020,Central Shenandoah,121,22,121,22
 5/26/2020,Central Virginia,84,1,84,1
 5/26/2020,Chesapeake,97,12,97,12
@@ -2755,25 +2755,25 @@
 5/26/2020,Mount Rogers,61,6,61,6
 5/26/2020,New River,39,1,40,1
 5/26/2020,Norfolk,130,8,130,8
-5/26/2020,Out of State,617,55,618,55
+5/26/2020,Out of State,618,55,619,55
 5/26/2020,Peninsula,110,3,113,5
 5/26/2020,Piedmont,51,7,51,7
 5/26/2020,Pittsylvania-Danville,42,3,42,3
 5/26/2020,Portsmouth,36,3,36,3
 5/26/2020,Prince William,"1,132",166,"1,136",168
 5/26/2020,Rappahannock,263,35,268,35
-5/26/2020,Rappahannock Rapidan,131,18,135,18
+5/26/2020,Rappahannock Rapidan,132,19,136,19
 5/26/2020,Richmond,177,23,177,23
 5/26/2020,Roanoke,231,3,231,3
 5/26/2020,Southside,57,2,57,2
-5/26/2020,Thomas Jefferson,147,16,157,16
+5/26/2020,Thomas Jefferson,146,15,156,15
 5/26/2020,Three Rivers,67,7,67,7
 5/26/2020,Unknown,212,28,212,28
 5/26/2020,Virginia Beach,320,2,321,3
 5/26/2020,West Piedmont,31,4,32,4
 5/26/2020,Western Tidewater,94,2,94,2
 5/27/2020,Alexandria,761,52,791,53
-5/27/2020,Alleghany,118,5,134,5
+5/27/2020,Alleghany,117,5,133,5
 5/27/2020,Arlington,932,58,"1,001",63
 5/27/2020,Central Shenandoah,250,26,269,29
 5/27/2020,Central Virginia,102,4,115,6
@@ -2783,16 +2783,16 @@
 5/27/2020,Crater,146,6,150,6
 5/27/2020,Cumberland Plateau,46,1,47,1
 5/27/2020,Eastern Shore,31,2,34,2
-5/27/2020,Fairfax,"1,667",270,"1,993",292
+5/27/2020,Fairfax,"1,669",271,"1,995",293
 5/27/2020,Hampton,95,8,100,8
-5/27/2020,Henrico,328,32,360,33
+5/27/2020,Henrico,330,33,362,34
 5/27/2020,Lenowisco,26,0,29,0
 5/27/2020,Lord Fairfax,279,45,337,79
-5/27/2020,Loudoun,"1,128",115,"1,270",125
+5/27/2020,Loudoun,"1,129",115,"1,271",125
 5/27/2020,Mount Rogers,66,8,72,8
 5/27/2020,New River,163,10,175,10
 5/27/2020,Norfolk,276,33,323,35
-5/27/2020,Out of State,797,46,803,46
+5/27/2020,Out of State,798,46,804,46
 5/27/2020,Peninsula,210,8,271,8
 5/27/2020,Piedmont,95,10,99,10
 5/27/2020,Pittsylvania-Danville,36,4,38,4
@@ -2800,12 +2800,12 @@
 5/27/2020,Prince William,"1,362",234,"1,455",253
 5/27/2020,Rappahannock,235,33,262,34
 5/27/2020,Rappahannock Rapidan,146,18,168,18
-5/27/2020,Richmond,285,55,303,56
+5/27/2020,Richmond,286,55,304,56
 5/27/2020,Roanoke,337,7,356,7
 5/27/2020,Southside,113,3,114,3
 5/27/2020,Thomas Jefferson,234,16,280,17
 5/27/2020,Three Rivers,58,4,65,5
-5/27/2020,Unknown,99,7,101,8
+5/27/2020,Unknown,98,6,100,7
 5/27/2020,Virginia Beach,466,21,570,26
 5/27/2020,West Piedmont,35,6,39,6
 5/27/2020,Western Tidewater,113,4,123,4
@@ -2814,35 +2814,35 @@
 5/28/2020,Arlington,287,25,404,38
 5/28/2020,Central Shenandoah,248,28,283,30
 5/28/2020,Central Virginia,347,5,367,5
-5/28/2020,Chesapeake,273,21,306,23
+5/28/2020,Chesapeake,274,21,307,23
 5/28/2020,Chesterfield,824,127,954,134
 5/28/2020,Chickahominy,252,12,292,14
 5/28/2020,Crater,357,58,383,60
 5/28/2020,Cumberland Plateau,62,0,65,0
 5/28/2020,Eastern Shore,60,9,64,9
-5/28/2020,Fairfax,"1,406",247,"1,880",279
+5/28/2020,Fairfax,"1,407",247,"1,881",279
 5/28/2020,Hampton,97,5,109,6
 5/28/2020,Henrico,646,80,716,84
 5/28/2020,Lenowisco,49,0,54,0
 5/28/2020,Lord Fairfax,345,45,454,70
-5/28/2020,Loudoun,580,81,733,90
+5/28/2020,Loudoun,581,82,734,91
 5/28/2020,Mount Rogers,208,71,230,71
 5/28/2020,New River,141,0,157,1
-5/28/2020,Norfolk,257,18,299,18
-5/28/2020,Out of State,695,23,699,24
+5/28/2020,Norfolk,256,18,298,18
+5/28/2020,Out of State,694,23,698,24
 5/28/2020,Peninsula,241,11,339,11
 5/28/2020,Piedmont,151,20,164,20
 5/28/2020,Pittsylvania-Danville,96,2,107,2
 5/28/2020,Portsmouth,125,13,136,14
-5/28/2020,Prince William,"1,446",287,"1,590",314
-5/28/2020,Rappahannock,555,80,634,84
+5/28/2020,Prince William,"1,445",287,"1,589",314
+5/28/2020,Rappahannock,556,80,635,84
 5/28/2020,Rappahannock Rapidan,373,34,415,35
 5/28/2020,Richmond,450,57,499,61
 5/28/2020,Roanoke,201,11,240,11
 5/28/2020,Southside,91,5,100,5
 5/28/2020,Thomas Jefferson,451,27,511,29
 5/28/2020,Three Rivers,132,13,166,16
-5/28/2020,Unknown,87,18,88,18
+5/28/2020,Unknown,88,18,89,18
 5/28/2020,Virginia Beach,455,21,583,26
 5/28/2020,West Piedmont,77,12,85,12
 5/28/2020,Western Tidewater,194,8,224,10
@@ -2852,29 +2852,29 @@
 5/29/2020,Central Shenandoah,454,43,477,45
 5/29/2020,Central Virginia,475,8,486,9
 5/29/2020,Chesapeake,509,17,555,20
-5/29/2020,Chesterfield,608,64,686,77
-5/29/2020,Chickahominy,200,2,226,7
+5/29/2020,Chesterfield,610,66,688,79
+5/29/2020,Chickahominy,201,3,227,8
 5/29/2020,Crater,239,34,256,35
 5/29/2020,Cumberland Plateau,84,0,85,0
 5/29/2020,Eastern Shore,42,7,43,7
-5/29/2020,Fairfax,"1,575",265,"1,977",293
+5/29/2020,Fairfax,"1,579",270,"1,981",298
 5/29/2020,Hampton,131,11,149,13
-5/29/2020,Henrico,542,43,593,43
+5/29/2020,Henrico,543,42,594,42
 5/29/2020,Lenowisco,58,2,63,2
 5/29/2020,Lord Fairfax,331,40,386,45
-5/29/2020,Loudoun,950,153,"1,084",159
+5/29/2020,Loudoun,969,172,"1,103",178
 5/29/2020,Mount Rogers,205,26,215,26
 5/29/2020,New River,113,0,125,0
 5/29/2020,Norfolk,238,13,284,14
 5/29/2020,Out of State,581,25,588,25
-5/29/2020,Peninsula,258,20,322,20
+5/29/2020,Peninsula,257,20,321,20
 5/29/2020,Piedmont,137,9,146,9
 5/29/2020,Pittsylvania-Danville,80,5,93,5
-5/29/2020,Portsmouth,192,8,205,8
-5/29/2020,Prince William,"1,171",283,"1,292",302
+5/29/2020,Portsmouth,193,8,206,8
+5/29/2020,Prince William,"1,176",288,"1,297",307
 5/29/2020,Rappahannock,332,41,394,42
 5/29/2020,Rappahannock Rapidan,230,27,271,27
-5/29/2020,Richmond,295,43,325,46
+5/29/2020,Richmond,297,42,327,45
 5/29/2020,Roanoke,101,9,133,10
 5/29/2020,Southside,70,2,75,2
 5/29/2020,Thomas Jefferson,189,13,265,16
@@ -2889,11 +2889,11 @@
 5/30/2020,Central Shenandoah,313,19,346,22
 5/30/2020,Central Virginia,210,3,219,4
 5/30/2020,Chesapeake,217,10,262,13
-5/30/2020,Chesterfield,488,51,565,55
+5/30/2020,Chesterfield,490,53,567,57
 5/30/2020,Chickahominy,275,2,302,4
 5/30/2020,Crater,209,19,221,19
 5/30/2020,Cumberland Plateau,66,2,69,2
-5/30/2020,Eastern Shore,70,6,75,8
+5/30/2020,Eastern Shore,71,6,76,8
 5/30/2020,Fairfax,"1,099",129,"1,530",162
 5/30/2020,Hampton,120,5,145,5
 5/30/2020,Henrico,646,55,698,56
@@ -2903,8 +2903,8 @@
 5/30/2020,Mount Rogers,96,5,120,6
 5/30/2020,New River,219,4,239,4
 5/30/2020,Norfolk,164,9,196,9
-5/30/2020,Out of State,292,4,292,4
-5/30/2020,Peninsula,251,14,334,16
+5/30/2020,Out of State,293,4,293,4
+5/30/2020,Peninsula,249,14,332,16
 5/30/2020,Piedmont,153,12,157,12
 5/30/2020,Pittsylvania-Danville,92,1,95,1
 5/30/2020,Portsmouth,135,7,146,8
@@ -2912,34 +2912,34 @@
 5/30/2020,Rappahannock,434,37,497,38
 5/30/2020,Rappahannock Rapidan,282,38,314,39
 5/30/2020,Richmond,283,41,322,45
-5/30/2020,Roanoke,277,14,309,15
+5/30/2020,Roanoke,276,14,308,15
 5/30/2020,Southside,85,4,94,4
 5/30/2020,Thomas Jefferson,405,26,454,28
-5/30/2020,Three Rivers,118,5,139,10
-5/30/2020,Unknown,14,2,15,2
+5/30/2020,Three Rivers,117,5,138,10
+5/30/2020,Unknown,15,2,16,2
 5/30/2020,Virginia Beach,235,10,321,18
-5/30/2020,West Piedmont,80,4,87,5
-5/30/2020,Western Tidewater,135,3,171,5
+5/30/2020,West Piedmont,81,4,88,5
+5/30/2020,Western Tidewater,136,3,172,5
 5/31/2020,Alexandria,107,14,124,19
 5/31/2020,Alleghany,86,8,90,8
 5/31/2020,Arlington,135,7,158,10
 5/31/2020,Central Shenandoah,422,13,428,13
-5/31/2020,Central Virginia,207,4,207,4
+5/31/2020,Central Virginia,208,4,208,4
 5/31/2020,Chesapeake,150,9,182,12
-5/31/2020,Chesterfield,328,30,353,32
+5/31/2020,Chesterfield,329,30,354,32
 5/31/2020,Chickahominy,117,8,123,9
-5/31/2020,Crater,198,13,204,13
+5/31/2020,Crater,197,13,203,13
 5/31/2020,Cumberland Plateau,92,0,94,0
 5/31/2020,Eastern Shore,54,4,57,6
 5/31/2020,Fairfax,794,128,907,137
 5/31/2020,Hampton,82,4,84,4
-5/31/2020,Henrico,357,23,367,23
+5/31/2020,Henrico,356,23,366,23
 5/31/2020,Lenowisco,56,0,57,0
 5/31/2020,Lord Fairfax,359,15,365,16
-5/31/2020,Loudoun,275,28,302,29
+5/31/2020,Loudoun,277,28,304,29
 5/31/2020,Mount Rogers,234,14,237,14
 5/31/2020,New River,61,1,73,1
-5/31/2020,Norfolk,152,12,163,12
+5/31/2020,Norfolk,151,12,162,12
 5/31/2020,Out of State,310,4,311,4
 5/31/2020,Peninsula,186,13,206,13
 5/31/2020,Piedmont,97,10,98,10
@@ -2954,7 +2954,7 @@
 5/31/2020,Thomas Jefferson,166,3,172,4
 5/31/2020,Three Rivers,116,5,121,6
 5/31/2020,Unknown,11,3,11,3
-5/31/2020,Virginia Beach,316,3,356,4
+5/31/2020,Virginia Beach,317,3,357,4
 5/31/2020,West Piedmont,442,13,443,13
 5/31/2020,Western Tidewater,115,4,116,4
 6/1/2020,Alexandria,101,11,103,12
@@ -2965,12 +2965,12 @@
 6/1/2020,Chesapeake,83,9,83,9
 6/1/2020,Chesterfield,464,77,468,77
 6/1/2020,Chickahominy,74,3,75,4
-6/1/2020,Crater,126,10,127,10
+6/1/2020,Crater,125,10,126,10
 6/1/2020,Cumberland Plateau,19,0,19,0
 6/1/2020,Eastern Shore,13,2,13,2
-6/1/2020,Fairfax,"1,102",169,"1,116",172
+6/1/2020,Fairfax,"1,103",169,"1,117",172
 6/1/2020,Hampton,30,4,31,4
-6/1/2020,Henrico,383,46,384,46
+6/1/2020,Henrico,384,46,385,46
 6/1/2020,Lenowisco,22,0,22,0
 6/1/2020,Lord Fairfax,395,72,399,72
 6/1/2020,Loudoun,524,74,528,74
@@ -3005,12 +3005,12 @@
 6/2/2020,Crater,299,35,302,35
 6/2/2020,Cumberland Plateau,30,0,36,0
 6/2/2020,Eastern Shore,31,3,32,3
-6/2/2020,Fairfax,"1,405",168,"1,684",190
+6/2/2020,Fairfax,"1,406",168,"1,685",190
 6/2/2020,Hampton,104,4,108,4
 6/2/2020,Henrico,431,48,453,49
 6/2/2020,Lenowisco,33,1,36,1
 6/2/2020,Lord Fairfax,443,46,454,46
-6/2/2020,Loudoun,"2,125",116,"2,229",118
+6/2/2020,Loudoun,"2,126",116,"2,230",118
 6/2/2020,Mount Rogers,124,7,133,9
 6/2/2020,New River,107,2,123,2
 6/2/2020,Norfolk,310,10,326,11
@@ -3039,10 +3039,10 @@
 6/3/2020,Chesapeake,240,13,263,13
 6/3/2020,Chesterfield,703,106,787,107
 6/3/2020,Chickahominy,141,7,170,8
-6/3/2020,Crater,295,33,312,34
+6/3/2020,Crater,294,32,311,33
 6/3/2020,Cumberland Plateau,52,0,57,0
 6/3/2020,Eastern Shore,61,9,65,10
-6/3/2020,Fairfax,"1,528",232,"1,944",277
+6/3/2020,Fairfax,"1,529",232,"1,945",277
 6/3/2020,Hampton,92,3,102,5
 6/3/2020,Henrico,537,77,566,79
 6/3/2020,Lenowisco,28,1,33,1
@@ -3051,17 +3051,17 @@
 6/3/2020,Mount Rogers,112,7,128,8
 6/3/2020,New River,195,8,214,9
 6/3/2020,Norfolk,275,26,285,27
-6/3/2020,Out of State,436,13,441,14
+6/3/2020,Out of State,435,13,440,14
 6/3/2020,Peninsula,243,24,291,25
 6/3/2020,Piedmont,801,20,808,22
 6/3/2020,Pittsylvania-Danville,86,2,92,2
 6/3/2020,Portsmouth,91,7,98,7
-6/3/2020,Prince William,774,127,893,139
+6/3/2020,Prince William,775,127,894,139
 6/3/2020,Rappahannock,439,53,491,59
 6/3/2020,Rappahannock Rapidan,238,17,266,17
 6/3/2020,Richmond,417,69,436,70
 6/3/2020,Roanoke,378,13,415,13
-6/3/2020,Southside,87,5,93,5
+6/3/2020,Southside,88,6,94,6
 6/3/2020,Thomas Jefferson,240,11,295,11
 6/3/2020,Three Rivers,124,11,139,11
 6/3/2020,Unknown,71,9,71,9
@@ -3078,7 +3078,7 @@
 6/4/2020,Chickahominy,285,17,307,19
 6/4/2020,Crater,279,31,294,32
 6/4/2020,Cumberland Plateau,51,0,57,0
-6/4/2020,Eastern Shore,35,4,37,4
+6/4/2020,Eastern Shore,36,4,38,4
 6/4/2020,Fairfax,"1,362",170,"1,739",217
 6/4/2020,Hampton,84,7,97,9
 6/4/2020,Henrico,587,56,638,58
@@ -3089,7 +3089,7 @@
 6/4/2020,New River,153,5,175,6
 6/4/2020,Norfolk,240,12,267,12
 6/4/2020,Out of State,429,25,432,25
-6/4/2020,Peninsula,263,12,339,17
+6/4/2020,Peninsula,262,12,338,17
 6/4/2020,Piedmont,"1,176",13,"1,187",13
 6/4/2020,Pittsylvania-Danville,82,2,85,4
 6/4/2020,Portsmouth,129,9,135,10
@@ -3116,17 +3116,17 @@
 6/5/2020,Crater,218,19,228,19
 6/5/2020,Cumberland Plateau,28,0,31,0
 6/5/2020,Eastern Shore,60,7,60,7
-6/5/2020,Fairfax,"1,055",140,"1,386",163
+6/5/2020,Fairfax,"1,056",141,"1,387",164
 6/5/2020,Hampton,49,2,62,3
 6/5/2020,Henrico,378,29,426,30
 6/5/2020,Lenowisco,130,0,136,0
-6/5/2020,Lord Fairfax,350,28,384,31
-6/5/2020,Loudoun,379,44,478,54
+6/5/2020,Lord Fairfax,351,28,385,31
+6/5/2020,Loudoun,378,43,477,53
 6/5/2020,Mount Rogers,154,18,165,18
 6/5/2020,New River,127,2,146,2
 6/5/2020,Norfolk,322,14,348,14
 6/5/2020,Out of State,238,7,245,7
-6/5/2020,Peninsula,189,3,233,6
+6/5/2020,Peninsula,187,3,231,6
 6/5/2020,Piedmont,144,18,150,18
 6/5/2020,Pittsylvania-Danville,24,1,31,1
 6/5/2020,Portsmouth,79,5,87,6
@@ -3137,14 +3137,14 @@
 6/5/2020,Roanoke,172,13,194,14
 6/5/2020,Southside,87,3,93,3
 6/5/2020,Thomas Jefferson,502,45,582,52
-6/5/2020,Three Rivers,518,3,539,4
+6/5/2020,Three Rivers,519,3,540,4
 6/5/2020,Unknown,63,1,63,1
 6/5/2020,Virginia Beach,939,7,973,8
 6/5/2020,West Piedmont,84,22,90,22
-6/5/2020,Western Tidewater,110,5,120,6
+6/5/2020,Western Tidewater,111,5,121,6
 6/6/2020,Alexandria,110,5,152,10
 6/6/2020,Alleghany,116,4,132,4
-6/6/2020,Arlington,177,15,257,18
+6/6/2020,Arlington,178,16,258,19
 6/6/2020,Central Shenandoah,433,19,455,21
 6/6/2020,Central Virginia,449,4,460,4
 6/6/2020,Chesapeake,495,14,522,14
@@ -3154,7 +3154,7 @@
 6/6/2020,Cumberland Plateau,22,0,26,0
 6/6/2020,Eastern Shore,38,1,41,1
 6/6/2020,Fairfax,"1,030",121,"1,370",156
-6/6/2020,Hampton,78,2,87,2
+6/6/2020,Hampton,79,2,88,2
 6/6/2020,Henrico,362,44,394,44
 6/6/2020,Lenowisco,37,0,42,0
 6/6/2020,Lord Fairfax,195,19,227,23
@@ -3163,13 +3163,13 @@
 6/6/2020,New River,185,2,206,2
 6/6/2020,Norfolk,264,12,290,12
 6/6/2020,Out of State,196,11,200,11
-6/6/2020,Peninsula,286,8,333,12
+6/6/2020,Peninsula,285,8,332,12
 6/6/2020,Piedmont,109,9,118,9
 6/6/2020,Pittsylvania-Danville,580,1,584,1
 6/6/2020,Portsmouth,192,9,202,11
-6/6/2020,Prince William,539,94,658,116
+6/6/2020,Prince William,538,93,657,115
 6/6/2020,Rappahannock,254,12,304,13
-6/6/2020,Rappahannock Rapidan,251,11,292,13
+6/6/2020,Rappahannock Rapidan,252,11,293,13
 6/6/2020,Richmond,262,48,278,49
 6/6/2020,Roanoke,182,14,206,14
 6/6/2020,Southside,81,3,87,3
@@ -3187,7 +3187,7 @@
 6/7/2020,Chesapeake,346,15,359,17
 6/7/2020,Chesterfield,426,34,443,36
 6/7/2020,Chickahominy,130,4,137,4
-6/7/2020,Crater,194,19,197,19
+6/7/2020,Crater,195,20,198,20
 6/7/2020,Cumberland Plateau,28,0,29,0
 6/7/2020,Eastern Shore,41,7,41,7
 6/7/2020,Fairfax,"1,049",113,"1,173",129
@@ -3199,13 +3199,13 @@
 6/7/2020,Mount Rogers,91,4,91,4
 6/7/2020,New River,73,1,82,2
 6/7/2020,Norfolk,197,10,206,10
-6/7/2020,Out of State,158,9,158,9
+6/7/2020,Out of State,159,10,159,10
 6/7/2020,Peninsula,339,21,357,24
 6/7/2020,Piedmont,161,20,163,20
 6/7/2020,Pittsylvania-Danville,204,3,204,3
 6/7/2020,Portsmouth,150,8,151,8
-6/7/2020,Prince William,632,94,676,99
-6/7/2020,Rappahannock,292,50,319,50
+6/7/2020,Prince William,633,94,677,99
+6/7/2020,Rappahannock,290,48,317,48
 6/7/2020,Rappahannock Rapidan,157,7,167,10
 6/7/2020,Richmond,208,11,214,11
 6/7/2020,Roanoke,513,11,521,11
@@ -3217,17 +3217,17 @@
 6/7/2020,West Piedmont,105,7,107,7
 6/7/2020,Western Tidewater,186,2,188,2
 6/8/2020,Alexandria,151,11,159,12
-6/8/2020,Alleghany,68,2,70,2
+6/8/2020,Alleghany,69,2,71,2
 6/8/2020,Arlington,184,14,201,16
 6/8/2020,Central Shenandoah,212,9,217,9
 6/8/2020,Central Virginia,41,2,41,2
 6/8/2020,Chesapeake,442,14,444,14
-6/8/2020,Chesterfield,494,49,494,49
-6/8/2020,Chickahominy,109,3,109,3
-6/8/2020,Crater,266,43,266,43
+6/8/2020,Chesterfield,500,55,500,55
+6/8/2020,Chickahominy,108,2,108,2
+6/8/2020,Crater,261,38,261,38
 6/8/2020,Cumberland Plateau,15,0,15,0
 6/8/2020,Eastern Shore,39,3,39,3
-6/8/2020,Fairfax,"1,096",103,"1,158",113
+6/8/2020,Fairfax,"1,097",103,"1,159",113
 6/8/2020,Hampton,42,2,42,2
 6/8/2020,Henrico,339,23,340,23
 6/8/2020,Lenowisco,30,0,30,0
@@ -3251,7 +3251,7 @@
 6/8/2020,Three Rivers,83,3,84,3
 6/8/2020,Unknown,136,2,137,2
 6/8/2020,Virginia Beach,279,10,282,10
-6/8/2020,West Piedmont,225,7,225,7
+6/8/2020,West Piedmont,226,7,226,7
 6/8/2020,Western Tidewater,247,8,247,8
 6/9/2020,Alexandria,178,11,202,12
 6/9/2020,Alleghany,125,7,129,7
@@ -3259,14 +3259,14 @@
 6/9/2020,Central Shenandoah,929,27,936,28
 6/9/2020,Central Virginia,172,4,178,4
 6/9/2020,Chesapeake,512,11,521,11
-6/9/2020,Chesterfield,667,81,684,81
+6/9/2020,Chesterfield,666,80,683,80
 6/9/2020,Chickahominy,144,8,151,8
 6/9/2020,Crater,204,13,206,13
 6/9/2020,Cumberland Plateau,24,1,27,1
 6/9/2020,Eastern Shore,30,4,32,4
-6/9/2020,Fairfax,"1,292",105,"1,538",118
+6/9/2020,Fairfax,"1,295",105,"1,541",118
 6/9/2020,Hampton,84,5,86,5
-6/9/2020,Henrico,484,27,501,28
+6/9/2020,Henrico,485,28,502,29
 6/9/2020,Lenowisco,46,0,49,0
 6/9/2020,Lord Fairfax,556,37,576,38
 6/9/2020,Loudoun,451,46,536,60
@@ -3278,8 +3278,8 @@
 6/9/2020,Piedmont,99,4,101,4
 6/9/2020,Pittsylvania-Danville,42,2,45,2
 6/9/2020,Portsmouth,108,10,109,10
-6/9/2020,Prince William,745,100,833,115
-6/9/2020,Rappahannock,314,22,324,22
+6/9/2020,Prince William,744,100,832,115
+6/9/2020,Rappahannock,313,22,323,22
 6/9/2020,Rappahannock Rapidan,151,10,175,15
 6/9/2020,Richmond,313,18,324,18
 6/9/2020,Roanoke,307,20,319,20
@@ -3301,7 +3301,7 @@
 6/10/2020,Crater,296,25,319,25
 6/10/2020,Cumberland Plateau,33,0,36,0
 6/10/2020,Eastern Shore,70,6,71,6
-6/10/2020,Fairfax,"1,355",136,"1,738",173
+6/10/2020,Fairfax,"1,356",136,"1,739",173
 6/10/2020,Hampton,125,1,135,2
 6/10/2020,Henrico,590,35,643,36
 6/10/2020,Lenowisco,122,0,129,0
@@ -3310,7 +3310,7 @@
 6/10/2020,Mount Rogers,109,9,114,9
 6/10/2020,New River,252,1,274,1
 6/10/2020,Norfolk,252,12,279,13
-6/10/2020,Out of State,323,12,326,12
+6/10/2020,Out of State,324,12,327,12
 6/10/2020,Peninsula,372,17,438,22
 6/10/2020,Piedmont,145,13,157,13
 6/10/2020,Pittsylvania-Danville,59,2,67,2
@@ -3334,11 +3334,11 @@
 6/11/2020,Central Virginia,258,8,267,9
 6/11/2020,Chesapeake,574,16,587,16
 6/11/2020,Chesterfield,544,88,624,91
-6/11/2020,Chickahominy,181,10,202,10
+6/11/2020,Chickahominy,182,10,203,10
 6/11/2020,Crater,228,25,239,26
 6/11/2020,Cumberland Plateau,30,1,32,1
 6/11/2020,Eastern Shore,55,3,59,3
-6/11/2020,Fairfax,879,104,"1,238",148
+6/11/2020,Fairfax,880,104,"1,239",148
 6/11/2020,Hampton,99,3,110,3
 6/11/2020,Henrico,427,44,477,45
 6/11/2020,Lenowisco,38,0,40,0
@@ -3367,17 +3367,17 @@
 6/12/2020,Alexandria,170,17,218,19
 6/12/2020,Alleghany,101,7,125,7
 6/12/2020,Arlington,275,13,375,22
-6/12/2020,Central Shenandoah,138,8,166,11
+6/12/2020,Central Shenandoah,137,8,165,11
 6/12/2020,Central Virginia,387,9,399,10
 6/12/2020,Chesapeake,198,14,226,14
 6/12/2020,Chesterfield,470,63,527,63
-6/12/2020,Chickahominy,111,5,136,6
+6/12/2020,Chickahominy,112,5,137,6
 6/12/2020,Crater,229,22,253,25
 6/12/2020,Cumberland Plateau,24,1,29,1
 6/12/2020,Eastern Shore,27,6,30,6
 6/12/2020,Fairfax,"1,118",87,"1,469",116
 6/12/2020,Hampton,93,1,105,1
-6/12/2020,Henrico,383,28,441,29
+6/12/2020,Henrico,384,28,442,29
 6/12/2020,Lenowisco,45,1,47,1
 6/12/2020,Lord Fairfax,226,10,260,12
 6/12/2020,Loudoun,551,43,649,53
@@ -3392,8 +3392,8 @@
 6/12/2020,Prince William,899,88,986,99
 6/12/2020,Rappahannock,682,27,733,32
 6/12/2020,Rappahannock Rapidan,223,6,252,6
-6/12/2020,Richmond,301,24,329,24
-6/12/2020,Roanoke,206,18,239,18
+6/12/2020,Richmond,300,24,328,24
+6/12/2020,Roanoke,207,18,240,18
 6/12/2020,Southside,734,7,736,8
 6/12/2020,Thomas Jefferson,345,12,420,14
 6/12/2020,Three Rivers,246,2,270,3
@@ -3407,12 +3407,12 @@
 6/13/2020,Central Shenandoah,210,7,233,8
 6/13/2020,Central Virginia,208,2,218,2
 6/13/2020,Chesapeake,320,21,358,21
-6/13/2020,Chesterfield,694,76,778,81
+6/13/2020,Chesterfield,693,76,777,81
 6/13/2020,Chickahominy,200,10,227,11
-6/13/2020,Crater,332,25,350,25
+6/13/2020,Crater,333,25,351,25
 6/13/2020,Cumberland Plateau,28,0,34,0
 6/13/2020,Eastern Shore,55,8,62,8
-6/13/2020,Fairfax,"1,009",64,"1,403",92
+6/13/2020,Fairfax,"1,010",64,"1,404",92
 6/13/2020,Hampton,104,4,114,4
 6/13/2020,Henrico,491,41,555,43
 6/13/2020,Lenowisco,33,0,35,1
@@ -3427,20 +3427,20 @@
 6/13/2020,Pittsylvania-Danville,89,3,96,3
 6/13/2020,Portsmouth,114,13,120,13
 6/13/2020,Prince William,570,57,685,68
-6/13/2020,Rappahannock,404,31,459,34
+6/13/2020,Rappahannock,403,31,458,34
 6/13/2020,Rappahannock Rapidan,197,9,236,13
 6/13/2020,Richmond,309,28,341,29
 6/13/2020,Roanoke,359,10,385,11
 6/13/2020,Southside,195,7,197,7
 6/13/2020,Thomas Jefferson,223,15,250,15
 6/13/2020,Three Rivers,128,6,147,7
-6/13/2020,Unknown,14,0,15,0
+6/13/2020,Unknown,15,0,16,0
 6/13/2020,Virginia Beach,343,10,386,11
 6/13/2020,West Piedmont,79,7,83,7
 6/13/2020,Western Tidewater,282,3,290,3
 6/14/2020,Alexandria,147,10,159,10
 6/14/2020,Alleghany,81,5,85,5
-6/14/2020,Arlington,221,15,247,15
+6/14/2020,Arlington,222,15,248,15
 6/14/2020,Central Shenandoah,250,13,251,13
 6/14/2020,Central Virginia,518,4,524,4
 6/14/2020,Chesapeake,136,12,150,14
@@ -3449,16 +3449,16 @@
 6/14/2020,Crater,230,27,233,28
 6/14/2020,Cumberland Plateau,29,1,29,1
 6/14/2020,Eastern Shore,12,2,13,2
-6/14/2020,Fairfax,"1,037",74,"1,154",85
+6/14/2020,Fairfax,"1,035",73,"1,152",84
 6/14/2020,Hampton,64,1,65,1
 6/14/2020,Henrico,405,32,418,32
 6/14/2020,Lenowisco,19,0,20,0
 6/14/2020,Lord Fairfax,351,18,361,19
-6/14/2020,Loudoun,354,32,392,36
-6/14/2020,Mount Rogers,165,11,167,11
+6/14/2020,Loudoun,355,33,393,37
+6/14/2020,Mount Rogers,166,12,168,12
 6/14/2020,New River,46,0,56,0
 6/14/2020,Norfolk,190,10,200,10
-6/14/2020,Out of State,288,10,288,10
+6/14/2020,Out of State,287,9,287,9
 6/14/2020,Peninsula,194,9,218,13
 6/14/2020,Piedmont,129,9,129,9
 6/14/2020,Pittsylvania-Danville,74,2,74,2
@@ -3486,7 +3486,7 @@
 6/15/2020,Crater,106,6,108,6
 6/15/2020,Cumberland Plateau,10,0,10,0
 6/15/2020,Eastern Shore,23,5,23,5
-6/15/2020,Fairfax,"1,061",69,"1,078",70
+6/15/2020,Fairfax,"1,062",69,"1,079",70
 6/15/2020,Hampton,47,2,47,2
 6/15/2020,Henrico,293,27,293,27
 6/15/2020,Lenowisco,42,0,42,0
@@ -3518,17 +3518,17 @@
 6/16/2020,Central Shenandoah,333,28,348,30
 6/16/2020,Central Virginia,108,6,113,6
 6/16/2020,Chesapeake,258,17,272,17
-6/16/2020,Chesterfield,846,62,871,63
+6/16/2020,Chesterfield,847,62,872,63
 6/16/2020,Chickahominy,260,5,274,6
-6/16/2020,Crater,238,10,240,10
+6/16/2020,Crater,237,10,239,10
 6/16/2020,Cumberland Plateau,11,0,12,0
 6/16/2020,Eastern Shore,41,4,45,4
 6/16/2020,Fairfax,"1,324",76,"1,642",95
 6/16/2020,Hampton,106,5,109,5
-6/16/2020,Henrico,690,36,712,36
+6/16/2020,Henrico,691,37,713,37
 6/16/2020,Lenowisco,17,0,20,0
 6/16/2020,Lord Fairfax,226,16,241,17
-6/16/2020,Loudoun,508,34,596,40
+6/16/2020,Loudoun,510,34,598,40
 6/16/2020,Mount Rogers,57,14,64,14
 6/16/2020,New River,118,0,123,0
 6/16/2020,Norfolk,425,11,441,11
@@ -3540,7 +3540,7 @@
 6/16/2020,Prince William,758,66,825,73
 6/16/2020,Rappahannock,330,32,351,33
 6/16/2020,Rappahannock Rapidan,182,16,203,16
-6/16/2020,Richmond,333,27,343,27
+6/16/2020,Richmond,332,26,342,26
 6/16/2020,Roanoke,304,12,316,12
 6/16/2020,Southside,108,4,113,4
 6/16/2020,Thomas Jefferson,474,30,520,32
@@ -3555,9 +3555,9 @@
 6/17/2020,Central Shenandoah,315,24,345,25
 6/17/2020,Central Virginia,211,9,233,9
 6/17/2020,Chesapeake,364,29,396,29
-6/17/2020,Chesterfield,831,90,951,92
+6/17/2020,Chesterfield,832,90,952,92
 6/17/2020,Chickahominy,246,12,271,12
-6/17/2020,Crater,324,29,341,29
+6/17/2020,Crater,323,29,340,29
 6/17/2020,Cumberland Plateau,29,1,29,1
 6/17/2020,Eastern Shore,48,5,50,5
 6/17/2020,Fairfax,"1,130",66,"1,598",87
@@ -3565,7 +3565,7 @@
 6/17/2020,Henrico,655,40,734,41
 6/17/2020,Lenowisco,33,0,36,0
 6/17/2020,Lord Fairfax,227,21,288,21
-6/17/2020,Loudoun,403,26,540,32
+6/17/2020,Loudoun,405,26,542,32
 6/17/2020,Mount Rogers,136,12,147,12
 6/17/2020,New River,235,9,261,9
 6/17/2020,Norfolk,352,7,372,7
@@ -3606,7 +3606,7 @@
 6/18/2020,Mount Rogers,335,17,344,17
 6/18/2020,New River,218,12,235,12
 6/18/2020,Norfolk,279,17,303,17
-6/18/2020,Out of State,427,13,432,14
+6/18/2020,Out of State,428,13,433,14
 6/18/2020,Peninsula,275,16,314,16
 6/18/2020,Piedmont,93,9,99,9
 6/18/2020,Pittsylvania-Danville,46,10,49,10
@@ -3629,26 +3629,26 @@
 6/19/2020,Central Shenandoah,246,19,267,20
 6/19/2020,Central Virginia,288,7,303,7
 6/19/2020,Chesapeake,123,5,158,6
-6/19/2020,Chesterfield,488,46,565,47
+6/19/2020,Chesterfield,489,46,566,47
 6/19/2020,Chickahominy,127,6,155,6
 6/19/2020,Crater,233,23,252,24
 6/19/2020,Cumberland Plateau,28,1,44,1
 6/19/2020,Eastern Shore,18,3,27,3
-6/19/2020,Fairfax,"1,118",83,"1,503",99
+6/19/2020,Fairfax,"1,119",83,"1,504",99
 6/19/2020,Hampton,58,3,67,3
 6/19/2020,Henrico,433,33,493,34
 6/19/2020,Lenowisco,31,0,38,0
 6/19/2020,Lord Fairfax,318,22,355,24
-6/19/2020,Loudoun,418,37,542,48
+6/19/2020,Loudoun,419,37,543,48
 6/19/2020,Mount Rogers,424,7,434,7
 6/19/2020,New River,180,5,197,5
 6/19/2020,Norfolk,344,15,363,15
-6/19/2020,Out of State,383,15,387,15
+6/19/2020,Out of State,384,15,389,15
 6/19/2020,Peninsula,204,6,252,7
 6/19/2020,Piedmont,118,8,124,8
 6/19/2020,Pittsylvania-Danville,53,4,56,4
 6/19/2020,Portsmouth,65,4,71,4
-6/19/2020,Prince William,653,82,751,95
+6/19/2020,Prince William,654,82,752,95
 6/19/2020,Rappahannock,315,21,376,21
 6/19/2020,Rappahannock Rapidan,162,7,215,10
 6/19/2020,Richmond,391,29,437,32
@@ -3656,7 +3656,7 @@
 6/19/2020,Southside,52,0,60,0
 6/19/2020,Thomas Jefferson,272,15,389,17
 6/19/2020,Three Rivers,204,3,234,3
-6/19/2020,Unknown,15,2,18,2
+6/19/2020,Unknown,14,2,17,2
 6/19/2020,Virginia Beach,489,8,551,9
 6/19/2020,West Piedmont,46,4,52,4
 6/19/2020,Western Tidewater,95,4,106,4
@@ -3665,7 +3665,7 @@
 6/20/2020,Arlington,953,21,"1,039",23
 6/20/2020,Central Shenandoah,404,16,428,16
 6/20/2020,Central Virginia,297,7,306,7
-6/20/2020,Chesapeake,632,54,645,54
+6/20/2020,Chesapeake,631,53,644,53
 6/20/2020,Chesterfield,979,36,"1,032",36
 6/20/2020,Chickahominy,469,5,482,6
 6/20/2020,Crater,278,23,290,26
@@ -3673,14 +3673,14 @@
 6/20/2020,Eastern Shore,51,3,52,3
 6/20/2020,Fairfax,"1,407",105,"1,713",118
 6/20/2020,Hampton,285,8,289,8
-6/20/2020,Henrico,956,38,"1,007",38
+6/20/2020,Henrico,957,38,"1,008",38
 6/20/2020,Lenowisco,29,0,32,1
 6/20/2020,Lord Fairfax,325,32,349,33
 6/20/2020,Loudoun,628,39,744,48
-6/20/2020,Mount Rogers,124,8,130,8
-6/20/2020,New River,107,10,128,11
-6/20/2020,Norfolk,436,14,450,14
-6/20/2020,Out of State,552,22,555,22
+6/20/2020,Mount Rogers,125,9,131,9
+6/20/2020,New River,108,10,129,11
+6/20/2020,Norfolk,437,15,451,15
+6/20/2020,Out of State,551,21,554,21
 6/20/2020,Peninsula,383,7,406,7
 6/20/2020,Piedmont,149,6,158,6
 6/20/2020,Pittsylvania-Danville,81,2,83,2
@@ -3688,8 +3688,8 @@
 6/20/2020,Prince William,600,55,691,70
 6/20/2020,Rappahannock,341,21,378,21
 6/20/2020,Rappahannock Rapidan,275,3,297,3
-6/20/2020,Richmond,567,19,589,19
-6/20/2020,Roanoke,603,39,625,40
+6/20/2020,Richmond,566,19,588,19
+6/20/2020,Roanoke,602,39,624,40
 6/20/2020,Southside,78,2,82,2
 6/20/2020,Thomas Jefferson,421,15,444,15
 6/20/2020,Three Rivers,309,3,322,3
@@ -3697,27 +3697,27 @@
 6/20/2020,Virginia Beach,556,21,580,21
 6/20/2020,West Piedmont,111,11,113,11
 6/20/2020,Western Tidewater,242,16,250,16
-6/21/2020,Alexandria,126,8,144,8
+6/21/2020,Alexandria,127,9,145,9
 6/21/2020,Alleghany,178,6,179,6
-6/21/2020,Arlington,213,2,246,2
+6/21/2020,Arlington,212,1,245,1
 6/21/2020,Central Shenandoah,251,14,257,14
 6/21/2020,Central Virginia,210,2,212,2
-6/21/2020,Chesapeake,339,14,351,15
-6/21/2020,Chesterfield,431,30,447,30
+6/21/2020,Chesapeake,340,15,352,16
+6/21/2020,Chesterfield,432,30,448,30
 6/21/2020,Chickahominy,172,6,178,6
-6/21/2020,Crater,309,38,311,38
+6/21/2020,Crater,308,38,310,38
 6/21/2020,Cumberland Plateau,64,1,67,1
 6/21/2020,Eastern Shore,44,0,44,0
-6/21/2020,Fairfax,"1,153",73,"1,275",74
+6/21/2020,Fairfax,"1,154",73,"1,276",74
 6/21/2020,Hampton,91,2,96,2
 6/21/2020,Henrico,363,14,373,14
-6/21/2020,Lenowisco,31,2,32,2
+6/21/2020,Lenowisco,29,0,30,0
 6/21/2020,Lord Fairfax,260,24,271,25
 6/21/2020,Loudoun,313,29,342,33
 6/21/2020,Mount Rogers,149,7,151,7
 6/21/2020,New River,77,3,79,3
 6/21/2020,Norfolk,206,21,213,21
-6/21/2020,Out of State,232,7,232,7
+6/21/2020,Out of State,233,8,233,8
 6/21/2020,Peninsula,235,10,253,10
 6/21/2020,Piedmont,95,0,99,0
 6/21/2020,Pittsylvania-Danville,87,0,87,0
@@ -3772,22 +3772,22 @@
 6/22/2020,West Piedmont,24,1,24,1
 6/22/2020,Western Tidewater,109,8,109,8
 6/23/2020,Alexandria,155,11,190,11
-6/23/2020,Alleghany,241,16,247,16
+6/23/2020,Alleghany,240,16,246,16
 6/23/2020,Arlington,202,6,267,10
 6/23/2020,Central Shenandoah,373,24,380,24
 6/23/2020,Central Virginia,223,14,230,14
 6/23/2020,Chesapeake,865,31,879,31
-6/23/2020,Chesterfield,462,39,503,39
+6/23/2020,Chesterfield,463,39,504,39
 6/23/2020,Chickahominy,243,6,256,6
-6/23/2020,Crater,190,12,192,12
+6/23/2020,Crater,190,13,192,13
 6/23/2020,Cumberland Plateau,29,1,30,1
 6/23/2020,Eastern Shore,32,2,33,2
-6/23/2020,Fairfax,"1,129",74,"1,426",98
+6/23/2020,Fairfax,"1,130",74,"1,427",98
 6/23/2020,Hampton,101,4,107,4
 6/23/2020,Henrico,543,23,561,24
 6/23/2020,Lenowisco,21,0,26,0
 6/23/2020,Lord Fairfax,256,13,275,15
-6/23/2020,Loudoun,328,24,429,30
+6/23/2020,Loudoun,329,24,431,30
 6/23/2020,Mount Rogers,80,16,87,16
 6/23/2020,New River,135,0,142,0
 6/23/2020,Norfolk,289,19,296,19
@@ -3796,11 +3796,11 @@
 6/23/2020,Piedmont,68,5,76,5
 6/23/2020,Pittsylvania-Danville,65,5,66,5
 6/23/2020,Portsmouth,112,4,118,4
-6/23/2020,Prince William,535,50,618,64
+6/23/2020,Prince William,534,50,617,64
 6/23/2020,Rappahannock,212,8,229,8
-6/23/2020,Rappahannock Rapidan,129,8,153,11
-6/23/2020,Richmond,490,21,502,22
-6/23/2020,Roanoke,582,50,594,51
+6/23/2020,Rappahannock Rapidan,130,8,154,11
+6/23/2020,Richmond,489,20,501,21
+6/23/2020,Roanoke,583,50,595,51
 6/23/2020,Southside,124,4,127,4
 6/23/2020,Thomas Jefferson,707,65,725,65
 6/23/2020,Three Rivers,115,1,126,1
@@ -3809,7 +3809,7 @@
 6/23/2020,West Piedmont,60,7,61,7
 6/23/2020,Western Tidewater,244,7,250,7
 6/24/2020,Alexandria,167,8,259,14
-6/24/2020,Alleghany,400,46,416,46
+6/24/2020,Alleghany,399,46,415,46
 6/24/2020,Arlington,284,6,418,11
 6/24/2020,Central Shenandoah,318,34,346,35
 6/24/2020,Central Virginia,512,16,521,16
@@ -3833,11 +3833,11 @@
 6/24/2020,Piedmont,125,15,130,15
 6/24/2020,Pittsylvania-Danville,99,13,103,13
 6/24/2020,Portsmouth,88,7,91,7
-6/24/2020,Prince William,553,56,695,74
+6/24/2020,Prince William,554,56,696,74
 6/24/2020,Rappahannock,321,18,395,20
 6/24/2020,Rappahannock Rapidan,170,7,207,7
 6/24/2020,Richmond,356,49,381,49
-6/24/2020,Roanoke,"1,063",41,"1,080",42
+6/24/2020,Roanoke,"1,064",41,"1,081",42
 6/24/2020,Southside,73,7,85,7
 6/24/2020,Thomas Jefferson,458,46,543,47
 6/24/2020,Three Rivers,210,2,230,3
@@ -3858,10 +3858,10 @@
 6/25/2020,Eastern Shore,52,0,54,0
 6/25/2020,Fairfax,"1,236",113,"1,697",130
 6/25/2020,Hampton,180,9,193,9
-6/25/2020,Henrico,669,31,709,31
+6/25/2020,Henrico,668,31,708,31
 6/25/2020,Lenowisco,59,0,68,0
 6/25/2020,Lord Fairfax,466,42,508,45
-6/25/2020,Loudoun,471,72,602,78
+6/25/2020,Loudoun,472,72,603,78
 6/25/2020,Mount Rogers,112,12,124,12
 6/25/2020,New River,215,5,229,5
 6/25/2020,Norfolk,321,25,333,25
@@ -3876,13 +3876,13 @@
 6/25/2020,Richmond,351,47,364,48
 6/25/2020,Roanoke,301,37,340,37
 6/25/2020,Southside,68,10,72,10
-6/25/2020,Thomas Jefferson,347,32,422,36
+6/25/2020,Thomas Jefferson,348,32,423,36
 6/25/2020,Three Rivers,127,8,139,8
 6/25/2020,Unknown,60,0,62,1
 6/25/2020,Virginia Beach,573,18,615,18
 6/25/2020,West Piedmont,146,16,157,16
 6/25/2020,Western Tidewater,305,7,316,7
-6/26/2020,Alexandria,184,11,233,13
+6/26/2020,Alexandria,185,11,234,13
 6/26/2020,Alleghany,280,18,303,18
 6/26/2020,Arlington,287,13,391,16
 6/26/2020,Central Shenandoah,220,23,240,23
@@ -3893,12 +3893,12 @@
 6/26/2020,Crater,186,14,200,15
 6/26/2020,Cumberland Plateau,51,5,55,5
 6/26/2020,Eastern Shore,62,6,63,6
-6/26/2020,Fairfax,833,64,"1,162",76
+6/26/2020,Fairfax,834,65,"1,163",77
 6/26/2020,Hampton,175,7,186,7
 6/26/2020,Henrico,462,39,521,41
 6/26/2020,Lenowisco,43,1,50,1
 6/26/2020,Lord Fairfax,318,25,357,28
-6/26/2020,Loudoun,456,74,577,81
+6/26/2020,Loudoun,455,73,576,80
 6/26/2020,Mount Rogers,593,25,605,25
 6/26/2020,New River,169,8,181,8
 6/26/2020,Norfolk,209,19,223,19
@@ -3911,19 +3911,19 @@
 6/26/2020,Rappahannock,282,12,335,13
 6/26/2020,Rappahannock Rapidan,176,1,210,2
 6/26/2020,Richmond,314,32,338,32
-6/26/2020,Roanoke,377,46,395,46
+6/26/2020,Roanoke,376,45,394,45
 6/26/2020,Southside,57,7,60,7
 6/26/2020,Thomas Jefferson,285,21,361,23
 6/26/2020,Three Rivers,135,12,152,12
 6/26/2020,Unknown,41,1,41,1
-6/26/2020,Virginia Beach,"1,080",23,"1,134",25
-6/26/2020,West Piedmont,317,23,324,24
+6/26/2020,Virginia Beach,"1,080",23,"1,135",25
+6/26/2020,West Piedmont,318,24,325,25
 6/26/2020,Western Tidewater,116,8,126,8
 6/27/2020,Alexandria,133,6,178,9
 6/27/2020,Alleghany,310,15,325,15
 6/27/2020,Arlington,214,11,325,15
 6/27/2020,Central Shenandoah,460,28,484,28
-6/27/2020,Central Virginia,204,13,214,13
+6/27/2020,Central Virginia,203,12,213,12
 6/27/2020,Chesapeake,327,26,358,26
 6/27/2020,Chesterfield,393,34,451,34
 6/27/2020,Chickahominy,161,5,181,5
@@ -3948,7 +3948,7 @@
 6/27/2020,Rappahannock,443,14,491,15
 6/27/2020,Rappahannock Rapidan,245,6,268,6
 6/27/2020,Richmond,268,12,299,14
-6/27/2020,Roanoke,427,27,455,27
+6/27/2020,Roanoke,428,28,456,28
 6/27/2020,Southside,124,3,127,3
 6/27/2020,Thomas Jefferson,303,19,335,20
 6/27/2020,Three Rivers,100,12,121,12
@@ -4004,12 +4004,12 @@
 6/29/2020,Crater,145,5,147,5
 6/29/2020,Cumberland Plateau,28,1,28,1
 6/29/2020,Eastern Shore,42,4,43,4
-6/29/2020,Fairfax,"1,153",85,"1,193",93
+6/29/2020,Fairfax,"1,154",85,"1,194",93
 6/29/2020,Hampton,184,8,184,8
 6/29/2020,Henrico,360,16,375,16
 6/29/2020,Lenowisco,25,2,26,2
 6/29/2020,Lord Fairfax,234,10,238,11
-6/29/2020,Loudoun,567,74,586,84
+6/29/2020,Loudoun,568,74,587,84
 6/29/2020,Mount Rogers,392,10,392,10
 6/29/2020,New River,54,1,55,2
 6/29/2020,Norfolk,238,29,238,29
@@ -4020,8 +4020,8 @@
 6/29/2020,Portsmouth,72,9,73,9
 6/29/2020,Prince William,586,60,595,65
 6/29/2020,Rappahannock,290,13,293,13
-6/29/2020,Rappahannock Rapidan,426,4,431,5
-6/29/2020,Richmond,267,10,272,10
+6/29/2020,Rappahannock Rapidan,427,4,432,5
+6/29/2020,Richmond,266,10,271,10
 6/29/2020,Roanoke,214,9,214,9
 6/29/2020,Southside,71,6,71,6
 6/29/2020,Thomas Jefferson,534,25,557,25
@@ -4032,16 +4032,16 @@
 6/29/2020,Western Tidewater,334,16,335,16
 6/30/2020,Alexandria,175,4,237,7
 6/30/2020,Alleghany,377,15,395,15
-6/30/2020,Arlington,265,10,358,12
+6/30/2020,Arlington,266,10,359,12
 6/30/2020,Central Shenandoah,329,17,344,18
 6/30/2020,Central Virginia,463,12,472,12
 6/30/2020,Chesapeake,318,30,365,32
-6/30/2020,Chesterfield,543,32,588,32
+6/30/2020,Chesterfield,542,32,587,32
 6/30/2020,Chickahominy,215,7,227,8
 6/30/2020,Crater,"1,765",56,"1,774",56
 6/30/2020,Cumberland Plateau,19,0,22,1
 6/30/2020,Eastern Shore,"1,370",52,"1,373",52
-6/30/2020,Fairfax,"1,168",63,"1,501",77
+6/30/2020,Fairfax,"1,169",63,"1,502",77
 6/30/2020,Hampton,131,6,143,6
 6/30/2020,Henrico,775,34,810,35
 6/30/2020,Lenowisco,13,0,15,0
@@ -4058,7 +4058,7 @@
 6/30/2020,Prince William,685,57,778,75
 6/30/2020,Rappahannock,542,13,579,13
 6/30/2020,Rappahannock Rapidan,166,6,192,8
-6/30/2020,Richmond,310,19,321,19
+6/30/2020,Richmond,311,19,322,19
 6/30/2020,Roanoke,632,30,648,31
 6/30/2020,Southside,173,6,181,6
 6/30/2020,Thomas Jefferson,612,28,666,28
@@ -4076,18 +4076,18 @@
 7/1/2020,Chesterfield,596,52,702,53
 7/1/2020,Chickahominy,232,12,262,12
 7/1/2020,Crater,469,21,497,21
-7/1/2020,Cumberland Plateau,144,4,152,4
+7/1/2020,Cumberland Plateau,145,4,153,4
 7/1/2020,Eastern Shore,41,0,45,1
-7/1/2020,Fairfax,"1,191",71,"1,626",94
+7/1/2020,Fairfax,"1,192",71,"1,627",94
 7/1/2020,Hampton,208,7,220,7
-7/1/2020,Henrico,668,25,745,25
+7/1/2020,Henrico,667,25,744,25
 7/1/2020,Lenowisco,50,3,52,3
 7/1/2020,Lord Fairfax,320,13,346,15
 7/1/2020,Loudoun,556,55,684,63
-7/1/2020,Mount Rogers,348,16,356,16
+7/1/2020,Mount Rogers,349,17,357,17
 7/1/2020,New River,335,6,355,6
 7/1/2020,Norfolk,358,59,417,59
-7/1/2020,Out of State,532,18,540,18
+7/1/2020,Out of State,531,17,539,17
 7/1/2020,Peninsula,376,19,431,20
 7/1/2020,Piedmont,122,17,129,17
 7/1/2020,Pittsylvania-Danville,109,10,116,10
@@ -4105,9 +4105,9 @@
 7/1/2020,West Piedmont,101,6,107,6
 7/1/2020,Western Tidewater,524,13,545,14
 7/2/2020,Alexandria,187,15,237,18
-7/2/2020,Alleghany,326,9,389,11
+7/2/2020,Alleghany,325,9,388,11
 7/2/2020,Arlington,311,16,400,19
-7/2/2020,Central Shenandoah,402,32,425,34
+7/2/2020,Central Shenandoah,403,33,426,35
 7/2/2020,Central Virginia,132,11,162,12
 7/2/2020,Chesapeake,321,37,377,38
 7/2/2020,Chesterfield,435,46,525,49
@@ -4124,7 +4124,7 @@
 7/2/2020,Mount Rogers,311,14,327,14
 7/2/2020,New River,186,4,204,4
 7/2/2020,Norfolk,372,49,450,49
-7/2/2020,Out of State,487,15,495,16
+7/2/2020,Out of State,486,15,494,16
 7/2/2020,Peninsula,508,35,554,35
 7/2/2020,Piedmont,75,15,87,15
 7/2/2020,Pittsylvania-Danville,56,6,63,6
@@ -4132,8 +4132,8 @@
 7/2/2020,Prince William,614,65,699,76
 7/2/2020,Rappahannock,563,31,619,34
 7/2/2020,Rappahannock Rapidan,119,6,152,9
-7/2/2020,Richmond,315,21,352,21
-7/2/2020,Roanoke,431,32,515,32
+7/2/2020,Richmond,316,21,353,21
+7/2/2020,Roanoke,431,31,515,31
 7/2/2020,Southside,69,7,76,7
 7/2/2020,Thomas Jefferson,473,25,560,26
 7/2/2020,Three Rivers,183,9,195,9
@@ -4142,15 +4142,15 @@
 7/2/2020,West Piedmont,281,16,294,16
 7/2/2020,Western Tidewater,122,16,136,16
 7/3/2020,Alexandria,130,14,165,16
-7/3/2020,Alleghany,179,12,194,12
+7/3/2020,Alleghany,180,12,195,12
 7/3/2020,Arlington,280,15,362,19
 7/3/2020,Central Shenandoah,323,13,349,18
 7/3/2020,Central Virginia,365,8,382,8
 7/3/2020,Chesapeake,207,16,230,17
-7/3/2020,Chesterfield,467,34,510,36
+7/3/2020,Chesterfield,466,34,509,36
 7/3/2020,Chickahominy,185,9,204,9
-7/3/2020,Crater,345,56,349,56
-7/3/2020,Cumberland Plateau,210,3,216,3
+7/3/2020,Crater,346,56,350,56
+7/3/2020,Cumberland Plateau,209,2,215,2
 7/3/2020,Eastern Shore,30,0,32,0
 7/3/2020,Fairfax,950,54,"1,306",74
 7/3/2020,Hampton,95,10,102,10
@@ -4161,7 +4161,7 @@
 7/3/2020,Mount Rogers,"1,521",29,"1,529",29
 7/3/2020,New River,176,5,192,5
 7/3/2020,Norfolk,318,44,329,44
-7/3/2020,Out of State,412,17,418,17
+7/3/2020,Out of State,413,18,419,18
 7/3/2020,Peninsula,383,43,411,43
 7/3/2020,Piedmont,80,7,83,7
 7/3/2020,Pittsylvania-Danville,90,2,94,2
@@ -4170,7 +4170,7 @@
 7/3/2020,Rappahannock,259,7,305,7
 7/3/2020,Rappahannock Rapidan,168,7,191,13
 7/3/2020,Richmond,338,17,355,17
-7/3/2020,Roanoke,527,44,552,45
+7/3/2020,Roanoke,526,44,551,45
 7/3/2020,Southside,75,5,78,5
 7/3/2020,Thomas Jefferson,542,29,580,29
 7/3/2020,Three Rivers,111,7,127,7
@@ -4226,22 +4226,22 @@
 7/5/2020,Crater,192,13,196,13
 7/5/2020,Cumberland Plateau,40,4,41,4
 7/5/2020,Eastern Shore,30,1,30,1
-7/5/2020,Fairfax,937,62,974,67
+7/5/2020,Fairfax,938,62,976,67
 7/5/2020,Hampton,155,18,155,18
 7/5/2020,Henrico,463,21,474,22
 7/5/2020,Lenowisco,23,1,23,1
 7/5/2020,Lord Fairfax,181,11,182,11
 7/5/2020,Loudoun,471,32,480,33
-7/5/2020,Mount Rogers,121,4,121,4
+7/5/2020,Mount Rogers,119,2,119,2
 7/5/2020,New River,105,4,105,4
 7/5/2020,Norfolk,327,46,333,46
-7/5/2020,Out of State,191,11,192,11
+7/5/2020,Out of State,194,13,195,13
 7/5/2020,Peninsula,399,35,413,35
 7/5/2020,Piedmont,58,7,60,7
 7/5/2020,Pittsylvania-Danville,116,9,116,9
 7/5/2020,Portsmouth,105,18,105,18
 7/5/2020,Prince William,462,60,478,60
-7/5/2020,Rappahannock,338,18,341,18
+7/5/2020,Rappahannock,337,18,340,18
 7/5/2020,Rappahannock Rapidan,136,11,144,18
 7/5/2020,Richmond,291,14,293,14
 7/5/2020,Roanoke,646,45,656,46
@@ -4262,8 +4262,8 @@
 7/6/2020,Chickahominy,160,6,160,6
 7/6/2020,Crater,193,11,196,11
 7/6/2020,Cumberland Plateau,92,6,92,6
-7/6/2020,Eastern Shore,165,1,165,1
-7/6/2020,Fairfax,"1,206",62,"1,239",66
+7/6/2020,Eastern Shore,179,1,180,1
+7/6/2020,Fairfax,"1,206",62,"1,240",66
 7/6/2020,Hampton,97,18,97,18
 7/6/2020,Henrico,488,21,489,21
 7/6/2020,Lenowisco,21,1,22,2
@@ -4285,7 +4285,7 @@
 7/6/2020,Southside,77,6,77,6
 7/6/2020,Thomas Jefferson,361,18,377,18
 7/6/2020,Three Rivers,367,8,375,8
-7/6/2020,Unknown,74,2,74,2
+7/6/2020,Unknown,75,2,75,2
 7/6/2020,Virginia Beach,374,42,375,42
 7/6/2020,West Piedmont,114,14,117,16
 7/6/2020,Western Tidewater,377,26,378,26
@@ -4296,20 +4296,20 @@
 7/7/2020,Central Virginia,174,12,180,12
 7/7/2020,Chesapeake,384,53,413,55
 7/7/2020,Chesterfield,497,38,517,38
-7/7/2020,Chickahominy,233,8,241,8
+7/7/2020,Chickahominy,234,8,242,8
 7/7/2020,Crater,214,17,219,17
 7/7/2020,Cumberland Plateau,56,4,56,4
 7/7/2020,Eastern Shore,71,2,71,2
 7/7/2020,Fairfax,"1,392",83,"1,684",106
 7/7/2020,Hampton,283,13,287,13
-7/7/2020,Henrico,529,24,539,25
+7/7/2020,Henrico,528,24,538,25
 7/7/2020,Lenowisco,44,2,49,2
 7/7/2020,Lord Fairfax,344,44,364,47
-7/7/2020,Loudoun,580,27,686,35
-7/7/2020,Mount Rogers,84,10,91,10
+7/7/2020,Loudoun,581,27,687,35
+7/7/2020,Mount Rogers,85,10,92,10
 7/7/2020,New River,210,2,220,2
 7/7/2020,Norfolk,516,92,528,92
-7/7/2020,Out of State,425,16,432,17
+7/7/2020,Out of State,424,16,431,17
 7/7/2020,Peninsula,583,47,616,50
 7/7/2020,Piedmont,108,14,114,14
 7/7/2020,Pittsylvania-Danville,134,9,138,9
@@ -4336,22 +4336,22 @@
 7/8/2020,Chickahominy,209,10,233,10
 7/8/2020,Crater,206,23,225,23
 7/8/2020,Cumberland Plateau,78,7,86,7
-7/8/2020,Eastern Shore,69,2,69,2
+7/8/2020,Eastern Shore,68,2,68,2
 7/8/2020,Fairfax,"1,574",84,"2,063",113
-7/8/2020,Hampton,325,28,339,28
+7/8/2020,Hampton,329,28,343,28
 7/8/2020,Henrico,917,104,994,107
 7/8/2020,Lenowisco,90,3,98,3
-7/8/2020,Lord Fairfax,490,42,527,43
+7/8/2020,Lord Fairfax,489,42,526,43
 7/8/2020,Loudoun,602,34,739,39
 7/8/2020,Mount Rogers,227,19,242,21
 7/8/2020,New River,372,10,383,10
 7/8/2020,Norfolk,603,82,621,82
-7/8/2020,Out of State,517,18,521,19
-7/8/2020,Peninsula,709,42,788,44
+7/8/2020,Out of State,518,18,522,19
+7/8/2020,Peninsula,706,42,785,44
 7/8/2020,Piedmont,195,11,204,12
 7/8/2020,Pittsylvania-Danville,912,15,920,16
 7/8/2020,Portsmouth,256,21,265,21
-7/8/2020,Prince William,922,71,"1,047",78
+7/8/2020,Prince William,923,71,"1,048",78
 7/8/2020,Rappahannock,332,21,423,25
 7/8/2020,Rappahannock Rapidan,196,11,244,21
 7/8/2020,Richmond,439,42,484,44
@@ -4366,17 +4366,17 @@
 7/9/2020,Alexandria,208,17,266,18
 7/9/2020,Alleghany,361,25,380,25
 7/9/2020,Arlington,286,14,369,19
-7/9/2020,Central Shenandoah,633,20,658,23
+7/9/2020,Central Shenandoah,634,20,659,23
 7/9/2020,Central Virginia,727,20,743,20
-7/9/2020,Chesapeake,374,45,424,48
-7/9/2020,Chesterfield,624,38,711,40
+7/9/2020,Chesapeake,376,45,426,48
+7/9/2020,Chesterfield,622,36,709,38
 7/9/2020,Chickahominy,168,10,196,10
 7/9/2020,Crater,319,28,337,29
 7/9/2020,Cumberland Plateau,152,4,155,4
 7/9/2020,Eastern Shore,47,1,47,1
 7/9/2020,Fairfax,"1,029",78,"1,399",101
-7/9/2020,Hampton,197,18,220,18
-7/9/2020,Henrico,717,38,779,40
+7/9/2020,Hampton,198,18,221,18
+7/9/2020,Henrico,718,40,780,42
 7/9/2020,Lenowisco,48,2,52,2
 7/9/2020,Lord Fairfax,416,33,444,33
 7/9/2020,Loudoun,432,26,585,33
@@ -4384,20 +4384,20 @@
 7/9/2020,New River,136,1,149,2
 7/9/2020,Norfolk,712,139,731,140
 7/9/2020,Out of State,447,25,451,26
-7/9/2020,Peninsula,561,26,638,26
+7/9/2020,Peninsula,560,26,637,26
 7/9/2020,Piedmont,167,9,170,9
 7/9/2020,Pittsylvania-Danville,91,11,95,11
 7/9/2020,Portsmouth,379,38,386,38
 7/9/2020,Prince William,509,51,620,57
-7/9/2020,Rappahannock,714,24,773,26
+7/9/2020,Rappahannock,713,24,772,26
 7/9/2020,Rappahannock Rapidan,133,13,172,19
 7/9/2020,Richmond,532,18,573,21
-7/9/2020,Roanoke,708,63,727,63
+7/9/2020,Roanoke,707,63,726,63
 7/9/2020,Southside,83,6,100,6
-7/9/2020,Thomas Jefferson,375,29,428,30
+7/9/2020,Thomas Jefferson,376,29,429,30
 7/9/2020,Three Rivers,163,6,180,7
 7/9/2020,Unknown,57,6,58,6
-7/9/2020,Virginia Beach,727,78,791,80
+7/9/2020,Virginia Beach,726,78,790,80
 7/9/2020,West Piedmont,123,13,128,13
 7/9/2020,Western Tidewater,164,11,181,11
 7/10/2020,Alexandria,164,11,236,16
@@ -4405,26 +4405,26 @@
 7/10/2020,Arlington,396,29,476,33
 7/10/2020,Central Shenandoah,320,23,337,23
 7/10/2020,Central Virginia,544,10,562,10
-7/10/2020,Chesapeake,364,61,433,61
+7/10/2020,Chesapeake,363,61,432,61
 7/10/2020,Chesterfield,708,79,783,80
 7/10/2020,Chickahominy,211,15,233,15
 7/10/2020,Crater,230,21,245,21
 7/10/2020,Cumberland Plateau,320,8,325,8
 7/10/2020,Eastern Shore,29,1,29,1
-7/10/2020,Fairfax,"1,211",77,"1,615",92
-7/10/2020,Hampton,213,29,236,29
+7/10/2020,Fairfax,"1,212",77,"1,616",92
+7/10/2020,Hampton,209,29,232,29
 7/10/2020,Henrico,975,66,"1,042",68
 7/10/2020,Lenowisco,238,8,244,8
-7/10/2020,Lord Fairfax,689,30,719,35
-7/10/2020,Loudoun,542,32,655,43
-7/10/2020,Mount Rogers,278,13,292,13
+7/10/2020,Lord Fairfax,690,30,720,35
+7/10/2020,Loudoun,541,32,654,43
+7/10/2020,Mount Rogers,279,14,293,14
 7/10/2020,New River,757,10,768,10
 7/10/2020,Norfolk,626,81,679,82
-7/10/2020,Out of State,491,22,500,24
-7/10/2020,Peninsula,872,58,911,59
+7/10/2020,Out of State,490,21,499,23
+7/10/2020,Peninsula,876,58,915,59
 7/10/2020,Piedmont,207,8,217,8
 7/10/2020,Pittsylvania-Danville,190,25,193,25
-7/10/2020,Portsmouth,306,47,313,47
+7/10/2020,Portsmouth,307,47,314,47
 7/10/2020,Prince William,722,71,822,79
 7/10/2020,Rappahannock,605,25,671,27
 7/10/2020,Rappahannock Rapidan,214,6,265,22
@@ -4434,9 +4434,9 @@
 7/10/2020,Thomas Jefferson,501,39,572,41
 7/10/2020,Three Rivers,294,13,313,13
 7/10/2020,Unknown,62,0,63,0
-7/10/2020,Virginia Beach,905,122,"1,045",122
+7/10/2020,Virginia Beach,904,122,"1,044",122
 7/10/2020,West Piedmont,184,19,192,19
-7/10/2020,Western Tidewater,634,48,650,48
+7/10/2020,Western Tidewater,635,48,651,48
 7/11/2020,Alexandria,252,4,281,5
 7/11/2020,Alleghany,299,12,312,12
 7/11/2020,Arlington,321,21,397,22
@@ -4447,24 +4447,24 @@
 7/11/2020,Chickahominy,264,13,291,15
 7/11/2020,Crater,260,21,272,21
 7/11/2020,Cumberland Plateau,"1,295",7,"1,302",7
-7/11/2020,Eastern Shore,31,0,33,0
+7/11/2020,Eastern Shore,32,0,34,0
 7/11/2020,Fairfax,"1,411",84,"1,702",105
 7/11/2020,Hampton,249,38,262,38
-7/11/2020,Henrico,749,30,818,35
+7/11/2020,Henrico,750,30,819,35
 7/11/2020,Lenowisco,219,4,223,7
 7/11/2020,Lord Fairfax,733,11,754,12
 7/11/2020,Loudoun,534,40,616,46
 7/11/2020,Mount Rogers,169,11,180,11
 7/11/2020,New River,270,9,279,9
-7/11/2020,Norfolk,628,98,645,100
+7/11/2020,Norfolk,629,99,646,101
 7/11/2020,Out of State,388,15,388,15
 7/11/2020,Peninsula,715,105,754,105
 7/11/2020,Piedmont,119,5,128,5
 7/11/2020,Pittsylvania-Danville,108,3,110,3
-7/11/2020,Portsmouth,320,30,330,31
-7/11/2020,Prince William,909,57,978,62
+7/11/2020,Portsmouth,319,29,329,30
+7/11/2020,Prince William,910,57,979,62
 7/11/2020,Rappahannock,282,16,333,20
-7/11/2020,Rappahannock Rapidan,181,9,205,14
+7/11/2020,Rappahannock Rapidan,182,9,206,14
 7/11/2020,Richmond,457,23,491,26
 7/11/2020,Roanoke,378,28,383,28
 7/11/2020,Southside,173,19,180,19
@@ -4474,7 +4474,7 @@
 7/11/2020,Virginia Beach,"1,172",132,"1,222",134
 7/11/2020,West Piedmont,121,18,127,18
 7/11/2020,Western Tidewater,347,33,352,33
-7/12/2020,Alexandria,165,7,173,7
+7/12/2020,Alexandria,166,7,174,7
 7/12/2020,Alleghany,204,18,204,18
 7/12/2020,Arlington,289,27,300,28
 7/12/2020,Central Shenandoah,517,30,520,30
@@ -4483,7 +4483,7 @@
 7/12/2020,Chesterfield,397,33,407,33
 7/12/2020,Chickahominy,212,4,216,4
 7/12/2020,Crater,246,21,248,21
-7/12/2020,Cumberland Plateau,75,9,75,9
+7/12/2020,Cumberland Plateau,74,8,74,8
 7/12/2020,Eastern Shore,47,3,47,3
 7/12/2020,Fairfax,"1,137",75,"1,234",80
 7/12/2020,Hampton,187,21,188,21
@@ -4494,12 +4494,12 @@
 7/12/2020,Mount Rogers,218,22,220,22
 7/12/2020,New River,132,6,134,6
 7/12/2020,Norfolk,619,96,620,96
-7/12/2020,Out of State,259,11,260,11
+7/12/2020,Out of State,260,12,261,12
 7/12/2020,Peninsula,576,62,585,62
 7/12/2020,Piedmont,96,5,99,5
 7/12/2020,Pittsylvania-Danville,101,11,101,11
 7/12/2020,Portsmouth,210,34,211,34
-7/12/2020,Prince William,651,44,682,53
+7/12/2020,Prince William,652,44,683,53
 7/12/2020,Rappahannock,430,24,449,25
 7/12/2020,Rappahannock Rapidan,145,6,147,6
 7/12/2020,Richmond,293,16,295,16
@@ -4517,38 +4517,38 @@
 7/13/2020,Central Shenandoah,492,94,495,95
 7/13/2020,Central Virginia,246,19,248,19
 7/13/2020,Chesapeake,433,63,435,63
-7/13/2020,Chesterfield,744,48,744,48
-7/13/2020,Chickahominy,302,14,303,15
-7/13/2020,Crater,286,26,286,26
+7/13/2020,Chesterfield,743,48,743,48
+7/13/2020,Chickahominy,305,14,306,15
+7/13/2020,Crater,287,26,287,26
 7/13/2020,Cumberland Plateau,60,5,60,5
 7/13/2020,Eastern Shore,79,2,79,2
 7/13/2020,Fairfax,"1,524",79,"1,569",92
-7/13/2020,Hampton,199,31,199,31
-7/13/2020,Henrico,956,68,961,71
+7/13/2020,Hampton,198,31,198,31
+7/13/2020,Henrico,"1,032",82,"1,037",85
 7/13/2020,Lenowisco,258,10,261,13
 7/13/2020,Lord Fairfax,282,19,285,19
-7/13/2020,Loudoun,484,41,495,42
+7/13/2020,Loudoun,485,41,496,42
 7/13/2020,Mount Rogers,345,16,346,17
 7/13/2020,New River,378,4,398,5
 7/13/2020,Norfolk,642,97,644,97
 7/13/2020,Out of State,554,43,562,43
-7/13/2020,Peninsula,737,86,739,87
+7/13/2020,Peninsula,741,86,743,87
 7/13/2020,Piedmont,112,20,113,20
 7/13/2020,Pittsylvania-Danville,74,13,75,13
 7/13/2020,Portsmouth,263,46,263,46
 7/13/2020,Prince William,654,64,670,70
 7/13/2020,Rappahannock,281,15,285,16
-7/13/2020,Rappahannock Rapidan,179,13,181,15
-7/13/2020,Richmond,433,18,436,21
+7/13/2020,Rappahannock Rapidan,180,13,182,15
+7/13/2020,Richmond,437,20,440,23
 7/13/2020,Roanoke,325,15,325,15
 7/13/2020,Southside,109,7,109,7
 7/13/2020,Thomas Jefferson,540,33,562,33
-7/13/2020,Three Rivers,228,9,229,10
+7/13/2020,Three Rivers,224,9,225,10
 7/13/2020,Unknown,86,3,86,3
 7/13/2020,Virginia Beach,916,124,918,124
 7/13/2020,West Piedmont,125,15,125,15
 7/13/2020,Western Tidewater,265,31,265,31
-7/14/2020,Alexandria,205,14,243,19
+7/14/2020,Alexandria,206,14,244,19
 7/14/2020,Alleghany,227,14,259,16
 7/14/2020,Arlington,313,10,391,19
 7/14/2020,Central Shenandoah,756,30,775,31
@@ -4557,130 +4557,130 @@
 7/14/2020,Chesterfield,846,57,927,62
 7/14/2020,Chickahominy,529,9,553,9
 7/14/2020,Crater,277,30,287,30
-7/14/2020,Cumberland Plateau,78,4,82,5
+7/14/2020,Cumberland Plateau,79,5,83,6
 7/14/2020,Eastern Shore,52,0,53,0
-7/14/2020,Fairfax,"1,496",61,"1,853",104
-7/14/2020,Hampton,138,15,152,15
-7/14/2020,Henrico,874,30,936,36
+7/14/2020,Fairfax,"1,497",61,"1,855",105
+7/14/2020,Hampton,137,15,151,15
+7/14/2020,Henrico,875,30,937,36
 7/14/2020,Lenowisco,52,2,55,3
 7/14/2020,Lord Fairfax,488,15,508,16
 7/14/2020,Loudoun,755,54,846,68
 7/14/2020,Mount Rogers,149,20,168,27
 7/14/2020,New River,230,6,243,6
 7/14/2020,Norfolk,578,100,598,101
-7/14/2020,Out of State,600,89,618,92
-7/14/2020,Peninsula,464,51,509,51
+7/14/2020,Out of State,598,88,616,91
+7/14/2020,Peninsula,462,51,507,51
 7/14/2020,Piedmont,69,7,75,7
 7/14/2020,Pittsylvania-Danville,143,14,148,15
 7/14/2020,Portsmouth,214,33,219,33
 7/14/2020,Prince William,747,51,856,68
-7/14/2020,Rappahannock,419,16,476,25
-7/14/2020,Rappahannock Rapidan,187,6,205,11
-7/14/2020,Richmond,426,30,462,33
+7/14/2020,Rappahannock,420,16,477,25
+7/14/2020,Rappahannock Rapidan,188,6,206,11
+7/14/2020,Richmond,427,30,463,33
 7/14/2020,Roanoke,472,12,504,13
 7/14/2020,Southside,162,9,168,9
 7/14/2020,Thomas Jefferson,622,39,669,39
-7/14/2020,Three Rivers,122,7,137,8
-7/14/2020,Unknown,32,4,33,5
+7/14/2020,Three Rivers,125,7,140,8
+7/14/2020,Unknown,33,4,34,5
 7/14/2020,Virginia Beach,786,99,852,100
 7/14/2020,West Piedmont,143,14,155,14
 7/14/2020,Western Tidewater,406,45,412,45
 7/15/2020,Alexandria,226,11,277,17
-7/15/2020,Alleghany,310,12,323,17
+7/15/2020,Alleghany,312,12,325,17
 7/15/2020,Arlington,305,13,417,28
-7/15/2020,Central Shenandoah,347,25,365,28
+7/15/2020,Central Shenandoah,348,25,366,28
 7/15/2020,Central Virginia,214,16,242,17
-7/15/2020,Chesapeake,472,57,542,60
+7/15/2020,Chesapeake,470,57,540,60
 7/15/2020,Chesterfield,635,49,733,58
 7/15/2020,Chickahominy,389,7,420,9
 7/15/2020,Crater,268,24,292,27
-7/15/2020,Cumberland Plateau,571,3,576,3
+7/15/2020,Cumberland Plateau,571,2,576,2
 7/15/2020,Eastern Shore,43,3,45,3
-7/15/2020,Fairfax,"1,571",63,"2,019",114
-7/15/2020,Hampton,254,26,270,26
-7/15/2020,Henrico,824,60,905,68
+7/15/2020,Fairfax,"1,573",64,"2,021",115
+7/15/2020,Hampton,259,26,275,26
+7/15/2020,Henrico,826,60,907,68
 7/15/2020,Lenowisco,575,4,593,5
 7/15/2020,Lord Fairfax,314,18,339,22
-7/15/2020,Loudoun,537,23,687,35
+7/15/2020,Loudoun,538,23,688,35
 7/15/2020,Mount Rogers,248,15,259,21
 7/15/2020,New River,525,6,546,6
-7/15/2020,Norfolk,476,80,510,84
-7/15/2020,Out of State,657,33,670,34
-7/15/2020,Peninsula,835,89,904,90
+7/15/2020,Norfolk,475,80,509,84
+7/15/2020,Out of State,658,34,671,35
+7/15/2020,Peninsula,827,89,896,90
 7/15/2020,Piedmont,128,6,133,7
 7/15/2020,Pittsylvania-Danville,108,18,117,20
 7/15/2020,Portsmouth,305,44,316,45
-7/15/2020,Prince William,670,50,788,62
+7/15/2020,Prince William,671,50,789,62
 7/15/2020,Rappahannock,415,16,495,26
 7/15/2020,Rappahannock Rapidan,172,9,226,26
 7/15/2020,Richmond,442,30,505,36
-7/15/2020,Roanoke,993,53,"1,025",58
+7/15/2020,Roanoke,992,53,"1,024",58
 7/15/2020,Southside,126,6,133,6
 7/15/2020,Thomas Jefferson,420,26,482,27
-7/15/2020,Three Rivers,321,12,347,13
+7/15/2020,Three Rivers,322,12,348,13
 7/15/2020,Unknown,27,3,27,3
-7/15/2020,Virginia Beach,950,115,"1,041",123
+7/15/2020,Virginia Beach,951,115,"1,042",123
 7/15/2020,West Piedmont,125,9,131,10
-7/15/2020,Western Tidewater,354,35,363,36
+7/15/2020,Western Tidewater,355,35,364,36
 7/16/2020,Alexandria,238,12,283,14
-7/16/2020,Alleghany,455,13,467,16
-7/16/2020,Arlington,468,25,545,33
+7/16/2020,Alleghany,457,13,469,16
+7/16/2020,Arlington,469,25,546,33
 7/16/2020,Central Shenandoah,358,17,382,18
 7/16/2020,Central Virginia,496,20,512,20
-7/16/2020,Chesapeake,542,65,567,65
+7/16/2020,Chesapeake,543,66,568,66
 7/16/2020,Chesterfield,809,43,873,47
 7/16/2020,Chickahominy,167,12,178,14
 7/16/2020,Crater,215,21,235,22
 7/16/2020,Cumberland Plateau,78,7,82,7
-7/16/2020,Eastern Shore,45,5,48,5
-7/16/2020,Fairfax,"1,329",81,"1,708",109
-7/16/2020,Hampton,245,29,252,31
+7/16/2020,Eastern Shore,46,5,49,5
+7/16/2020,Fairfax,"1,328",81,"1,707",109
+7/16/2020,Hampton,247,29,254,31
 7/16/2020,Henrico,500,45,553,47
 7/16/2020,Lenowisco,148,8,166,10
 7/16/2020,Lord Fairfax,405,21,421,22
-7/16/2020,Loudoun,427,25,544,31
+7/16/2020,Loudoun,428,25,545,31
 7/16/2020,Mount Rogers,231,17,248,24
-7/16/2020,New River,493,1,502,2
+7/16/2020,New River,494,1,503,2
 7/16/2020,Norfolk,532,80,547,81
 7/16/2020,Out of State,507,34,522,36
-7/16/2020,Peninsula,742,80,786,80
+7/16/2020,Peninsula,741,80,785,80
 7/16/2020,Piedmont,122,2,128,2
 7/16/2020,Pittsylvania-Danville,75,14,80,15
 7/16/2020,Portsmouth,283,65,285,65
 7/16/2020,Prince William,781,93,919,107
 7/16/2020,Rappahannock,317,16,384,21
 7/16/2020,Rappahannock Rapidan,447,18,481,23
-7/16/2020,Richmond,257,23,295,24
+7/16/2020,Richmond,256,23,294,24
 7/16/2020,Roanoke,451,29,471,35
 7/16/2020,Southside,90,11,91,11
 7/16/2020,Thomas Jefferson,605,25,673,26
-7/16/2020,Three Rivers,245,8,254,8
+7/16/2020,Three Rivers,246,8,255,8
 7/16/2020,Unknown,99,3,101,3
-7/16/2020,Virginia Beach,"1,016",94,"1,070",101
+7/16/2020,Virginia Beach,"1,015",94,"1,069",101
 7/16/2020,West Piedmont,140,14,147,15
-7/16/2020,Western Tidewater,518,39,526,40
+7/16/2020,Western Tidewater,517,39,525,40
 7/17/2020,Alexandria,286,17,372,50
 7/17/2020,Alleghany,473,17,488,23
 7/17/2020,Arlington,408,15,545,57
 7/17/2020,Central Shenandoah,204,12,249,41
 7/17/2020,Central Virginia,483,17,497,21
 7/17/2020,Chesapeake,653,87,689,96
-7/17/2020,Chesterfield,867,58,994,100
-7/17/2020,Chickahominy,184,13,220,25
+7/17/2020,Chesterfield,868,59,995,101
+7/17/2020,Chickahominy,185,13,221,25
 7/17/2020,Crater,268,23,296,30
 7/17/2020,Cumberland Plateau,216,6,220,6
 7/17/2020,Eastern Shore,60,1,63,4
 7/17/2020,Fairfax,"1,759",107,"2,298",316
-7/17/2020,Hampton,379,37,390,40
-7/17/2020,Henrico,733,41,831,70
-7/17/2020,Lenowisco,92,4,106,12
+7/17/2020,Hampton,380,37,391,40
+7/17/2020,Henrico,732,40,830,69
+7/17/2020,Lenowisco,91,3,105,11
 7/17/2020,Lord Fairfax,697,27,732,36
 7/17/2020,Loudoun,732,54,878,116
 7/17/2020,Mount Rogers,462,28,472,32
 7/17/2020,New River,343,11,365,11
-7/17/2020,Norfolk,"1,067",137,"1,086",142
-7/17/2020,Out of State,488,21,502,27
-7/17/2020,Peninsula,"1,037",110,"1,099",142
+7/17/2020,Norfolk,"1,066",137,"1,085",142
+7/17/2020,Out of State,489,22,503,28
+7/17/2020,Peninsula,"1,035",110,"1,097",142
 7/17/2020,Piedmont,140,13,150,15
 7/17/2020,Pittsylvania-Danville,172,28,178,29
 7/17/2020,Portsmouth,302,62,314,66
@@ -4696,18 +4696,18 @@
 7/17/2020,Virginia Beach,"1,669",196,"1,742",208
 7/17/2020,West Piedmont,163,21,166,22
 7/17/2020,Western Tidewater,539,63,552,67
-7/18/2020,Alexandria,174,13,203,14
+7/18/2020,Alexandria,173,12,202,13
 7/18/2020,Alleghany,116,4,126,4
-7/18/2020,Arlington,320,11,395,18
+7/18/2020,Arlington,321,12,396,19
 7/18/2020,Central Shenandoah,248,10,265,14
 7/18/2020,Central Virginia,558,34,569,34
 7/18/2020,Chesapeake,536,83,557,85
-7/18/2020,Chesterfield,556,46,595,47
+7/18/2020,Chesterfield,557,46,596,47
 7/18/2020,Chickahominy,283,9,297,10
 7/18/2020,Crater,168,19,179,22
 7/18/2020,Cumberland Plateau,72,6,73,6
 7/18/2020,Eastern Shore,44,2,44,2
-7/18/2020,Fairfax,"1,190",77,"1,505",96
+7/18/2020,Fairfax,"1,191",77,"1,506",96
 7/18/2020,Hampton,219,22,224,22
 7/18/2020,Henrico,510,40,550,45
 7/18/2020,Lenowisco,148,4,155,5
@@ -4716,7 +4716,7 @@
 7/18/2020,Mount Rogers,311,29,320,29
 7/18/2020,New River,82,5,84,5
 7/18/2020,Norfolk,714,110,721,112
-7/18/2020,Out of State,429,14,431,14
+7/18/2020,Out of State,430,14,432,14
 7/18/2020,Peninsula,728,90,753,90
 7/18/2020,Piedmont,149,15,159,24
 7/18/2020,Pittsylvania-Danville,209,21,210,21
@@ -4739,12 +4739,12 @@
 7/19/2020,Central Shenandoah,625,13,626,13
 7/19/2020,Central Virginia,601,33,602,33
 7/19/2020,Chesapeake,494,47,505,49
-7/19/2020,Chesterfield,562,39,579,39
+7/19/2020,Chesterfield,561,39,578,39
 7/19/2020,Chickahominy,178,11,183,12
-7/19/2020,Crater,265,11,279,13
+7/19/2020,Crater,266,11,280,13
 7/19/2020,Cumberland Plateau,78,7,79,7
 7/19/2020,Eastern Shore,53,5,54,5
-7/19/2020,Fairfax,"1,551",88,"1,635",98
+7/19/2020,Fairfax,"1,552",88,"1,636",98
 7/19/2020,Hampton,227,22,227,22
 7/19/2020,Henrico,"1,283",190,"1,301",196
 7/19/2020,Lenowisco,109,8,111,10
@@ -4759,8 +4759,8 @@
 7/19/2020,Pittsylvania-Danville,163,13,163,13
 7/19/2020,Portsmouth,216,32,217,32
 7/19/2020,Prince William,543,40,571,42
-7/19/2020,Rappahannock,557,14,588,19
-7/19/2020,Rappahannock Rapidan,348,6,354,6
+7/19/2020,Rappahannock,558,14,589,19
+7/19/2020,Rappahannock Rapidan,347,6,353,6
 7/19/2020,Richmond,381,30,388,30
 7/19/2020,Roanoke,615,39,617,40
 7/19/2020,Southside,79,10,79,10
@@ -4772,40 +4772,40 @@
 7/19/2020,Western Tidewater,283,31,284,31
 7/20/2020,Alexandria,292,14,301,15
 7/20/2020,Alleghany,317,4,317,4
-7/20/2020,Arlington,335,11,342,11
+7/20/2020,Arlington,334,11,341,11
 7/20/2020,Central Shenandoah,456,18,459,18
 7/20/2020,Central Virginia,379,33,379,33
-7/20/2020,Chesapeake,506,71,516,72
+7/20/2020,Chesapeake,508,72,518,73
 7/20/2020,Chesterfield,503,30,513,37
 7/20/2020,Chickahominy,325,7,326,7
 7/20/2020,Crater,238,18,239,18
 7/20/2020,Cumberland Plateau,61,9,62,9
 7/20/2020,Eastern Shore,44,4,44,4
-7/20/2020,Fairfax,"1,716",100,"1,779",109
-7/20/2020,Hampton,267,21,268,21
+7/20/2020,Fairfax,"1,717",100,"1,780",109
+7/20/2020,Hampton,271,21,272,21
 7/20/2020,Henrico,908,39,911,40
 7/20/2020,Lenowisco,79,13,80,13
 7/20/2020,Lord Fairfax,335,17,337,17
 7/20/2020,Loudoun,543,25,565,36
-7/20/2020,Mount Rogers,163,21,180,34
+7/20/2020,Mount Rogers,164,22,181,35
 7/20/2020,New River,95,5,118,5
-7/20/2020,Norfolk,624,89,627,89
-7/20/2020,Out of State,509,23,513,23
-7/20/2020,Peninsula,911,65,912,65
-7/20/2020,Piedmont,280,11,281,11
+7/20/2020,Norfolk,623,89,626,89
+7/20/2020,Out of State,509,22,513,22
+7/20/2020,Peninsula,907,65,908,65
+7/20/2020,Piedmont,279,10,280,10
 7/20/2020,Pittsylvania-Danville,218,26,218,26
 7/20/2020,Portsmouth,250,53,250,53
-7/20/2020,Prince William,807,68,820,75
+7/20/2020,Prince William,808,68,821,75
 7/20/2020,Rappahannock,493,33,503,35
 7/20/2020,Rappahannock Rapidan,245,13,257,22
 7/20/2020,Richmond,451,21,456,23
 7/20/2020,Roanoke,479,14,525,14
 7/20/2020,Southside,133,7,133,7
-7/20/2020,Thomas Jefferson,530,39,542,41
-7/20/2020,Three Rivers,260,4,262,4
+7/20/2020,Thomas Jefferson,532,40,544,42
+7/20/2020,Three Rivers,258,4,260,4
 7/20/2020,Unknown,89,9,89,9
 7/20/2020,Virginia Beach,"1,037",113,"1,046",113
-7/20/2020,West Piedmont,123,10,125,11
+7/20/2020,West Piedmont,124,10,126,11
 7/20/2020,Western Tidewater,282,12,283,12
 7/21/2020,Alexandria,462,17,489,20
 7/21/2020,Alleghany,150,9,157,10
@@ -4814,12 +4814,12 @@
 7/21/2020,Central Virginia,461,22,467,23
 7/21/2020,Chesapeake,635,93,650,94
 7/21/2020,Chesterfield,650,49,695,56
-7/21/2020,Chickahominy,237,10,252,10
+7/21/2020,Chickahominy,238,11,253,11
 7/21/2020,Crater,271,30,275,30
 7/21/2020,Cumberland Plateau,73,4,79,4
 7/21/2020,Eastern Shore,72,4,73,4
-7/21/2020,Fairfax,"2,422",112,"2,643",133
-7/21/2020,Hampton,324,32,327,32
+7/21/2020,Fairfax,"2,423",112,"2,644",133
+7/21/2020,Hampton,326,32,329,32
 7/21/2020,Henrico,"1,024",39,"1,059",46
 7/21/2020,Lenowisco,109,6,111,6
 7/21/2020,Lord Fairfax,555,11,570,13
@@ -4828,44 +4828,44 @@
 7/21/2020,New River,160,2,177,3
 7/21/2020,Norfolk,906,94,920,97
 7/21/2020,Out of State,654,28,664,29
-7/21/2020,Peninsula,794,74,820,76
+7/21/2020,Peninsula,792,74,819,77
 7/21/2020,Piedmont,357,9,361,9
 7/21/2020,Pittsylvania-Danville,126,25,126,25
 7/21/2020,Portsmouth,395,58,401,60
-7/21/2020,Prince William,"1,071",75,"1,177",92
+7/21/2020,Prince William,"1,072",75,"1,178",92
 7/21/2020,Rappahannock,521,36,551,37
 7/21/2020,Rappahannock Rapidan,385,7,410,17
 7/21/2020,Richmond,457,29,472,33
 7/21/2020,Roanoke,569,36,574,36
 7/21/2020,Southside,128,13,137,13
 7/21/2020,Thomas Jefferson,"1,245",49,"1,272",49
-7/21/2020,Three Rivers,317,11,327,11
+7/21/2020,Three Rivers,317,10,327,10
 7/21/2020,Unknown,105,2,105,2
-7/21/2020,Virginia Beach,"1,206",167,"1,240",171
+7/21/2020,Virginia Beach,"1,205",167,"1,239",171
 7/21/2020,West Piedmont,65,25,66,25
 7/21/2020,Western Tidewater,384,42,392,42
-7/22/2020,Alexandria,222,9,272,11
+7/22/2020,Alexandria,224,9,274,11
 7/22/2020,Alleghany,255,21,275,27
-7/22/2020,Arlington,349,9,408,12
+7/22/2020,Arlington,350,9,409,12
 7/22/2020,Central Shenandoah,402,26,414,28
 7/22/2020,Central Virginia,266,21,280,21
-7/22/2020,Chesapeake,728,109,750,110
+7/22/2020,Chesapeake,728,110,750,111
 7/22/2020,Chesterfield,800,80,872,85
-7/22/2020,Chickahominy,353,5,377,5
+7/22/2020,Chickahominy,354,5,378,5
 7/22/2020,Crater,259,34,271,36
 7/22/2020,Cumberland Plateau,66,10,68,10
 7/22/2020,Eastern Shore,207,6,210,6
-7/22/2020,Fairfax,"1,414",67,"1,736",91
+7/22/2020,Fairfax,"1,415",67,"1,737",91
 7/22/2020,Hampton,266,28,282,28
 7/22/2020,Henrico,"1,598",52,"1,658",56
 7/22/2020,Lenowisco,106,10,114,10
 7/22/2020,Lord Fairfax,486,16,499,16
-7/22/2020,Loudoun,597,22,712,36
+7/22/2020,Loudoun,596,22,711,36
 7/22/2020,Mount Rogers,177,23,197,32
 7/22/2020,New River,400,4,415,4
 7/22/2020,Norfolk,657,84,677,86
 7/22/2020,Out of State,419,23,432,23
-7/22/2020,Peninsula,"1,011",64,"1,058",66
+7/22/2020,Peninsula,"1,012",64,"1,059",66
 7/22/2020,Piedmont,150,4,166,5
 7/22/2020,Pittsylvania-Danville,153,21,155,21
 7/22/2020,Portsmouth,367,62,371,62
@@ -4876,85 +4876,85 @@
 7/22/2020,Roanoke,757,27,770,31
 7/22/2020,Southside,155,9,172,11
 7/22/2020,Thomas Jefferson,624,58,646,60
-7/22/2020,Three Rivers,330,10,349,11
+7/22/2020,Three Rivers,329,10,348,11
 7/22/2020,Unknown,50,6,51,7
 7/22/2020,Virginia Beach,"1,151",131,"1,221",134
 7/22/2020,West Piedmont,234,23,241,24
 7/22/2020,Western Tidewater,481,63,498,64
 7/23/2020,Alexandria,268,14,307,15
-7/23/2020,Alleghany,184,11,198,16
+7/23/2020,Alleghany,198,11,212,16
 7/23/2020,Arlington,569,25,651,30
 7/23/2020,Central Shenandoah,206,17,219,17
 7/23/2020,Central Virginia,635,36,646,36
-7/23/2020,Chesapeake,657,80,680,81
-7/23/2020,Chesterfield,483,35,558,47
+7/23/2020,Chesapeake,659,80,682,81
+7/23/2020,Chesterfield,492,35,567,47
 7/23/2020,Chickahominy,210,13,231,13
-7/23/2020,Crater,271,29,281,29
+7/23/2020,Crater,272,29,282,29
 7/23/2020,Cumberland Plateau,41,3,48,3
 7/23/2020,Eastern Shore,58,3,58,3
-7/23/2020,Fairfax,"1,915",129,"2,246",165
+7/23/2020,Fairfax,"1,913",128,"2,244",164
 7/23/2020,Hampton,270,23,280,23
 7/23/2020,Henrico,644,63,710,70
 7/23/2020,Lenowisco,74,6,78,8
 7/23/2020,Lord Fairfax,284,17,303,19
-7/23/2020,Loudoun,618,49,717,68
-7/23/2020,Mount Rogers,206,37,219,42
-7/23/2020,New River,132,4,142,4
+7/23/2020,Loudoun,621,50,720,69
+7/23/2020,Mount Rogers,205,36,218,41
+7/23/2020,New River,132,4,143,4
 7/23/2020,Norfolk,844,104,857,104
-7/23/2020,Out of State,471,29,476,29
-7/23/2020,Peninsula,908,63,954,69
-7/23/2020,Piedmont,116,9,127,10
+7/23/2020,Out of State,471,30,476,30
+7/23/2020,Peninsula,912,63,958,69
+7/23/2020,Piedmont,118,9,129,10
 7/23/2020,Pittsylvania-Danville,154,5,158,5
 7/23/2020,Portsmouth,369,53,373,53
 7/23/2020,Prince William,844,63,950,77
-7/23/2020,Rappahannock,409,22,459,25
+7/23/2020,Rappahannock,408,22,458,25
 7/23/2020,Rappahannock Rapidan,138,6,161,10
-7/23/2020,Richmond,449,29,469,30
-7/23/2020,Roanoke,831,42,867,48
+7/23/2020,Richmond,452,29,472,30
+7/23/2020,Roanoke,832,42,868,48
 7/23/2020,Southside,179,13,186,13
 7/23/2020,Thomas Jefferson,415,37,438,39
-7/23/2020,Three Rivers,190,14,196,15
+7/23/2020,Three Rivers,188,14,194,15
 7/23/2020,Unknown,177,19,178,19
 7/23/2020,Virginia Beach,"1,048",129,"1,106",131
 7/23/2020,West Piedmont,157,27,160,28
 7/23/2020,Western Tidewater,392,40,397,41
 7/24/2020,Alexandria,404,30,451,32
-7/24/2020,Alleghany,286,4,295,7
+7/24/2020,Alleghany,285,4,294,7
 7/24/2020,Arlington,560,16,614,18
 7/24/2020,Central Shenandoah,603,14,618,16
-7/24/2020,Central Virginia,443,23,451,25
-7/24/2020,Chesapeake,596,76,626,77
+7/24/2020,Central Virginia,444,24,452,26
+7/24/2020,Chesapeake,597,76,627,77
 7/24/2020,Chesterfield,612,49,649,52
 7/24/2020,Chickahominy,315,9,329,9
-7/24/2020,Crater,278,29,291,29
-7/24/2020,Cumberland Plateau,163,13,176,13
+7/24/2020,Crater,276,29,289,29
+7/24/2020,Cumberland Plateau,162,12,175,12
 7/24/2020,Eastern Shore,62,5,62,5
-7/24/2020,Fairfax,"3,406",197,"3,651",225
+7/24/2020,Fairfax,"3,400",197,"3,645",225
 7/24/2020,Hampton,324,28,332,29
 7/24/2020,Henrico,760,64,814,72
-7/24/2020,Lenowisco,143,9,151,11
+7/24/2020,Lenowisco,144,10,152,12
 7/24/2020,Lord Fairfax,371,18,390,19
 7/24/2020,Loudoun,933,48,"1,000",56
-7/24/2020,Mount Rogers,326,27,336,30
+7/24/2020,Mount Rogers,328,29,338,32
 7/24/2020,New River,446,3,451,3
 7/24/2020,Norfolk,675,81,692,83
-7/24/2020,Out of State,681,38,685,38
-7/24/2020,Peninsula,982,64,"1,021",69
+7/24/2020,Out of State,676,35,680,35
+7/24/2020,Peninsula,990,64,"1,029",69
 7/24/2020,Piedmont,729,25,740,26
 7/24/2020,Pittsylvania-Danville,208,25,215,26
 7/24/2020,Portsmouth,296,52,301,52
 7/24/2020,Prince William,990,77,"1,072",90
 7/24/2020,Rappahannock,498,25,538,32
 7/24/2020,Rappahannock Rapidan,304,16,333,23
-7/24/2020,Richmond,577,33,597,37
-7/24/2020,Roanoke,418,42,422,43
+7/24/2020,Richmond,577,33,598,37
+7/24/2020,Roanoke,419,42,423,43
 7/24/2020,Southside,267,11,269,12
 7/24/2020,Thomas Jefferson,613,43,641,43
-7/24/2020,Three Rivers,247,13,266,13
-7/24/2020,Unknown,137,4,138,5
+7/24/2020,Three Rivers,243,13,262,13
+7/24/2020,Unknown,144,4,145,5
 7/24/2020,Virginia Beach,"1,751",131,"1,807",134
 7/24/2020,West Piedmont,175,18,178,19
-7/24/2020,Western Tidewater,622,67,630,67
+7/24/2020,Western Tidewater,623,67,631,67
 7/25/2020,Alexandria,270,15,297,18
 7/25/2020,Alleghany,163,8,174,9
 7/25/2020,Arlington,371,18,424,20
@@ -4966,16 +4966,16 @@
 7/25/2020,Crater,287,21,299,23
 7/25/2020,Cumberland Plateau,75,4,76,5
 7/25/2020,Eastern Shore,76,3,77,3
-7/25/2020,Fairfax,"1,781",78,"2,037",100
-7/25/2020,Hampton,297,26,302,26
+7/25/2020,Fairfax,"1,782",78,"2,038",100
+7/25/2020,Hampton,298,26,303,26
 7/25/2020,Henrico,704,46,749,49
 7/25/2020,Lenowisco,117,12,124,12
 7/25/2020,Lord Fairfax,293,16,309,17
 7/25/2020,Loudoun,686,44,752,53
-7/25/2020,Mount Rogers,307,18,313,19
+7/25/2020,Mount Rogers,306,17,312,18
 7/25/2020,New River,102,5,110,6
 7/25/2020,Norfolk,676,66,683,66
-7/25/2020,Out of State,343,19,343,19
+7/25/2020,Out of State,344,20,344,20
 7/25/2020,Peninsula,"1,217",49,"1,239",51
 7/25/2020,Piedmont,690,11,696,11
 7/25/2020,Pittsylvania-Danville,182,26,187,27
@@ -4997,34 +4997,34 @@
 7/26/2020,Arlington,411,19,418,19
 7/26/2020,Central Shenandoah,321,15,321,15
 7/26/2020,Central Virginia,752,64,752,64
-7/26/2020,Chesapeake,540,78,571,80
-7/26/2020,Chesterfield,696,46,722,49
-7/26/2020,Chickahominy,195,6,203,8
-7/26/2020,Crater,306,56,324,58
-7/26/2020,Cumberland Plateau,83,7,84,7
+7/26/2020,Chesapeake,541,79,572,81
+7/26/2020,Chesterfield,695,46,722,50
+7/26/2020,Chickahominy,194,6,202,8
+7/26/2020,Crater,307,56,325,58
+7/26/2020,Cumberland Plateau,82,6,83,6
 7/26/2020,Eastern Shore,81,4,82,4
-7/26/2020,Fairfax,"1,544",93,"1,619",101
+7/26/2020,Fairfax,"1,545",94,"1,620",102
 7/26/2020,Hampton,282,27,289,27
 7/26/2020,Henrico,555,40,567,41
 7/26/2020,Lenowisco,43,5,43,5
 7/26/2020,Lord Fairfax,242,8,244,9
-7/26/2020,Loudoun,418,27,443,38
+7/26/2020,Loudoun,421,27,446,38
 7/26/2020,Mount Rogers,152,12,153,13
 7/26/2020,New River,157,4,159,5
 7/26/2020,Norfolk,627,65,643,66
-7/26/2020,Out of State,309,15,309,15
+7/26/2020,Out of State,310,16,310,16
 7/26/2020,Peninsula,"1,087",55,"1,112",58
 7/26/2020,Piedmont,257,14,262,15
 7/26/2020,Pittsylvania-Danville,239,22,239,22
 7/26/2020,Portsmouth,272,54,275,54
-7/26/2020,Prince William,727,80,748,86
+7/26/2020,Prince William,728,80,749,86
 7/26/2020,Rappahannock,444,33,454,35
 7/26/2020,Rappahannock Rapidan,218,11,229,15
 7/26/2020,Richmond,306,24,311,25
 7/26/2020,Roanoke,555,39,557,41
 7/26/2020,Southside,240,8,240,8
 7/26/2020,Thomas Jefferson,432,19,438,19
-7/26/2020,Three Rivers,335,13,350,13
+7/26/2020,Three Rivers,336,13,351,13
 7/26/2020,Unknown,69,8,70,8
 7/26/2020,Virginia Beach,"1,019",114,"1,087",115
 7/26/2020,West Piedmont,186,23,187,23
@@ -5034,30 +5034,30 @@
 7/27/2020,Arlington,365,16,383,18
 7/27/2020,Central Shenandoah,425,17,428,17
 7/27/2020,Central Virginia,260,26,260,26
-7/27/2020,Chesapeake,343,49,344,49
-7/27/2020,Chesterfield,788,59,793,63
+7/27/2020,Chesapeake,344,50,345,50
+7/27/2020,Chesterfield,788,59,795,65
 7/27/2020,Chickahominy,134,5,135,5
 7/27/2020,Crater,232,17,232,17
 7/27/2020,Cumberland Plateau,85,13,85,13
 7/27/2020,Eastern Shore,30,1,31,1
-7/27/2020,Fairfax,"1,432",91,"1,477",100
+7/27/2020,Fairfax,"1,433",91,"1,478",100
 7/27/2020,Hampton,239,24,240,24
-7/27/2020,Henrico,635,30,638,30
-7/27/2020,Lenowisco,87,9,88,10
+7/27/2020,Henrico,634,30,637,30
+7/27/2020,Lenowisco,89,11,90,12
 7/27/2020,Lord Fairfax,781,12,792,14
 7/27/2020,Loudoun,409,23,424,31
-7/27/2020,Mount Rogers,226,20,228,22
+7/27/2020,Mount Rogers,225,19,227,21
 7/27/2020,New River,88,3,89,3
 7/27/2020,Norfolk,429,63,429,63
-7/27/2020,Out of State,456,26,460,26
-7/27/2020,Peninsula,653,38,657,38
+7/27/2020,Out of State,455,25,459,25
+7/27/2020,Peninsula,651,38,655,38
 7/27/2020,Piedmont,170,6,170,6
 7/27/2020,Pittsylvania-Danville,123,8,123,8
-7/27/2020,Portsmouth,224,48,224,48
-7/27/2020,Prince William,607,59,623,67
+7/27/2020,Portsmouth,225,48,225,48
+7/27/2020,Prince William,609,59,625,67
 7/27/2020,Rappahannock,482,32,484,32
 7/27/2020,Rappahannock Rapidan,294,15,302,21
-7/27/2020,Richmond,609,27,613,29
+7/27/2020,Richmond,610,27,614,29
 7/27/2020,Roanoke,715,17,731,20
 7/27/2020,Southside,114,8,115,8
 7/27/2020,Thomas Jefferson,379,24,385,24
@@ -5065,20 +5065,20 @@
 7/27/2020,Unknown,60,4,60,4
 7/27/2020,Virginia Beach,677,99,677,99
 7/27/2020,West Piedmont,106,13,111,16
-7/27/2020,Western Tidewater,301,35,301,35
+7/27/2020,Western Tidewater,302,35,302,35
 7/28/2020,Alexandria,195,10,217,11
 7/28/2020,Alleghany,221,7,227,8
 7/28/2020,Arlington,380,19,421,20
 7/28/2020,Central Shenandoah,426,24,432,24
 7/28/2020,Central Virginia,275,24,285,25
 7/28/2020,Chesapeake,368,42,382,42
-7/28/2020,Chesterfield,683,57,699,62
-7/28/2020,Chickahominy,213,8,216,9
-7/28/2020,Crater,380,29,382,30
+7/28/2020,Chesterfield,682,57,698,62
+7/28/2020,Chickahominy,212,8,215,9
+7/28/2020,Crater,382,29,386,32
 7/28/2020,Cumberland Plateau,177,9,178,10
 7/28/2020,Eastern Shore,82,3,82,3
-7/28/2020,Fairfax,"1,489",71,"1,648",88
-7/28/2020,Hampton,216,18,218,18
+7/28/2020,Fairfax,"1,492",71,"1,651",88
+7/28/2020,Hampton,214,18,216,18
 7/28/2020,Henrico,831,51,848,51
 7/28/2020,Lenowisco,148,9,149,10
 7/28/2020,Lord Fairfax,534,12,541,13
@@ -5086,14 +5086,14 @@
 7/28/2020,Mount Rogers,247,24,258,33
 7/28/2020,New River,323,5,324,5
 7/28/2020,Norfolk,702,77,710,77
-7/28/2020,Out of State,383,27,389,27
-7/28/2020,Peninsula,692,55,706,55
+7/28/2020,Out of State,382,27,388,27
+7/28/2020,Peninsula,694,55,708,55
 7/28/2020,Piedmont,146,5,148,6
 7/28/2020,Pittsylvania-Danville,110,17,110,17
 7/28/2020,Portsmouth,170,30,170,30
 7/28/2020,Prince William,682,42,721,52
-7/28/2020,Rappahannock,512,27,523,27
-7/28/2020,Rappahannock Rapidan,"1,174",8,"1,187",14
+7/28/2020,Rappahannock,511,27,522,27
+7/28/2020,Rappahannock Rapidan,"1,175",8,"1,188",14
 7/28/2020,Richmond,592,36,599,37
 7/28/2020,Roanoke,575,18,583,22
 7/28/2020,Southside,94,6,95,6
@@ -5102,29 +5102,29 @@
 7/28/2020,Unknown,35,3,36,3
 7/28/2020,Virginia Beach,874,78,884,79
 7/28/2020,West Piedmont,104,26,110,27
-7/28/2020,Western Tidewater,226,32,230,32
+7/28/2020,Western Tidewater,227,32,231,32
 7/29/2020,Alexandria,354,17,400,20
 7/29/2020,Alleghany,336,10,346,11
 7/29/2020,Arlington,499,23,586,34
 7/29/2020,Central Shenandoah,512,19,527,19
 7/29/2020,Central Virginia,"1,005",83,"1,015",85
 7/29/2020,Chesapeake,746,107,774,111
-7/29/2020,Chesterfield,908,90,"1,007",100
-7/29/2020,Chickahominy,405,9,428,9
-7/29/2020,Crater,327,27,340,28
+7/29/2020,Chesterfield,909,90,"1,008",100
+7/29/2020,Chickahominy,407,9,430,9
+7/29/2020,Crater,335,28,348,29
 7/29/2020,Cumberland Plateau,137,11,139,11
 7/29/2020,Eastern Shore,92,2,96,3
 7/29/2020,Fairfax,"1,730",81,"2,032",111
-7/29/2020,Hampton,286,24,291,25
-7/29/2020,Henrico,"1,316",68,"1,356",73
+7/29/2020,Hampton,287,24,292,25
+7/29/2020,Henrico,"1,317",69,"1,357",74
 7/29/2020,Lenowisco,178,19,191,20
 7/29/2020,Lord Fairfax,494,20,514,20
 7/29/2020,Loudoun,675,30,798,46
-7/29/2020,Mount Rogers,263,35,270,37
+7/29/2020,Mount Rogers,264,36,271,38
 7/29/2020,New River,197,11,205,11
 7/29/2020,Norfolk,859,94,870,94
-7/29/2020,Out of State,532,23,535,23
-7/29/2020,Peninsula,870,68,924,76
+7/29/2020,Out of State,531,22,534,22
+7/29/2020,Peninsula,870,69,924,77
 7/29/2020,Piedmont,456,16,457,16
 7/29/2020,Pittsylvania-Danville,305,40,307,40
 7/29/2020,Portsmouth,361,37,366,37
@@ -5135,36 +5135,36 @@
 7/29/2020,Roanoke,630,28,650,36
 7/29/2020,Southside,191,11,195,11
 7/29/2020,Thomas Jefferson,613,23,640,26
-7/29/2020,Three Rivers,261,7,273,8
+7/29/2020,Three Rivers,262,7,274,8
 7/29/2020,Unknown,31,5,31,5
-7/29/2020,Virginia Beach,"1,294",106,"1,347",111
+7/29/2020,Virginia Beach,"1,296",106,"1,349",111
 7/29/2020,West Piedmont,206,23,209,23
-7/29/2020,Western Tidewater,552,64,562,66
+7/29/2020,Western Tidewater,553,65,563,67
 7/30/2020,Alexandria,255,17,276,20
 7/30/2020,Alleghany,196,7,199,7
-7/30/2020,Arlington,454,17,498,20
+7/30/2020,Arlington,457,17,501,20
 7/30/2020,Central Shenandoah,347,17,353,17
 7/30/2020,Central Virginia,507,32,511,33
-7/30/2020,Chesapeake,576,77,600,78
-7/30/2020,Chesterfield,490,42,507,49
+7/30/2020,Chesapeake,579,77,603,78
+7/30/2020,Chesterfield,495,42,512,49
 7/30/2020,Chickahominy,244,9,247,9
-7/30/2020,Crater,229,29,232,30
-7/30/2020,Cumberland Plateau,53,5,54,6
+7/30/2020,Crater,232,29,235,30
+7/30/2020,Cumberland Plateau,55,6,56,7
 7/30/2020,Eastern Shore,79,4,80,4
-7/30/2020,Fairfax,"1,357",101,"1,527",117
-7/30/2020,Hampton,298,24,303,24
-7/30/2020,Henrico,516,29,531,30
+7/30/2020,Fairfax,"1,359",101,"1,530",117
+7/30/2020,Hampton,299,24,304,24
+7/30/2020,Henrico,516,29,532,30
 7/30/2020,Lenowisco,98,5,107,9
-7/30/2020,Lord Fairfax,268,7,277,8
-7/30/2020,Loudoun,566,27,623,32
-7/30/2020,Mount Rogers,235,24,249,33
+7/30/2020,Lord Fairfax,269,7,278,8
+7/30/2020,Loudoun,588,27,646,32
+7/30/2020,Mount Rogers,234,23,248,32
 7/30/2020,New River,215,9,220,11
-7/30/2020,Norfolk,643,72,657,75
-7/30/2020,Out of State,547,28,551,28
-7/30/2020,Peninsula,867,55,880,57
-7/30/2020,Piedmont,174,6,174,6
+7/30/2020,Norfolk,644,72,658,75
+7/30/2020,Out of State,546,27,550,27
+7/30/2020,Peninsula,870,55,883,57
+7/30/2020,Piedmont,176,6,176,6
 7/30/2020,Pittsylvania-Danville,177,16,179,17
-7/30/2020,Portsmouth,277,54,277,54
+7/30/2020,Portsmouth,278,54,278,54
 7/30/2020,Prince William,686,69,731,79
 7/30/2020,Rappahannock,466,39,487,40
 7/30/2020,Rappahannock Rapidan,219,12,234,18
@@ -5172,75 +5172,75 @@
 7/30/2020,Roanoke,445,18,449,20
 7/30/2020,Southside,268,12,269,13
 7/30/2020,Thomas Jefferson,609,63,620,65
-7/30/2020,Three Rivers,203,10,204,10
+7/30/2020,Three Rivers,206,10,207,10
 7/30/2020,Unknown,62,6,62,6
-7/30/2020,Virginia Beach,"1,304",112,"1,337",113
+7/30/2020,Virginia Beach,"1,311",112,"1,344",113
 7/30/2020,West Piedmont,127,32,127,32
-7/30/2020,Western Tidewater,404,49,406,50
-7/31/2020,Alexandria,233,9,257,12
-7/31/2020,Alleghany,203,13,215,14
-7/31/2020,Arlington,498,18,530,20
+7/30/2020,Western Tidewater,402,49,404,50
+7/31/2020,Alexandria,234,10,258,13
+7/31/2020,Alleghany,205,13,217,14
+7/31/2020,Arlington,498,18,531,20
 7/31/2020,Central Shenandoah,268,9,286,10
 7/31/2020,Central Virginia,"1,038",45,"1,047",46
-7/31/2020,Chesapeake,656,68,672,70
-7/31/2020,Chesterfield,"1,212",74,"1,263",81
+7/31/2020,Chesapeake,657,68,673,70
+7/31/2020,Chesterfield,"1,213",74,"1,264",81
 7/31/2020,Chickahominy,210,9,224,10
 7/31/2020,Crater,237,24,251,26
 7/31/2020,Cumberland Plateau,115,12,119,12
-7/31/2020,Eastern Shore,67,1,68,1
-7/31/2020,Fairfax,"1,871",103,"2,063",116
-7/31/2020,Hampton,245,31,249,32
-7/31/2020,Henrico,665,45,706,49
+7/31/2020,Eastern Shore,68,1,69,1
+7/31/2020,Fairfax,"1,874",103,"2,071",117
+7/31/2020,Hampton,247,31,251,32
+7/31/2020,Henrico,665,45,707,49
 7/31/2020,Lenowisco,198,23,205,24
 7/31/2020,Lord Fairfax,344,13,356,14
-7/31/2020,Loudoun,569,29,630,36
+7/31/2020,Loudoun,569,29,636,36
 7/31/2020,Mount Rogers,205,15,211,16
 7/31/2020,New River,243,14,248,14
-7/31/2020,Norfolk,622,67,627,67
-7/31/2020,Out of State,397,29,398,29
-7/31/2020,Peninsula,847,61,862,61
+7/31/2020,Norfolk,621,67,626,67
+7/31/2020,Out of State,398,29,399,29
+7/31/2020,Peninsula,841,61,856,61
 7/31/2020,Piedmont,122,8,126,8
 7/31/2020,Pittsylvania-Danville,274,33,276,33
-7/31/2020,Portsmouth,301,44,307,44
-7/31/2020,Prince William,829,70,874,80
-7/31/2020,Rappahannock,528,42,557,47
-7/31/2020,Rappahannock Rapidan,221,11,235,13
-7/31/2020,Richmond,367,26,394,32
+7/31/2020,Portsmouth,303,44,309,44
+7/31/2020,Prince William,831,72,876,82
+7/31/2020,Rappahannock,533,42,562,47
+7/31/2020,Rappahannock Rapidan,221,11,237,13
+7/31/2020,Richmond,366,26,393,32
 7/31/2020,Roanoke,213,3,260,3
 7/31/2020,Southside,210,122,213,122
 7/31/2020,Thomas Jefferson,511,19,533,19
-7/31/2020,Three Rivers,181,8,192,9
+7/31/2020,Three Rivers,183,8,194,9
 7/31/2020,Unknown,62,8,63,9
-7/31/2020,Virginia Beach,"1,180",120,"1,215",121
+7/31/2020,Virginia Beach,"1,179",120,"1,214",121
 7/31/2020,West Piedmont,117,18,119,18
 7/31/2020,Western Tidewater,521,71,527,71
-8/1/2020,Alexandria,240,11,263,13
+8/1/2020,Alexandria,242,11,265,13
 8/1/2020,Alleghany,119,1,131,2
-8/1/2020,Arlington,412,17,447,21
+8/1/2020,Arlington,414,18,449,22
 8/1/2020,Central Shenandoah,337,10,344,11
 8/1/2020,Central Virginia,571,26,579,26
 8/1/2020,Chesapeake,544,66,558,67
 8/1/2020,Chesterfield,578,48,626,56
-8/1/2020,Chickahominy,188,5,201,5
-8/1/2020,Crater,297,24,305,27
+8/1/2020,Chickahominy,189,5,202,5
+8/1/2020,Crater,298,25,306,28
 8/1/2020,Cumberland Plateau,83,6,85,6
-8/1/2020,Eastern Shore,61,3,63,3
-8/1/2020,Fairfax,"1,624",89,"1,793",107
+8/1/2020,Eastern Shore,75,3,77,3
+8/1/2020,Fairfax,"1,625",89,"1,794",107
 8/1/2020,Hampton,219,19,224,21
 8/1/2020,Henrico,786,46,816,49
 8/1/2020,Lenowisco,99,12,102,12
 8/1/2020,Lord Fairfax,398,16,408,17
-8/1/2020,Loudoun,496,27,557,36
-8/1/2020,Mount Rogers,273,14,279,16
+8/1/2020,Loudoun,503,27,564,36
+8/1/2020,Mount Rogers,274,15,280,17
 8/1/2020,New River,125,5,132,5
 8/1/2020,Norfolk,524,47,529,47
-8/1/2020,Out of State,275,23,278,23
+8/1/2020,Out of State,278,22,281,22
 8/1/2020,Peninsula,793,50,810,50
 8/1/2020,Piedmont,125,5,131,5
 8/1/2020,Pittsylvania-Danville,161,19,167,20
 8/1/2020,Portsmouth,357,49,366,51
-8/1/2020,Prince William,679,70,738,83
-8/1/2020,Rappahannock,433,24,463,28
+8/1/2020,Prince William,680,70,739,83
+8/1/2020,Rappahannock,439,25,469,29
 8/1/2020,Rappahannock Rapidan,183,12,202,21
 8/1/2020,Richmond,419,20,432,21
 8/1/2020,Roanoke,215,14,215,14
@@ -5249,375 +5249,449 @@
 8/1/2020,Three Rivers,154,7,163,8
 8/1/2020,Unknown,26,3,27,3
 8/1/2020,Virginia Beach,927,93,959,95
-8/1/2020,West Piedmont,92,17,95,18
+8/1/2020,West Piedmont,93,17,96,18
 8/1/2020,Western Tidewater,282,30,287,31
-8/2/2020,Alexandria,208,10,221,10
-8/2/2020,Alleghany,156,6,161,6
+8/2/2020,Alexandria,209,11,222,11
+8/2/2020,Alleghany,188,6,193,6
 8/2/2020,Arlington,486,22,510,23
-8/2/2020,Central Shenandoah,216,8,226,9
+8/2/2020,Central Shenandoah,222,8,234,9
 8/2/2020,Central Virginia,602,57,615,57
-8/2/2020,Chesapeake,407,54,419,55
+8/2/2020,Chesapeake,408,54,420,55
 8/2/2020,Chesterfield,315,35,351,37
 8/2/2020,Chickahominy,124,8,127,9
-8/2/2020,Crater,178,8,188,10
-8/2/2020,Cumberland Plateau,64,2,64,2
+8/2/2020,Crater,185,8,196,11
+8/2/2020,Cumberland Plateau,72,3,72,3
 8/2/2020,Eastern Shore,84,4,85,4
 8/2/2020,Fairfax,"1,419",83,"1,548",98
-8/2/2020,Hampton,227,19,228,19
-8/2/2020,Henrico,361,32,378,34
-8/2/2020,Lenowisco,128,11,132,13
-8/2/2020,Lord Fairfax,295,5,301,5
-8/2/2020,Loudoun,350,28,388,33
+8/2/2020,Hampton,228,19,229,19
+8/2/2020,Henrico,362,32,379,34
+8/2/2020,Lenowisco,129,12,133,14
+8/2/2020,Lord Fairfax,366,7,372,7
+8/2/2020,Loudoun,362,28,400,33
 8/2/2020,Mount Rogers,199,17,203,17
-8/2/2020,New River,86,6,95,7
+8/2/2020,New River,100,6,109,7
 8/2/2020,Norfolk,602,68,609,68
-8/2/2020,Out of State,301,30,302,30
-8/2/2020,Peninsula,583,49,599,50
+8/2/2020,Out of State,300,29,301,29
+8/2/2020,Peninsula,584,49,601,50
 8/2/2020,Piedmont,73,3,77,3
 8/2/2020,Pittsylvania-Danville,210,14,213,14
 8/2/2020,Portsmouth,362,45,363,45
-8/2/2020,Prince William,744,70,773,73
-8/2/2020,Rappahannock,389,29,410,30
-8/2/2020,Rappahannock Rapidan,200,9,209,12
-8/2/2020,Richmond,171,15,182,16
-8/2/2020,Roanoke,89,6,91,6
-8/2/2020,Southside,76,6,76,6
-8/2/2020,Thomas Jefferson,353,24,362,24
-8/2/2020,Three Rivers,188,12,192,12
+8/2/2020,Prince William,745,70,774,73
+8/2/2020,Rappahannock,419,31,440,32
+8/2/2020,Rappahannock Rapidan,201,9,210,12
+8/2/2020,Richmond,173,16,185,17
+8/2/2020,Roanoke,331,15,354,17
+8/2/2020,Southside,75,6,75,6
+8/2/2020,Thomas Jefferson,355,24,364,24
+8/2/2020,Three Rivers,191,12,195,12
 8/2/2020,Unknown,125,4,126,4
 8/2/2020,Virginia Beach,"1,088",82,"1,111",84
-8/2/2020,West Piedmont,151,18,154,18
-8/2/2020,Western Tidewater,350,56,357,57
-8/3/2020,Alexandria,234,9,240,9
+8/2/2020,West Piedmont,155,18,160,19
+8/2/2020,Western Tidewater,349,56,356,57
+8/3/2020,Alexandria,236,9,242,9
 8/3/2020,Alleghany,117,6,117,6
 8/3/2020,Arlington,362,17,371,18
-8/3/2020,Central Shenandoah,220,14,220,14
+8/3/2020,Central Shenandoah,231,14,233,14
 8/3/2020,Central Virginia,214,16,214,16
 8/3/2020,Chesapeake,334,42,334,42
-8/3/2020,Chesterfield,722,56,725,59
+8/3/2020,Chesterfield,726,56,729,59
 8/3/2020,Chickahominy,239,12,240,13
-8/3/2020,Crater,235,22,235,22
-8/3/2020,Cumberland Plateau,120,26,120,26
-8/3/2020,Eastern Shore,40,0,41,0
-8/3/2020,Fairfax,"1,740",63,"1,778",68
+8/3/2020,Crater,254,22,254,22
+8/3/2020,Cumberland Plateau,121,27,121,27
+8/3/2020,Eastern Shore,40,0,42,0
+8/3/2020,Fairfax,"1,748",64,"1,786",69
 8/3/2020,Hampton,162,18,163,18
 8/3/2020,Henrico,895,54,902,61
-8/3/2020,Lenowisco,27,3,28,3
-8/3/2020,Lord Fairfax,222,6,223,6
-8/3/2020,Loudoun,538,23,546,25
-8/3/2020,Mount Rogers,152,16,160,23
-8/3/2020,New River,142,8,142,8
+8/3/2020,Lenowisco,34,5,35,5
+8/3/2020,Lord Fairfax,252,6,253,6
+8/3/2020,Loudoun,540,24,548,26
+8/3/2020,Mount Rogers,154,16,162,23
+8/3/2020,New River,152,8,152,8
 8/3/2020,Norfolk,547,53,547,53
-8/3/2020,Out of State,363,28,366,29
-8/3/2020,Peninsula,481,25,481,25
-8/3/2020,Piedmont,68,3,69,4
+8/3/2020,Out of State,362,27,365,28
+8/3/2020,Peninsula,482,25,482,25
+8/3/2020,Piedmont,67,3,68,4
 8/3/2020,Pittsylvania-Danville,184,78,184,78
 8/3/2020,Portsmouth,212,28,212,28
-8/3/2020,Prince William,764,77,771,79
-8/3/2020,Rappahannock,428,35,429,35
-8/3/2020,Rappahannock Rapidan,144,10,145,10
-8/3/2020,Richmond,440,36,440,36
-8/3/2020,Roanoke,75,5,75,5
+8/3/2020,Prince William,773,77,780,79
+8/3/2020,Rappahannock,460,36,461,36
+8/3/2020,Rappahannock Rapidan,143,10,144,10
+8/3/2020,Richmond,441,37,441,37
+8/3/2020,Roanoke,383,8,385,8
 8/3/2020,Southside,52,5,52,5
-8/3/2020,Thomas Jefferson,373,18,380,18
-8/3/2020,Three Rivers,191,6,192,6
+8/3/2020,Thomas Jefferson,375,18,382,18
+8/3/2020,Three Rivers,195,6,196,6
 8/3/2020,Unknown,168,3,171,6
-8/3/2020,Virginia Beach,799,54,801,56
+8/3/2020,Virginia Beach,801,54,803,56
 8/3/2020,West Piedmont,107,8,107,8
 8/3/2020,Western Tidewater,255,45,255,45
-8/4/2020,Alexandria,144,14,156,14
-8/4/2020,Alleghany,128,6,128,6
-8/4/2020,Arlington,190,6,203,7
-8/4/2020,Central Shenandoah,200,9,200,9
+8/4/2020,Alexandria,145,14,158,14
+8/4/2020,Alleghany,153,7,153,7
+8/4/2020,Arlington,199,6,212,7
+8/4/2020,Central Shenandoah,201,9,201,9
 8/4/2020,Central Virginia,460,21,462,21
-8/4/2020,Chesapeake,215,24,220,24
-8/4/2020,Chesterfield,531,45,546,52
+8/4/2020,Chesapeake,249,27,254,27
+8/4/2020,Chesterfield,537,45,554,52
 8/4/2020,Chickahominy,140,9,146,10
-8/4/2020,Crater,207,28,207,28
-8/4/2020,Cumberland Plateau,73,8,74,8
-8/4/2020,Eastern Shore,38,2,38,2
-8/4/2020,Fairfax,998,63,"1,088",78
-8/4/2020,Hampton,116,10,120,10
-8/4/2020,Henrico,450,39,461,41
-8/4/2020,Lenowisco,81,7,84,7
-8/4/2020,Lord Fairfax,446,3,456,4
-8/4/2020,Loudoun,301,24,348,30
-8/4/2020,Mount Rogers,90,9,97,14
-8/4/2020,New River,272,4,272,4
-8/4/2020,Norfolk,312,39,315,39
-8/4/2020,Out of State,459,17,460,17
-8/4/2020,Peninsula,264,32,268,33
-8/4/2020,Piedmont,100,8,100,8
+8/4/2020,Crater,213,28,213,28
+8/4/2020,Cumberland Plateau,72,7,73,7
+8/4/2020,Eastern Shore,39,3,39,3
+8/4/2020,Fairfax,"1,005",63,"1,098",78
+8/4/2020,Hampton,129,10,133,10
+8/4/2020,Henrico,456,39,468,41
+8/4/2020,Lenowisco,82,7,85,7
+8/4/2020,Lord Fairfax,499,6,510,7
+8/4/2020,Loudoun,303,24,350,30
+8/4/2020,Mount Rogers,92,10,99,15
+8/4/2020,New River,277,4,277,4
+8/4/2020,Norfolk,318,39,321,39
+8/4/2020,Out of State,459,18,460,18
+8/4/2020,Peninsula,275,32,279,33
+8/4/2020,Piedmont,100,8,101,8
 8/4/2020,Pittsylvania-Danville,131,21,131,21
-8/4/2020,Portsmouth,82,10,82,10
-8/4/2020,Prince William,402,35,438,50
-8/4/2020,Rappahannock,290,15,305,17
-8/4/2020,Rappahannock Rapidan,176,8,191,14
-8/4/2020,Richmond,256,18,261,22
-8/4/2020,Roanoke,61,5,61,5
+8/4/2020,Portsmouth,84,10,84,10
+8/4/2020,Prince William,411,38,447,53
+8/4/2020,Rappahannock,309,15,324,17
+8/4/2020,Rappahannock Rapidan,177,9,192,15
+8/4/2020,Richmond,256,18,262,22
+8/4/2020,Roanoke,217,13,218,13
 8/4/2020,Southside,107,8,108,8
-8/4/2020,Thomas Jefferson,441,17,447,17
+8/4/2020,Thomas Jefferson,443,18,449,18
 8/4/2020,Three Rivers,122,7,123,8
-8/4/2020,Unknown,19,0,20,0
-8/4/2020,Virginia Beach,726,36,738,38
+8/4/2020,Unknown,88,0,89,0
+8/4/2020,Virginia Beach,761,40,773,42
 8/4/2020,West Piedmont,114,19,116,21
 8/4/2020,Western Tidewater,124,22,126,22
-8/5/2020,Alexandria,256,12,301,22
-8/5/2020,Alleghany,173,5,182,5
-8/5/2020,Arlington,355,15,418,18
-8/5/2020,Central Shenandoah,552,16,566,17
-8/5/2020,Central Virginia,618,66,629,66
-8/5/2020,Chesapeake,420,48,454,52
-8/5/2020,Chesterfield,597,33,627,35
-8/5/2020,Chickahominy,227,10,239,12
-8/5/2020,Crater,242,28,254,30
+8/5/2020,Alexandria,258,12,303,22
+8/5/2020,Alleghany,176,5,185,5
+8/5/2020,Arlington,356,15,420,18
+8/5/2020,Central Shenandoah,646,17,660,18
+8/5/2020,Central Virginia,619,66,631,66
+8/5/2020,Chesapeake,520,60,557,65
+8/5/2020,Chesterfield,602,33,633,35
+8/5/2020,Chickahominy,227,10,240,13
+8/5/2020,Crater,242,28,260,33
 8/5/2020,Cumberland Plateau,58,4,64,5
 8/5/2020,Eastern Shore,88,4,92,4
-8/5/2020,Fairfax,"1,492",68,"1,757",94
-8/5/2020,Hampton,260,24,267,25
-8/5/2020,Henrico,675,44,703,52
-8/5/2020,Lenowisco,130,25,138,27
-8/5/2020,Lord Fairfax,309,11,326,13
-8/5/2020,Loudoun,545,18,617,22
-8/5/2020,Mount Rogers,236,37,252,46
-8/5/2020,New River,334,7,339,7
+8/5/2020,Fairfax,"1,501",69,"1,767",95
+8/5/2020,Hampton,260,24,269,26
+8/5/2020,Henrico,710,44,738,52
+8/5/2020,Lenowisco,131,25,139,27
+8/5/2020,Lord Fairfax,371,14,389,17
+8/5/2020,Loudoun,546,18,618,22
+8/5/2020,Mount Rogers,236,37,253,46
+8/5/2020,New River,336,7,341,7
 8/5/2020,Norfolk,833,75,849,77
-8/5/2020,Out of State,498,30,504,30
-8/5/2020,Peninsula,676,65,700,66
-8/5/2020,Piedmont,159,9,166,9
+8/5/2020,Out of State,497,30,503,30
+8/5/2020,Peninsula,672,65,697,66
+8/5/2020,Piedmont,159,9,190,27
 8/5/2020,Pittsylvania-Danville,276,32,279,32
 8/5/2020,Portsmouth,471,31,474,32
-8/5/2020,Prince William,740,60,819,80
-8/5/2020,Rappahannock,554,27,579,31
-8/5/2020,Rappahannock Rapidan,231,16,261,23
-8/5/2020,Richmond,343,21,361,21
-8/5/2020,Roanoke,116,6,120,7
-8/5/2020,Southside,256,13,260,15
-8/5/2020,Thomas Jefferson,556,35,587,37
-8/5/2020,Three Rivers,240,22,248,22
-8/5/2020,Unknown,135,3,136,4
-8/5/2020,Virginia Beach,"1,002",91,"1,046",96
-8/5/2020,West Piedmont,201,44,205,46
-8/5/2020,Western Tidewater,548,57,552,57
-8/6/2020,Alexandria,264,17,293,17
-8/6/2020,Alleghany,154,10,161,13
-8/6/2020,Arlington,415,24,460,27
-8/6/2020,Central Shenandoah,265,14,274,14
-8/6/2020,Central Virginia,998,50,"1,003",50
-8/6/2020,Chesapeake,274,39,283,39
-8/6/2020,Chesterfield,631,56,672,64
-8/6/2020,Chickahominy,141,12,151,12
-8/6/2020,Crater,449,42,452,42
-8/6/2020,Cumberland Plateau,112,6,115,7
-8/6/2020,Eastern Shore,55,3,55,3
-8/6/2020,Fairfax,"1,777",88,"1,948",112
-8/6/2020,Hampton,208,28,210,28
-8/6/2020,Henrico,500,39,514,44
-8/6/2020,Lenowisco,65,13,66,13
-8/6/2020,Lord Fairfax,171,8,185,11
-8/6/2020,Loudoun,565,36,627,40
-8/6/2020,Mount Rogers,226,26,242,29
-8/6/2020,New River,134,10,134,10
-8/6/2020,Norfolk,446,52,459,55
-8/6/2020,Out of State,504,24,509,27
-8/6/2020,Peninsula,582,37,588,37
-8/6/2020,Piedmont,184,12,190,12
+8/5/2020,Prince William,745,62,825,82
+8/5/2020,Rappahannock,554,27,582,31
+8/5/2020,Rappahannock Rapidan,232,16,262,23
+8/5/2020,Richmond,345,21,363,21
+8/5/2020,Roanoke,210,8,226,9
+8/5/2020,Southside,255,13,267,15
+8/5/2020,Thomas Jefferson,558,35,589,37
+8/5/2020,Three Rivers,246,22,255,22
+8/5/2020,Unknown,136,3,137,4
+8/5/2020,Virginia Beach,"1,007",91,"1,051",96
+8/5/2020,West Piedmont,204,45,208,47
+8/5/2020,Western Tidewater,548,57,554,57
+8/6/2020,Alexandria,269,18,298,18
+8/6/2020,Alleghany,232,10,239,13
+8/6/2020,Arlington,470,24,514,27
+8/6/2020,Central Shenandoah,342,15,351,15
+8/6/2020,Central Virginia,"1,000",50,"1,005",50
+8/6/2020,Chesapeake,490,80,501,80
+8/6/2020,Chesterfield,644,61,685,69
+8/6/2020,Chickahominy,142,12,152,12
+8/6/2020,Crater,451,43,454,43
+8/6/2020,Cumberland Plateau,127,9,130,10
+8/6/2020,Eastern Shore,63,3,63,3
+8/6/2020,Fairfax,"1,824",92,"1,997",116
+8/6/2020,Hampton,217,29,219,29
+8/6/2020,Henrico,516,39,531,45
+8/6/2020,Lenowisco,67,14,68,14
+8/6/2020,Lord Fairfax,287,10,301,13
+8/6/2020,Loudoun,590,37,652,41
+8/6/2020,Mount Rogers,227,27,243,30
+8/6/2020,New River,168,11,168,11
+8/6/2020,Norfolk,452,52,465,55
+8/6/2020,Out of State,503,23,508,26
+8/6/2020,Peninsula,611,37,617,37
+8/6/2020,Piedmont,190,17,196,17
 8/6/2020,Pittsylvania-Danville,356,15,361,16
-8/6/2020,Portsmouth,178,37,178,37
-8/6/2020,Prince William,760,80,819,87
-8/6/2020,Rappahannock,346,36,379,39
-8/6/2020,Rappahannock Rapidan,197,14,228,28
-8/6/2020,Richmond,332,27,343,28
-8/6/2020,Roanoke,80,6,83,7
-8/6/2020,Southside,263,9,267,10
-8/6/2020,Thomas Jefferson,501,30,518,31
+8/6/2020,Portsmouth,179,37,179,37
+8/6/2020,Prince William,814,84,874,92
+8/6/2020,Rappahannock,394,48,427,51
+8/6/2020,Rappahannock Rapidan,199,14,231,28
+8/6/2020,Richmond,333,27,344,28
+8/6/2020,Roanoke,475,13,488,15
+8/6/2020,Southside,264,9,268,10
+8/6/2020,Thomas Jefferson,508,32,525,33
 8/6/2020,Three Rivers,205,17,209,17
-8/6/2020,Unknown,13,2,14,3
-8/6/2020,Virginia Beach,703,84,734,86
-8/6/2020,West Piedmont,183,20,188,21
-8/6/2020,Western Tidewater,351,42,354,42
-8/7/2020,Alexandria,246,14,286,17
-8/7/2020,Alleghany,293,8,304,10
-8/7/2020,Arlington,377,17,419,20
-8/7/2020,Central Shenandoah,399,23,409,24
-8/7/2020,Central Virginia,634,68,645,69
-8/7/2020,Chesapeake,417,28,433,30
-8/7/2020,Chesterfield,728,97,770,104
-8/7/2020,Chickahominy,195,7,214,7
-8/7/2020,Crater,294,33,299,33
+8/6/2020,Unknown,17,4,18,5
+8/6/2020,Virginia Beach,718,87,749,89
+8/6/2020,West Piedmont,197,20,202,21
+8/6/2020,Western Tidewater,353,42,356,42
+8/7/2020,Alexandria,251,15,291,18
+8/7/2020,Alleghany,307,8,318,10
+8/7/2020,Arlington,388,17,430,20
+8/7/2020,Central Shenandoah,613,27,625,28
+8/7/2020,Central Virginia,635,68,645,68
+8/7/2020,Chesapeake,550,53,566,55
+8/7/2020,Chesterfield,751,101,795,109
+8/7/2020,Chickahominy,196,8,215,8
+8/7/2020,Crater,308,33,313,33
 8/7/2020,Cumberland Plateau,135,7,136,7
 8/7/2020,Eastern Shore,83,8,85,8
-8/7/2020,Fairfax,"1,358",79,"1,537",92
-8/7/2020,Hampton,181,12,184,12
-8/7/2020,Henrico,726,63,749,67
-8/7/2020,Lenowisco,140,22,147,22
-8/7/2020,Lord Fairfax,186,21,201,23
-8/7/2020,Loudoun,536,27,568,29
-8/7/2020,Mount Rogers,231,24,240,25
-8/7/2020,New River,134,5,158,23
-8/7/2020,Norfolk,501,48,515,51
-8/7/2020,Out of State,363,21,375,21
-8/7/2020,Peninsula,555,34,566,35
-8/7/2020,Piedmont,166,8,172,11
-8/7/2020,Pittsylvania-Danville,246,29,252,29
-8/7/2020,Portsmouth,240,28,243,28
-8/7/2020,Prince William,670,54,713,59
-8/7/2020,Rappahannock,402,21,427,23
-8/7/2020,Rappahannock Rapidan,243,13,259,17
-8/7/2020,Richmond,599,80,611,80
-8/7/2020,Roanoke,348,18,352,19
-8/7/2020,Southside,105,8,111,11
-8/7/2020,Thomas Jefferson,661,35,677,37
-8/7/2020,Three Rivers,146,21,152,21
-8/7/2020,Unknown,30,4,30,4
-8/7/2020,Virginia Beach,808,84,836,87
-8/7/2020,West Piedmont,211,30,217,32
-8/7/2020,Western Tidewater,334,45,343,45
-8/8/2020,Alexandria,321,14,342,15
-8/8/2020,Alleghany,134,3,140,4
-8/8/2020,Arlington,422,12,459,13
-8/8/2020,Central Shenandoah,268,6,277,6
-8/8/2020,Central Virginia,485,37,488,39
-8/8/2020,Chesapeake,435,49,450,50
-8/8/2020,Chesterfield,646,33,677,33
+8/7/2020,Fairfax,"1,372",80,"1,552",94
+8/7/2020,Hampton,181,14,184,14
+8/7/2020,Henrico,737,73,763,79
+8/7/2020,Lenowisco,144,22,151,22
+8/7/2020,Lord Fairfax,313,25,328,27
+8/7/2020,Loudoun,542,27,576,29
+8/7/2020,Mount Rogers,237,27,247,29
+8/7/2020,New River,157,8,181,26
+8/7/2020,Norfolk,502,49,516,52
+8/7/2020,Out of State,362,20,374,20
+8/7/2020,Peninsula,560,36,571,37
+8/7/2020,Piedmont,165,8,172,11
+8/7/2020,Pittsylvania-Danville,247,30,253,30
+8/7/2020,Portsmouth,241,29,244,29
+8/7/2020,Prince William,679,54,722,59
+8/7/2020,Rappahannock,418,26,443,28
+8/7/2020,Rappahannock Rapidan,248,15,264,19
+8/7/2020,Richmond,601,82,614,83
+8/7/2020,Roanoke,919,55,929,56
+8/7/2020,Southside,106,8,112,11
+8/7/2020,Thomas Jefferson,671,38,687,40
+8/7/2020,Three Rivers,151,21,159,22
+8/7/2020,Unknown,71,5,71,5
+8/7/2020,Virginia Beach,809,84,837,87
+8/7/2020,West Piedmont,231,39,240,44
+8/7/2020,Western Tidewater,337,47,346,47
+8/8/2020,Alexandria,323,14,344,15
+8/8/2020,Alleghany,139,3,145,4
+8/8/2020,Arlington,425,12,462,13
+8/8/2020,Central Shenandoah,305,8,316,8
+8/8/2020,Central Virginia,486,38,489,40
+8/8/2020,Chesapeake,517,64,538,66
+8/8/2020,Chesterfield,647,34,678,34
 8/8/2020,Chickahominy,242,9,262,9
-8/8/2020,Crater,290,29,297,30
-8/8/2020,Cumberland Plateau,76,16,79,16
+8/8/2020,Crater,292,30,300,32
+8/8/2020,Cumberland Plateau,77,16,80,16
 8/8/2020,Eastern Shore,70,2,72,2
-8/8/2020,Fairfax,"2,168",91,"2,329",105
-8/8/2020,Hampton,258,19,266,19
-8/8/2020,Henrico,691,43,720,47
-8/8/2020,Lenowisco,97,15,102,17
-8/8/2020,Lord Fairfax,298,4,312,4
-8/8/2020,Loudoun,662,33,705,39
-8/8/2020,Mount Rogers,248,16,251,16
-8/8/2020,New River,102,5,109,6
-8/8/2020,Norfolk,472,35,482,36
-8/8/2020,Out of State,265,15,265,15
-8/8/2020,Peninsula,"1,184",31,"1,204",34
+8/8/2020,Fairfax,"2,170",92,"2,330",106
+8/8/2020,Hampton,265,23,273,23
+8/8/2020,Henrico,692,44,722,48
+8/8/2020,Lenowisco,113,18,118,20
+8/8/2020,Lord Fairfax,370,6,384,6
+8/8/2020,Loudoun,662,33,706,39
+8/8/2020,Mount Rogers,250,16,253,16
+8/8/2020,New River,113,5,120,6
+8/8/2020,Norfolk,481,36,491,37
+8/8/2020,Out of State,267,15,267,15
+8/8/2020,Peninsula,"1,191",32,"1,211",35
 8/8/2020,Piedmont,103,2,106,2
-8/8/2020,Pittsylvania-Danville,185,15,187,15
-8/8/2020,Portsmouth,380,44,383,45
-8/8/2020,Prince William,695,48,734,53
-8/8/2020,Rappahannock,472,32,500,37
-8/8/2020,Rappahannock Rapidan,180,9,191,11
-8/8/2020,Richmond,469,36,489,36
-8/8/2020,Roanoke,113,11,118,11
-8/8/2020,Southside,137,9,139,10
-8/8/2020,Thomas Jefferson,348,13,360,14
+8/8/2020,Pittsylvania-Danville,186,16,188,16
+8/8/2020,Portsmouth,385,46,388,47
+8/8/2020,Prince William,697,48,736,53
+8/8/2020,Rappahannock,473,32,501,37
+8/8/2020,Rappahannock Rapidan,181,10,192,12
+8/8/2020,Richmond,471,38,491,38
+8/8/2020,Roanoke,589,19,601,19
+8/8/2020,Southside,136,9,138,10
+8/8/2020,Thomas Jefferson,350,13,362,14
 8/8/2020,Three Rivers,267,20,276,22
 8/8/2020,Unknown,23,3,23,3
-8/8/2020,Virginia Beach,818,71,840,74
-8/8/2020,West Piedmont,163,18,164,18
-8/8/2020,Western Tidewater,397,31,403,31
-8/9/2020,Alexandria,231,14,244,14
-8/9/2020,Alleghany,86,1,86,1
-8/9/2020,Arlington,290,17,313,18
-8/9/2020,Central Shenandoah,318,13,328,13
-8/9/2020,Central Virginia,390,38,397,38
-8/9/2020,Chesapeake,288,38,302,44
-8/9/2020,Chesterfield,572,43,609,46
-8/9/2020,Chickahominy,173,10,188,10
+8/8/2020,Virginia Beach,846,75,868,78
+8/8/2020,West Piedmont,167,20,168,20
+8/8/2020,Western Tidewater,401,33,407,33
+8/9/2020,Alexandria,238,14,250,14
+8/9/2020,Alleghany,88,2,88,2
+8/9/2020,Arlington,315,18,338,19
+8/9/2020,Central Shenandoah,372,15,384,16
+8/9/2020,Central Virginia,391,38,398,38
+8/9/2020,Chesapeake,421,59,435,65
+8/9/2020,Chesterfield,586,44,624,48
+8/9/2020,Chickahominy,176,10,192,11
 8/9/2020,Crater,295,47,301,48
-8/9/2020,Cumberland Plateau,61,6,65,6
+8/9/2020,Cumberland Plateau,73,8,77,8
 8/9/2020,Eastern Shore,48,3,48,3
-8/9/2020,Fairfax,"1,258",79,"1,341",91
-8/9/2020,Hampton,282,20,287,20
-8/9/2020,Henrico,473,42,503,44
-8/9/2020,Lenowisco,136,22,137,22
-8/9/2020,Lord Fairfax,149,12,156,12
-8/9/2020,Loudoun,444,34,489,40
-8/9/2020,Mount Rogers,209,13,213,13
-8/9/2020,New River,58,2,59,2
-8/9/2020,Norfolk,508,35,510,35
-8/9/2020,Out of State,289,7,289,7
-8/9/2020,Peninsula,521,32,530,33
+8/9/2020,Fairfax,"1,363",84,"1,445",96
+8/9/2020,Hampton,292,24,297,24
+8/9/2020,Henrico,491,43,521,46
+8/9/2020,Lenowisco,170,24,171,24
+8/9/2020,Lord Fairfax,347,16,354,16
+8/9/2020,Loudoun,482,36,528,42
+8/9/2020,Mount Rogers,208,11,212,11
+8/9/2020,New River,90,2,91,2
+8/9/2020,Norfolk,540,38,542,38
+8/9/2020,Out of State,296,9,296,9
+8/9/2020,Peninsula,550,43,559,44
 8/9/2020,Piedmont,140,8,146,8
-8/9/2020,Pittsylvania-Danville,154,11,154,11
-8/9/2020,Portsmouth,271,32,272,32
-8/9/2020,Prince William,428,32,462,37
-8/9/2020,Rappahannock,339,27,374,31
-8/9/2020,Rappahannock Rapidan,188,7,201,12
-8/9/2020,Richmond,225,25,237,28
-8/9/2020,Roanoke,40,9,41,9
-8/9/2020,Southside,125,10,128,10
-8/9/2020,Thomas Jefferson,304,25,310,25
-8/9/2020,Three Rivers,189,9,198,9
+8/9/2020,Pittsylvania-Danville,155,12,155,12
+8/9/2020,Portsmouth,280,36,281,36
+8/9/2020,Prince William,470,34,504,39
+8/9/2020,Rappahannock,382,31,417,35
+8/9/2020,Rappahannock Rapidan,192,7,205,12
+8/9/2020,Richmond,231,25,243,28
+8/9/2020,Roanoke,987,56,998,56
+8/9/2020,Southside,126,10,129,10
+8/9/2020,Thomas Jefferson,307,25,313,25
+8/9/2020,Three Rivers,192,9,201,9
 8/9/2020,Unknown,350,1,350,1
-8/9/2020,Virginia Beach,816,43,837,43
-8/9/2020,West Piedmont,110,12,114,13
-8/9/2020,Western Tidewater,262,29,268,29
-8/10/2020,Alexandria,76,1,77,1
-8/10/2020,Alleghany,51,1,51,1
-8/10/2020,Arlington,165,8,167,8
-8/10/2020,Central Shenandoah,160,4,160,4
-8/10/2020,Central Virginia,104,7,105,7
-8/10/2020,Chesapeake,152,21,153,21
-8/10/2020,Chesterfield,217,6,218,7
-8/10/2020,Chickahominy,107,2,108,3
-8/10/2020,Crater,124,7,124,7
-8/10/2020,Cumberland Plateau,18,2,18,2
-8/10/2020,Eastern Shore,25,2,25,2
-8/10/2020,Fairfax,531,21,540,22
-8/10/2020,Hampton,94,7,97,7
-8/10/2020,Henrico,281,13,281,13
-8/10/2020,Lenowisco,53,7,54,7
-8/10/2020,Lord Fairfax,118,1,118,1
-8/10/2020,Loudoun,183,9,188,9
-8/10/2020,Mount Rogers,78,6,79,6
-8/10/2020,New River,67,1,68,1
-8/10/2020,Norfolk,161,9,161,9
-8/10/2020,Out of State,116,3,117,4
-8/10/2020,Peninsula,204,6,205,6
-8/10/2020,Piedmont,34,3,35,3
-8/10/2020,Pittsylvania-Danville,41,7,41,7
-8/10/2020,Portsmouth,217,25,217,25
-8/10/2020,Prince William,305,16,311,16
-8/10/2020,Rappahannock,208,12,212,12
-8/10/2020,Rappahannock Rapidan,123,4,123,4
-8/10/2020,Richmond,136,6,136,6
-8/10/2020,Roanoke,27,3,29,3
-8/10/2020,Southside,18,2,18,2
-8/10/2020,Thomas Jefferson,228,11,230,12
-8/10/2020,Three Rivers,71,7,71,7
-8/10/2020,Unknown,9,0,9,0
-8/10/2020,Virginia Beach,317,29,319,29
-8/10/2020,West Piedmont,33,4,33,4
-8/10/2020,Western Tidewater,215,33,215,33
-Not Reported,Alexandria,130,31,159,36
+8/9/2020,Virginia Beach,876,44,897,44
+8/9/2020,West Piedmont,121,14,126,15
+8/9/2020,Western Tidewater,277,39,283,39
+8/10/2020,Alexandria,176,11,180,14
+8/10/2020,Alleghany,56,1,56,1
+8/10/2020,Arlington,319,19,322,19
+8/10/2020,Central Shenandoah,426,11,426,11
+8/10/2020,Central Virginia,112,8,113,8
+8/10/2020,Chesapeake,357,39,359,39
+8/10/2020,Chesterfield,419,22,421,24
+8/10/2020,Chickahominy,176,5,178,7
+8/10/2020,Crater,230,13,230,13
+8/10/2020,Cumberland Plateau,30,3,30,3
+8/10/2020,Eastern Shore,44,5,44,5
+8/10/2020,Fairfax,"1,402",55,"1,428",66
+8/10/2020,Hampton,172,14,175,14
+8/10/2020,Henrico,512,26,514,28
+8/10/2020,Lenowisco,93,13,95,13
+8/10/2020,Lord Fairfax,294,3,295,3
+8/10/2020,Loudoun,404,17,414,19
+8/10/2020,Mount Rogers,102,10,111,18
+8/10/2020,New River,109,18,110,18
+8/10/2020,Norfolk,314,30,314,30
+8/10/2020,Out of State,310,15,316,17
+8/10/2020,Peninsula,360,20,361,20
+8/10/2020,Piedmont,70,5,71,5
+8/10/2020,Pittsylvania-Danville,47,8,47,8
+8/10/2020,Portsmouth,291,36,291,36
+8/10/2020,Prince William,594,41,612,50
+8/10/2020,Rappahannock,372,24,377,25
+8/10/2020,Rappahannock Rapidan,195,6,195,6
+8/10/2020,Richmond,297,16,297,16
+8/10/2020,Roanoke,542,12,545,12
+8/10/2020,Southside,66,5,66,5
+8/10/2020,Thomas Jefferson,395,19,398,20
+8/10/2020,Three Rivers,153,12,153,12
+8/10/2020,Unknown,12,0,13,1
+8/10/2020,Virginia Beach,656,53,658,53
+8/10/2020,West Piedmont,41,8,41,8
+8/10/2020,Western Tidewater,294,44,294,44
+8/11/2020,Alexandria,263,5,285,7
+8/11/2020,Alleghany,71,1,74,1
+8/11/2020,Arlington,342,16,369,16
+8/11/2020,Central Shenandoah,390,21,398,21
+8/11/2020,Central Virginia,269,17,271,17
+8/11/2020,Chesapeake,487,60,506,63
+8/11/2020,Chesterfield,469,26,490,34
+8/11/2020,Chickahominy,196,8,203,11
+8/11/2020,Crater,252,15,253,15
+8/11/2020,Cumberland Plateau,64,1,64,1
+8/11/2020,Eastern Shore,31,3,31,3
+8/11/2020,Fairfax,"1,473",88,"1,616",103
+8/11/2020,Hampton,167,9,172,9
+8/11/2020,Henrico,485,21,503,22
+8/11/2020,Lenowisco,75,21,77,21
+8/11/2020,Lord Fairfax,345,10,351,10
+8/11/2020,Loudoun,440,28,482,31
+8/11/2020,Mount Rogers,91,11,106,23
+8/11/2020,New River,81,3,81,3
+8/11/2020,Norfolk,388,23,397,24
+8/11/2020,Out of State,306,15,309,15
+8/11/2020,Peninsula,324,19,332,19
+8/11/2020,Piedmont,83,5,83,5
+8/11/2020,Pittsylvania-Danville,86,13,86,13
+8/11/2020,Portsmouth,149,11,150,11
+8/11/2020,Prince William,576,50,622,58
+8/11/2020,Rappahannock,342,28,363,30
+8/11/2020,Rappahannock Rapidan,179,8,194,10
+8/11/2020,Richmond,299,17,303,18
+8/11/2020,Roanoke,547,22,559,23
+8/11/2020,Southside,93,5,94,5
+8/11/2020,Thomas Jefferson,400,35,410,35
+8/11/2020,Three Rivers,143,9,146,9
+8/11/2020,Unknown,9,2,9,2
+8/11/2020,Virginia Beach,690,34,710,36
+8/11/2020,West Piedmont,86,23,86,23
+8/11/2020,Western Tidewater,130,20,135,20
+8/12/2020,Alexandria,111,6,146,10
+8/12/2020,Alleghany,205,9,221,11
+8/12/2020,Arlington,243,23,276,29
+8/12/2020,Central Shenandoah,204,9,211,11
+8/12/2020,Central Virginia,864,77,875,78
+8/12/2020,Chesapeake,287,32,307,33
+8/12/2020,Chesterfield,468,22,512,26
+8/12/2020,Chickahominy,127,10,145,13
+8/12/2020,Crater,215,16,225,17
+8/12/2020,Cumberland Plateau,23,1,26,2
+8/12/2020,Eastern Shore,41,1,42,1
+8/12/2020,Fairfax,871,69,"1,082",83
+8/12/2020,Hampton,214,15,219,15
+8/12/2020,Henrico,478,27,519,29
+8/12/2020,Lenowisco,69,11,75,13
+8/12/2020,Lord Fairfax,183,13,191,15
+8/12/2020,Loudoun,226,11,289,17
+8/12/2020,Mount Rogers,131,13,133,13
+8/12/2020,New River,191,2,200,2
+8/12/2020,Norfolk,525,43,538,46
+8/12/2020,Out of State,194,9,194,9
+8/12/2020,Peninsula,562,33,575,34
+8/12/2020,Piedmont,83,4,94,4
+8/12/2020,Pittsylvania-Danville,238,28,245,28
+8/12/2020,Portsmouth,309,36,312,36
+8/12/2020,Prince William,533,47,593,51
+8/12/2020,Rappahannock,311,28,332,32
+8/12/2020,Rappahannock Rapidan,146,4,167,6
+8/12/2020,Richmond,235,16,252,18
+8/12/2020,Roanoke,130,11,135,11
+8/12/2020,Southside,106,6,110,6
+8/12/2020,Thomas Jefferson,469,29,483,30
+8/12/2020,Three Rivers,212,14,223,14
+8/12/2020,Unknown,12,1,12,1
+8/12/2020,Virginia Beach,595,36,634,42
+8/12/2020,West Piedmont,195,29,197,29
+8/12/2020,Western Tidewater,356,29,358,30
+Not Reported,Alexandria,134,31,165,36
 Not Reported,Alleghany,6,2,6,2
-Not Reported,Arlington,475,64,538,80
-Not Reported,Central Shenandoah,207,56,210,56
-Not Reported,Central Virginia,111,5,117,6
-Not Reported,Chesapeake,108,3,109,3
-Not Reported,Chesterfield,483,229,512,244
-Not Reported,Chickahominy,120,78,121,79
-Not Reported,Crater,202,80,210,87
+Not Reported,Arlington,479,63,544,79
+Not Reported,Central Shenandoah,209,56,212,56
+Not Reported,Central Virginia,119,6,125,7
+Not Reported,Chesapeake,115,5,116,5
+Not Reported,Chesterfield,490,228,519,243
+Not Reported,Chickahominy,122,78,124,80
+Not Reported,Crater,221,81,229,88
 Not Reported,Cumberland Plateau,15,15,15,15
 Not Reported,Eastern Shore,256,0,256,0
-Not Reported,Fairfax,"1,172",337,"1,435",380
-Not Reported,Hampton,74,8,75,9
-Not Reported,Henrico,559,324,574,331
-Not Reported,Lenowisco,4,4,6,6
-Not Reported,Lord Fairfax,83,21,118,24
-Not Reported,Loudoun,844,118,"1,084",154
+Not Reported,Fairfax,"1,193",337,"1,466",381
+Not Reported,Hampton,75,8,76,9
+Not Reported,Henrico,578,323,593,330
+Not Reported,Lenowisco,4,4,9,9
+Not Reported,Lord Fairfax,83,21,120,24
+Not Reported,Loudoun,863,119,"1,110",155
 Not Reported,Mount Rogers,13,8,16,10
 Not Reported,New River,9,3,10,3
-Not Reported,Norfolk,74,4,75,4
-Not Reported,Out of State,21,14,36,28
-Not Reported,Peninsula,286,43,288,43
-Not Reported,Piedmont,67,33,70,35
-Not Reported,Pittsylvania-Danville,15,6,15,6
-Not Reported,Portsmouth,35,5,35,5
-Not Reported,Prince William,968,241,"1,047",276
-Not Reported,Rappahannock,263,139,288,156
-Not Reported,Rappahannock Rapidan,133,39,181,50
-Not Reported,Richmond,325,182,336,189
+Not Reported,Norfolk,80,4,81,4
+Not Reported,Out of State,22,15,37,29
+Not Reported,Peninsula,290,44,292,44
+Not Reported,Piedmont,72,33,75,35
+Not Reported,Pittsylvania-Danville,17,7,17,7
+Not Reported,Portsmouth,37,5,37,5
+Not Reported,Prince William,"1,029",242,"1,110",277
+Not Reported,Rappahannock,337,142,362,159
+Not Reported,Rappahannock Rapidan,136,39,184,50
+Not Reported,Richmond,331,183,343,191
 Not Reported,Roanoke,5,4,5,4
-Not Reported,Southside,44,21,44,21
-Not Reported,Thomas Jefferson,84,20,92,22
-Not Reported,Three Rivers,85,45,94,48
-Not Reported,Unknown,343,112,350,116
-Not Reported,Virginia Beach,316,13,327,15
-Not Reported,West Piedmont,35,31,35,31
-Not Reported,Western Tidewater,76,3,76,3
+Not Reported,Southside,46,21,46,21
+Not Reported,Thomas Jefferson,88,20,96,22
+Not Reported,Three Rivers,87,45,96,48
+Not Reported,Unknown,367,115,374,119
+Not Reported,Virginia Beach,341,13,352,15
+Not Reported,West Piedmont,37,33,37,33
+Not Reported,Western Tidewater,78,3,78,3
